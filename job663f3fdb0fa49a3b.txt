@@ -1,0 +1,12 @@
+job_id : 663f3fdb0fa49a3b         
+businesscategory_name : 
+title : IT Support Technician
+start_date : 
+description: primary responsibilities Install, maintain, test, analyze, and provide problem resolution for all local and remote hardware and software elements, including but not limited to PCs, laptops, printers, and periperals Diagnose, evaluate, prioritize, and escalate requests for assistance from users experiencing problems with hardware, software, windows operating system, networking and other computer related issues Take ownership of technical issues and work with other groups to resolve more advanced issues when necessary Define and document problem resolution steps Provide weekly status report to manager Provide cell phone and Telephony support to end-users Monitor, Maintain, Test, Analyze, and provide problem resolution to server hardware and software. Installs equipment, software and peripherals for employees, performing or ensuring proper installation of cable, operating systems, and appropriate software. Assists end users with software and hardware training/instruction as needed. Provides computer/telephone orientation to new Support Services staff members. Maintains positive attitude and high regard for customer service Responsible for documenting systems for configuration management. Required Skills Superior customer service focus. Excellent verbal, written and interpersonal communication skills. Required Experience 
+company_name : Precision Castparts Corp. CenturyLink Technology Solutions Milestone Technologies Mactus Group
+city : Kent, WA Tukwila, WA Seattle, WA Redmond, WA
+jobtype : 
+positions : 
+tags : 
+state : 
+      

@@ -1,0 +1,12 @@
+job_id : 6802ff2a2dc6026e         
+businesscategory_name : 
+title : Systems Administrator
+start_date : 
+description: We are looking for a Systems Administrator to become a core member of the technical operations team at Arena Solutions, and help us build the next generation of product lifecycle management software. Our customers are discrete manufacturers who have put our applications, infrastructure, and reputation at the heart of their business. We believe the best way to meet our customers’ needs is to own and operate the infrastructure behind our software-as-a-service. While wearing your Linux systems administrator hat, you will continually improve how we provide secure, reliable infrastructure to our customers and to our software engineering team. While wearing your site administrator hat, you will work both on-site and remotely to maintain the physical hardware installed in our San Jose and Phoenix datacenters. Responsibilities: On-site and remote support for Arena’s datacenters, with expected bi-monthly travel to San Jose and quarterly travel to Phoenix Provide on-call support for production and development infrastructure Maintain server inventory and documentation to facilitate use of datacenter-provided remote hands Access administration for VPN and development infrastructure Evaluate and prototype new infrastructure technologies for inclusion within Arena’s software and hardware stack Maintain production VMware servers and services Skills and Experience: Technical Bachelor's degree or IT certification or equivalent experience Linux/UNIX operating system management Excellent hardware and software troubleshooting skills Datacenter operations with focus on high availability 
+company_name : Arena Solutions Calance US NVIDIA Corporation Nexant
+city : Foster City, CA Fremont, CA Santa Clara, CA San Mateo, CA
+jobtype : 
+positions : 
+tags : 
+state : 
+      

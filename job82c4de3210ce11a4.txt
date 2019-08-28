@@ -1,0 +1,12 @@
+job_id : 82c4de3210ce11a4         
+businesscategory_name : 
+title : PC Support Specialist
+start_date : 
+description: Position Summary: Configure, maintain, troubleshoot, and repair computer hardware, including desktops, laptops, handhelds, and associated peripherals. Major Duties and Responsibilities: 1. Responsible for inventorying driver handhelds and printers. 2. Troubleshooting and resolution driver handheld and printer issues. Downloading route information, connecting printers, and issuing spare equipment. 3. Handles the shipping and tracking of damaged driver printers and handhelds for repair for SED East and West. Expedites the repair time as necessary to keep spares in stock. 4. Handles redistribution of repaired equipment in a timely manner. 5. Assists in Daily Controls and balancing sales files between all relative systems. 6. Verifies all closing and backup procedures completed successfully from the previous day. 7. Serves as the primary back-up to the IT Night Operator. 8. Verifies all AOE reports and files are accurate and successfully submitted in the required timeframe. 9. Maintains a detailed billing summary of all IT invoices and P.O.’s. 10. Performs equipment imaging for PC and Laptops. 11. Complete & distributes daily/monthly/annual reports as needed. 12. Assists with monthly Market Share Report. 13. Assists in maintaining database hardware and software applications. 14. Set-up of AB Marketing and Budnet accounts. 15. Maintain Data Quality Standards as required for Budnet. 16. Schedule and handle the setup of meeting requests that involve IS/IT assistance. 17. And other duties as assigned. Minimum Qualifications: 1. High School Diploma required, some college preferred. 2. A+ Certification or 3 years experience. 3. Troubleshoot basic computer issues. 4. Knowledge of Microsoft Office Excel, Word, and Powerpoint. 5. Knowledge of database development and configuration preferred. 6. VIP and Customer service experience preferred. 
+company_name : Silver Eagle Distributors Siemens Building Technologies Cook Compression Enterprise Products Partners
+city : Houston, TX Houston, TX Houston, TX Houston, TX
+jobtype : 
+positions : 
+tags : 
+state : 
+      

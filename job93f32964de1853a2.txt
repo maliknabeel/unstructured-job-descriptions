@@ -1,0 +1,12 @@
+job_id : 93f32964de1853a2         
+businesscategory_name : 
+title : IT Specialist
+start_date : 
+description: This position is located within the Office of Information and Technology (OI&T) in Amarillo, Texas. Incumbent is responsible for scheduling and directing all Help Desk operations and desktop support. The major duties and responsibilities include: Knowledge of a wide variety of applications, operating systems, protocols, and equipment used in customer organizations. Skill in applying methods and practices for troubleshooting, recovering, adjusting, modifying, and improving IT systems. Provide technical support to customers who need advice, assistance, and training in applying hardware and software systems. Planning and delivery of customer support services, including installation, configuration, troubleshooting, customer assistance, and training. Identify and breaks down problems using structured problem resolution approaches and works with network specialists, applications developers, and security specialist to prevent recurring problems. Ability to troubleshoot complex problems and provide support to minimize interruptions Plans and carries out projects Integrates and coordinates the work of others Ability to use judgment in adapting guides and precedents for applications Work Schedule : Monday - Friday, 08:00am - 04:30pm Position Description #: Information Technology Specialist #051630 Bargaining Unit : This is a Bargaining Unit position. FLSA : Exempt Relocation Expenses : Relocations Expenses are NOT authorized. Recruitment Incentives : Recruitment Incentives are NOT authorized. 
+company_name : Department of Veterans Affairs Universal Health Services Best Buy Xcel Energy
+city : Amarillo, TX Amarillo, TX Amarillo, TX Amarillo, TX
+jobtype : 
+positions : 
+tags : 
+state : 
+      

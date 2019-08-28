@@ -1,0 +1,12 @@
+job_id : 4151dd9c031bae9e         
+businesscategory_name : 
+title : IT Desktop Support Specialist
+start_date : 
+description: Person needed to provide end-user computing support across all CBC business lines. Additionally this position will be responsible for the installation, support, and upkeep of IT systems such as backups, security tools, inventory management, communication systems, and help desk ticketing. This individual will carry out the problem resolution process from initial call to resolution; configure, deploy, and maintain PC and tablet systems running various operating systems (Microsoft, Apple, Mobile, etc.); will also assist with Cellular and Mobile account management. Install, maintain, and upgrade computer software and hardware; assist with operation and maintenance of IT backup systems. Create and maintain software and hardware inventory tracking systems as well as configuration documentation for deployed systems. Will ensure licensing is maintained properly for deployed systems through consistent documentation of license use. Create and execute purchase orders and ensure assignment for PC systems, accessories, and software; assist in the creation and maintenance of procedures and training documentation. Assist with Cellular and Mobile account management; review communication billing and submit for payment. This position requires participation in a 24x7 on-call schedule. The successful candidate must have a minimum of four or more years’ experience in desktop support, and two or more years in IT account management (Active Directory, Email). One or more years’ of experience in Broadcast supporting systems (Traffic, Newsroom – preferred) and IT communications support is required. Must be proficient with Active Directory, Microsoft Office, Windows XP, Windows 7, Virus and Malware defense, security best practices, and Linux support. This person must be able to lift PC and server systems as appropriate. Exemplary communications and customer services skills are necessary. A college degree or equivalent work experience and a pre-employment drug screening are required. 
+company_name : Capitol Broadcasting Company Hazen and Sawyer Lockheed Martin Animal and Plant Health Inspection Service
+city : Raleigh, NC Raleigh, NC Raleigh, NC Raleigh, NC
+jobtype : 
+positions : 
+tags : 
+state : 
+      

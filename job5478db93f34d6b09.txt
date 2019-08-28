@@ -1,0 +1,12 @@
+job_id : 5478db93f34d6b09         
+businesscategory_name : 
+title : IT Help Desk Technician (contractor)
+start_date : 
+description: Position Description As an IT Help Desk Technician at the corporate headquarters of ON Semiconductor, you will interact with employees globally to support their help desk needs; and you will also collaborate with global teams. In addition, you will do the following: • Respond within set SLAs to requests for IT technical assistance via phone, ticket, and in person. • Diagnose and resolve IT issues (both hardware and software). • Follow set procedures when to escalate problems to the appropriate team or person. •Maintain a wide variety of client hardware (Desktops, Laptops, Tablets, etc.) •Work both within a team and as an individual to minimize user downtime. • Be able to calmly and clearly communicate with the customer to resolve their questions. • Work with other IT groups on larger project related tasks. • Have a solid knowledge of windows 7, office and other related applications. • Shift will mostly be 40 hours M-F but the occasional off hour support may come up. Position Requirements Associates degree in IT field or equivalent. Personality requirements and skills: • Very good communication and customer related skills. • Analytical skills. • MS Windows OS. • MS Office applications. • MS Active Directory. • SCCM familiarity. • Previous experience in Help Desk or other IT certifications is an advantage. Marketing Message We are an Equal Opportunity Employer and do not discriminate against applicants due to race, ethnicity, gender, veteran status, or on the basis of disability or any other federal, state or local protected class. Relocation Approved: No Employee Referral Expense: No Work Hours Per Week: Travel: 0 Required Education: High School Diploma/GED Required Experience: 2-5 years 
+company_name : ON Semiconductor Acosta Sales & Marketing ON Semiconductor Idaho Central Credit Union
+city : Pocatello, ID Pocatello, ID Pocatello, ID Chubbuck, ID
+jobtype : 
+positions : 
+tags : 
+state : 
+      

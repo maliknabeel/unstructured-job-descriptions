@@ -1,0 +1,12 @@
+job_id : 5506d92ad338ad24         
+businesscategory_name : 
+title : Desktop Technician
+start_date : 
+description: Position: Desktop Technician Austin, TX Contract Mon-Fri Regular Hours 2+ years minimum experience in hands on Desktop Support performing basic troubleshooting of PC's, Printer support, Microsoft Office, Windows, email, etc. for end users. Imaging for Dell Laptops/Desktops Windows XP, 7 support Hardware/Software troubleshooting Large environment experience Diagnose and troubleshoot technical issues remotely Strong customer service skills Experience supporting executive level customers Understands and applies principles, concepts, theories, technologies and standards of professional field. Good working knowledge and demonstrated ability utilizing systems, tools and procedures to accomplish job. Recognizes and acts on inconsistencies in data or results and escalates unusual problems. Develops solutions to a variety of problems of moderate complexity. Applies discretion and independent judgment to identify when deviation from standard practice is required without prior approval. Establishes working relationships with others outside area of expertise. Applies knowledge and understanding of customer needs and other internal/external contacts. Confers with senior staff to manage and resolve more complex issues. CompTIA A+ and/or Microsoft Certified Professional preferred Understands basic concepts of IT Operations and industry requirements. 2+ years minimum experience in hands on Desktop Support performing basic troubleshooting of PC's, Printer support, Microsoft Office, Windows, email, etc. for end users. Imaging for Dell Laptops/Desktops Windows XP, 7 support Hardware/Software troubleshooting 
+company_name : Amherst Apex Systems Inc Data Foundry, Inc.
+city : Austin, TX Austin, TX Austin, TX Austin, TX
+jobtype : 
+positions : 
+tags : 
+state : 
+      

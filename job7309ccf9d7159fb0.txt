@@ -1,0 +1,12 @@
+job_id : 7309ccf9d7159fb0         
+businesscategory_name : 
+title : IT SUPPORT TECHNICIAN
+start_date : 
+description: The IT Support Technician role is to provide a single point of contact for end users to receive support and maintenance within the organization's desktop computing environment. Please note that this position is based in Birmingham, Alabama. Duties: Installing, diagnosing, repairing, maintaining, and upgrading all PC hardware, software, and equipment to ensure optimal workstation performance. Will also troubleshoot problem areas (in person, by telephone, or via e-mail) in a timely and accurate fashion, and provide end-user assistance where required. Qualifications: Minimum 2 years experience supporting desktop or server technologies. Advanced knowledge of Windows OS environments, particularly Windows 7, Windows 8, and Windows Server. Strong knowledge of Active Directory administration and networking concepts. Working knowledge of Microsoft Office suite. Experience with Amazon Web Services virtual environments a big plus Strong technical aptitude, with ability to independently research and learn new technologies. Superior user relationship skills, positive attitude, and excellent telephone communication skills. Ability to project grace under pressure while working under tight deadline environments and juggling multiple projects. Strong analytical and communication abilities (including basic technical writing skills). Ability to self-manage and work independently when required. Able to work occasional nights or weekends as needed to support users during special events (must be available 24/7 for telephone support). Technical certifications (MCTS, MCITP, MCDST, MOS, CCNA, A+, Network+, etc.) a plus. Experience with Microsoft SQL Server a plus. Familiarity with the Macintosh OS X a plus. 
+company_name : Sports Endeavors SuccessEHS SuccessEHS Vitera Healthcare Solutions
+city : Birmingham, AL Birmingham, AL Birmingham, AL Birmingham, AL
+jobtype : 
+positions : 
+tags : 
+state : 
+      

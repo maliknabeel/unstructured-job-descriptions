@@ -1,0 +1,12 @@
+job_id : 270ccf8392c2fccc         
+businesscategory_name : 
+title : Information Technology Tech
+start_date : 
+description: I Agree " if you can perform these duties. Located in Lake Jackson, Texas Buc-ee's is seeking a qualified canidate to fill the position of Retail Support Technician at the home office in Lake Jackson, Texas. Essential Functions/Duties Include, but are not limited to: • Respond to requests for technical assistance in person, via phone and electronically • Track and route problems and requests and document resolutions • Equipment refreshes, roll-outs of software upgrades, patches and hot-fixes • Perform administrative tasks that include tracking hardware and software assets, opening and closing tickets and documenting solutions • Review helpdesk ticket queue continuously to assure proper prioritization and, if needed, to request assistance for complex problems • PCI compliance on essential systems • Maintain Certifications allowing internal support and installations • Prepare desktops and laptops for users, such as imaging and configuring, analyzing and repairing Minimum Requirements Include, but are not limited to: • Troubleshooting experience • 4+ Years in IT or Retail support • Knowledge of Radiant, NCR, or Verifone POS is a plus • Ability to work outside normal business hours • Familiar with technical terms and processes • An understanding of Networking basics • Ability to put processes into technical documents • Triage multiple workloads and deadlines • Work as part of a wide team consisting of multiple departments • Expect to get dirty and willing to travel onsite to resolve issues • Keeping Current with latest technology and software applications • On call 24/7 every 3rd week Abilities Required Include, but are not limited to: • Networking/Routing, Technical Writing/Reading, • Strong verbal communication skills for phone support to non-technical end users To apply go to www.buc-ees.com and click on “Jobs”. Buc-ee’s is an Equal Opportunity Employer. 
+company_name : Buc-ee's ActionLink The Dow Chemical Company The Dow Chemical Company
+city : Lake Jackson, TX Lake Jackson, TX Freeport, TX Freeport, TX
+jobtype : 
+positions : 
+tags : 
+state : 
+      

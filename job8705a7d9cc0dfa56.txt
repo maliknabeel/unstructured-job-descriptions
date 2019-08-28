@@ -1,0 +1,12 @@
+job_id : 8705a7d9cc0dfa56         
+businesscategory_name : 
+title : Help Desk Technician -Yakima, WA
+start_date : 
+description: Planned Parenthood of Greater Washington and North Idaho (PPGWNI) EMPLOYMENT OPPORTUNITY Help Desk Technician –Yakima PPGWNI is seeking a Help Desk Technician for the Yakima Health Center. This is a regularly scheduled, full time nonexempt position, and is eligible for employer paid health and dental benefits, 401(k), and a generous paid time off package. Position Overview/Essential Job Functions The Help Desk Technician’s primary responsibilities include handling first-tier technical support questions from users at all PPGWNI health centers and ensuring all workstations, laptops, handhelds and printers are properly configured and operational. Must be technically competent to perform required tasks, have exceptional verbal and written communication skills, advanced keyboarding skills, ability to listen and understand questions and instructions, have a high tolerance for change, excel at phone and face-to-face contact with end users and travel as required for job duties. Performance Objectives Troubleshoot workstation, laptop, handheld and printer problems of all types with a goal of responding to issues based on the priority levels set within SpiceWorks. Ensure the SpiceWorks inventory is up to date with all hardware devices, including MAC and IP addresses, for all sites within the affiliate’s scope. Work with IT staff to utilize disk imaging software for use in new computers. Help Desk Technician will be responsible for setting up new PC’s to distribute to end users. Assist in the delivery and setup of telecommunications devices (cell phones, VOIP phones, etc.) where necessary. Experience Requirements High school diploma and at least 2 years working in a help desk or support technician role required. Must have firm understanding of Windows 7 & 8, Office 2003 & 2010, andTCP/IP networking fundamentals, as well as be able to install a variety of software and/or hardware. Applicants with diverse backgrounds are strongly encouraged to apply. We are an equal opportunity employer. *LI-LC1 
+company_name : Planned Parenthood Mid & South Michigan TEKsystems Kforce KeyTronicEMS
+city : Spokane, WA Spokane, WA Spokane, WA Spokane, WA
+jobtype : 
+positions : 
+tags : 
+state : 
+      

@@ -1,0 +1,12 @@
+job_id : 6158b1451288eda8         
+businesscategory_name : 
+title : Computer Technician 2,3
+start_date : 
+description: This position provides IT mission support to the customer. Provides network support to the customer in the proper application of DISA, NIST, ISO and IATF regulations to manage and maintain a trusted computing environment. Primary Duties and Responsibilities • Analyze network packet information, computer OS system data to identify and characterize anomalies on networks. • The Level 2 Technician processes scheduled routines that present few difficult operating problems (e.g., infrequent or easily resolved error conditions). In response to computer output instructions or error conditions, this worker applies standard operating or corrective procedure, refers problems that do not respond to preplanned procedure, and may serve as an assistant operator, working under general supervision. • The Level 3 Technician processes a range of scheduled routines. In addition to operating the system and resolving common error conditions, this worker diagnoses and acts on machine stoppage and error conditions not fully covered by existing procedures and guidelines (e.g., resetting switches and other controls or making mechanical adjustments to maintain or restore equipment operations). In response to computer output instructions or error conditions, the Computer Network Technician 3 may deviate from standard procedures if standard procedures do not provide a solution and refers problems which do not respond to corrective procedures to a person of supervisory or higher individual contributor level. Requirements • MUST be a US Citizen • Successful candidate must be able to obtain and maintain a government-issued security clearance of secret level or higher; interim may be required before starting employment. Education and/or Experience Level 2 – Associates degree from accredited two year college/university with two years of relevant experience. Level 3 – Associates degree from accredited two year college/university with four years of relevant experience Salary Range: Commensurate With Experience Benefits: PPO Health, Vision, Dental, Group Life, 401k, Short/Long Term Disability, Personal Time-Off (PTO) and Paid holidays *All resume submissions must provide personal email for correspondence. 
+company_name : Tri Star Engineering, Inc Indiana University Health Ukpeagvik Inupiat Corporation Camber Corporation
+city : Indiana Indianapolis, IN Crane, IN Crane, IN
+jobtype : 
+positions : 
+tags : 
+state : 
+      

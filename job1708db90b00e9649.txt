@@ -1,0 +1,12 @@
+job_id : 1708db90b00e9649         
+businesscategory_name : 
+title : Desktop Support Analyst
+start_date : 
+description: POSITION: Desktop Support Analyst COMPANY/DEPARTMENT: Endeavor Energy Resources EMPLOYMENT TYPE: Non-Exempt Full Time JOB DESCRIPTION: Endeavor Energy Resources is currently searching for a Desktop Support Analyst to assist in the day-to-day operational support of over 1,800 end-users. A strong candidate has experience providing end-user device support for both hardware and software (desktops, laptops, printers, scanners, Windows XP/7, MS Office, etc.). A strong candidate will also have a high level understanding of simple networking services such as DHCP, DNS, Active Directory, and is expected be able to perform support tasks with minimal supervision. Required Skills and Experience At least 3 years' desktop support experience in a corporate LAN/WAN environment High-level of technical knowledge and ability to support, troubleshoot, research, and resolve computer hardware and software problems Must be proficient with Microsoft Windows XP and Windows 7 Operating Systems Must be proficient in Microsoft Office Must have a demonstrated high level understanding of Desktop and Network Engineering technical areas Must have technical understanding of basic network services including DHCP, DNS, and AD Develop documentation for support and functional teams Good understanding of current applications and trends in MIS technology Able to make recommendations related to computer technology to assist in directing company management in the selection of software and hardware to meet the needs of the organization Effectively communicate with technical and non-technical end users Provide a high-level of customer service Good organizational skills Ability to function effectively in a fast-paced environment A+ or any other industry certifications are desired but not required Endeavor Energy Resources, LP is an Equal Opportunity Employer and does not discriminate in regards to race, color, creed, age, religion, ancestry, national origin, sex, marital status or disability. We comply with all local, state, and federal laws pertaining to employment and discrimination will not be tolerated. 
+company_name : Endeavor Energy Resources, LP Warren Equipment Company
+city : Midland, TX Midland, TX
+jobtype : 
+positions : 
+tags : 
+state : 
+      

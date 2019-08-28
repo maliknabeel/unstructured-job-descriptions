@@ -1,0 +1,12 @@
+job_id : 167d8a46c2e0971e         
+businesscategory_name : 
+title : IT Assistant
+start_date : 
+description: Assist in the development and refinement the MATTERS, an online dashboard system. Effort involves requirement analysis, human computer interface design issues, the big data infrastructure middle layer, data integration, and extraction pipelines to leverage a rich variety of data sources. 
+company_name : U.S. Army Natick Soldier Systems Center BJ's Wholesale Club, Inc. TechTarget Harvard University
+city : Natick, MA Westborough, MA Newton, MA Cambridge, MA
+jobtype : 
+positions : 
+tags : 
+state : 
+      

@@ -1,0 +1,12 @@
+job_id : 777c1e076fb827dc         
+businesscategory_name : 
+title : Desktop/Helpdesk Technician - Curacao
+start_date : 
+description: United States Air Forces Southern Command (USAFSOUTH), the designated air component of US Southern Command (USSOUTHCOM), provides base operations support at forward operating locations to permanently assigned personnel, equipment, and facilities, as well as deployed aircraft, personnel, and equipment conducting missions in the Caribbean and Central and South American theaters. TASK DESCRIPTION Manage all desktop/ laptop computer systems and peripherals Procure, update, and maintain all commercial publications and software used on government systems Establish and maintain hardware and software configuration management program Develop a configuration control matrix that encompasses all government furnished equipment (GFE) by site; develop a utilization and reutilization plan for GFE Publish all changes, upgrades, or reconfigurations within 30 calendar days of events/completion Document and maintain a permanent history of all communications/electronics equipment Maintain all licenses and service agreements for all COTS software and equipment; track and update licenses and document as required Provide and manage cellular telephones and services for all support staff Provide support of the following systems; JWICS, NIPRNET, SIPRNET, VoIP, radio systems, TACSAT, SATCOM/Radio, Giant Voice, IDS/SSTV Access Control (Security Systems) 5 + years working in a helpdesk support role within the defense industry Prior experience supporting NIPR/SIPR Experience working with SATCOM and other radio systems a must A+ certification required Must have a minimum active Secret clearance 
+company_name : Cambridge International Systems Inc
+city : United States
+jobtype : 
+positions : 
+tags : 
+state : 
+      

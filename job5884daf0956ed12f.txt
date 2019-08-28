@@ -1,0 +1,12 @@
+job_id : 5884daf0956ed12f         
+businesscategory_name : 
+title : Desktop Support Specialist
+start_date : 
+description: Buchanan Technologies is seeking a full-time Desktop Support Specialist to provide onsite client support in Plano, TX. The resource will be responsible for supporting PC based computers and related equipment for our client and for providing technical expertise, experience and documentation/project coordination as required to install or repair hardware/software and resolve technical problems. Essential Duties and Responsibilities include, but not limited to the following. Other duties may be assigned to meet business needs. Diagnose and repair hardware and software issues on client PC’s using approved methods and processes. Install hardware and software for clients. Complete necessary internal and client related documentation as required on a daily basis. Install/configure/repair network and local printers. Train clients on basic computer knowledge. Communicate and interact as required with end users and internal staff. Qualification / Requirements Expert knowledge of PC desktop support. Expert knowledge of local and network printer support. Intermediate knowledge of Networking Strong Understanding and knowledge of MS Outlook Windows 7 Enterprise Support experience Customer service related experience. Good knowledge of ticket based tracking system. Excellent Problem Solving Skills Must have Mac knowledge Additional Requirements Excellent verbal and written communication skills. Ability to work with minimal supervision. Valid driver’s license. Dependable transportation. Must be able to lift 50 pounds. Business dress attire Education / Training / Experience Required Minimum of three ( 3) years’ experience with Windows XP/7 OS, Microsoft 2000/XP, PC re-imaging. Minimum of three ( 3) year experience with PC and laptop hardware. Certification in A+ Preferred Certification in Server + or Network+ Certification in Microsoft MCP, MCSA, MCSE Certification in Dell Hardware Associate Degree in Computer Science or equivalent 
+company_name : Buchanan Technologies RedRiver Systems, LLC Buchanan Technologies CompuCom
+city : Plano, TX Dallas, TX Dallas, TX Dallas, TX
+jobtype : 
+positions : 
+tags : 
+state : 
+      

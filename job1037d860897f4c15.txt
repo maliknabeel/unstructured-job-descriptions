@@ -1,0 +1,12 @@
+job_id : 1037d860897f4c15         
+businesscategory_name : 
+title : IT
+start_date : 
+description: As a developer within Fairway’s central IT department, you will be involved in both Front End and Back End development. You must possess the following skills: C#, Silverlight, Microsoft.NET Platform, SharePoint, Microsoft 3rd Party Visualization Tools, MS SQL Database Development, COGNOS; DBA experience is a plus. Key Responsibilities • Provide effective communication regarding issues, objectives, initiatives and performance to plan. • Work with Project Managers to develop project schedules and resource allocation models for QA related projects and other activities such as software deployment, customer integration, and professional services validation. • Implement and support projects through in all stages of the development lifecycle. • Ability to interact/meet with key stakeholders to define new/additional features for a variety of applications. Required Experience & Education • BS/BA degree in computer science, engineering or related discipline. • 5+ years of Microsoft based development experience including front end and MS SQL as a back end. • Expert in Microsoft.Net Platform. • 2+ years of lead development experience handling multiple threads in a collaborative environment. • Experience with user interfaces, scripting, web accessibility standards, design & development standards, and cross-platform issues. • Experience with MS SQL, BI and COGNOS reporting platform • Excellent problem solving, interpersonal communication and project management skills a must. • Must have a desire for achieving excellence in customer satisfaction, process and product quality and reliability Desired Skills • Retail industry experience • Experience with 3rd party visualization tools • Experience with Borland (CodeGear) Delphi a plus 
+company_name : Fairway Market Bank of America American Express NBC Universal
+city : New York, NY New York, NY New York, NY New York, NY
+jobtype : 
+positions : 
+tags : 
+state : 
+      

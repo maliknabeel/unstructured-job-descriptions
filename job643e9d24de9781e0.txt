@@ -1,0 +1,12 @@
+job_id : 643e9d24de9781e0         
+businesscategory_name : 
+title : Network Administrator
+start_date : 
+description: Job Description Seeking Network Administration ^ Cisco Network Admin Location : Oak Brook , IL Duration : 2.5 months with possible extension Network Engineer Provides Level 3/Level 4 Network engineering and support in a primarily Cisco environment. Uses strong troubleshooting skills to addresses incident tickets, and root cause analysis. Executes network changes following standard processes. Creates and updates documentation. Participates in 7x24 on-call rotation. Ability to train and mentor peers. Strong network design skills. Focuses on and completes assigned project work including customer driven projects, maintenance and patching, and hardware/software upgrades. Strong written and verbal communications skills interfacing with customer, manager and peers. 4+ years of experience as a LAN/WAN network engineer in a global environment. Solid understanding of network design and architecture in a global, multi-data center environment Advanced network administration and troubleshooting skills. Thorough knowledge of the OSI model. Excellent understanding of TCP/IP, Routing protocols, Load balancing concepts In-depth knowledge of Cisco wireless technologies In depth knowledge and experience in VTP and Spanning tree and other switching technologies Hands on experience on Cisco Nexus switches & Cisco routers Working knowledge of Cisco and Checkpoint Firewall devices Working knowledge and experience on BGP & OSPF Working knowledge and experience on F5 Load balancers Ability to work delivery on multiple concurrent projects and tasks with conflicting priorities Ability to work independently with minimal supervision Complies with ITIL based incident, change and problem management processes Cisco certification (CCNA, CCNP, CCIE) or equivalent work experience required Qualifications null Additional Information All your information will be kept confidential according to EEO guidelines. 
+company_name : IexSoft LLC TEKsystems PetSmart All Trust Home Care
+city : Oak Brook, IL Downers Grove, IL Downers Grove, IL Oak Brook, IL
+jobtype : 
+positions : 
+tags : 
+state : 
+      

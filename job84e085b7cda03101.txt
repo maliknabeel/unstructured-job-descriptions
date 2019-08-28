@@ -1,0 +1,12 @@
+job_id : 84e085b7cda03101         
+businesscategory_name : 
+title : Desktop Services Technician (2+ years experience)
+start_date : 
+description: With some direction, provide direct technical support to computer system users; Answer compex and difficult to resolve computer problems for clients; Provide assistance concerning the use of computer hardware and software, including printing, VPN connectivity, electronic mail and operating systems. Provide desk side support and training for end users. Qualifications Education and Experience: 6 years in PC hardware/software installation and support High school diploma, GCSEs including Mathematics, or equivalent Successful completion of vocational course(s) relating to computer systems or equivalent combination of education, training and experience that provide the individual with the required knowledge, skills, and abilities. Knowledge, Skills and Abilities: Advanced knowledge of Microsoft Windows operating systems, PC hardware and desktop application products. The ability to communicate information and ideas so others will understand. Ability to troubleshoot and resolve issues on a desktop platform. Strong customer service communication skills. Must be able to multi task and pay close attention to detail. PPD is an equal opportunity employer (EOE) that will not discriminate in its employment practices due to an applicant’s race, color, religion, sex, national origin, and veteran or disability status by embracing diversity and the responsibilities of corporate citizenship in our communities. PPD values our former military & transitioning service member’s service. Job Posting 
+company_name : PPD Raymond Management Baker Tilly Virchow Krause Suttle-Straus
+city : Middleton, WI Middleton, WI Madison, WI Madison, WI
+jobtype : 
+positions : 
+tags : 
+state : 
+      

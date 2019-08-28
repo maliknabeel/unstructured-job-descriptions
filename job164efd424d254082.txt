@@ -1,0 +1,12 @@
+job_id : 164efd424d254082         
+businesscategory_name : 
+title : Help Desk Technician - Network
+start_date : 
+description: Job Description Job title : Network Management Operations Help Desk Technician - Network Duration : 3 yrs Must be US citizen TWO LOCATIONS 1. Piscataway, NJ 2. Atlanta, GA Overall Purpose: Support roll out of Ethernet access to cell sites nationwide in support of AT&T Mobility network. Roles & Responsibilities: 1) Order and track Ethernet Circuits which are complex and require a high degree of accuracy and quality. 2) Create orders using USRP-FR and GIOM and tracked via spreadsheet and SOTS. 3) Meticulously report on orders issued, order tracking and issue trouble tickets and work with IT Teams for resolution. 4) Assigned other customer related assignments as needed. Project Name BVOIP -IP Flex Paoloni Team This position is more related to VOIP than mobility. Best qualified candidates in Atlanta and/or Piscataway desired. No specific split of resources required. This is a Monday through Friday normal daylight work hours shift. Qualification Rating Customer or Client facing role * (4) REQUIRED Customer Service * (1) Desired Ethernet product knowledge * (3) Desired High school diploma * Yes or No Legacy ordering and provisioning * (2)Desired Microsoft Office Suites * (4) REQUIRED Qualifications null Additional Information All your information will be kept confidential according to EEO guidelines. 
+company_name : IexSoft LLC Align Ingredion C&G Consulting
+city : Township of Piscataway, NJ Piscataway, NJ Bridgewater, NJ Bridgewater, NJ
+jobtype : 
+positions : 
+tags : 
+state : 
+      

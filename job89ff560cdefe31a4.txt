@@ -1,0 +1,12 @@
+job_id : 89ff560cdefe31a4         
+businesscategory_name : 
+title : CLINIC IT NETWORK SUPPORT
+start_date : 
+description: The Information Technology Network Support will work as a member of the Information Technology Team to provide Level 1 or Level 2 technical support to staff. Obtain direction and/or consultation from the Information Technology Manager and/or Executive Director as needed when additional knowledge and/or skills are required. This position is a Temporary and Part Time position. JOB REQUIREMENTS: Education High School Diploma or GED Certificate Additional Requirements Minimum one (1) year recent professional experience providing computer tech support related services. Excellent communication skills. Capable of installation, modification, and repair of computer hardware and software. Ability to troubleshoot various IT problems, including applications, and basic network and network printer issues. Must be familiar with Microsoft Windows Server 2012/2008, Windows 7, and Mac OS Operating systems, and provide user support for Microsoft Office 2013. Must be able to maintain in-house computer systems, desktops, and peripherals, including routine onsite preventative maintenance for workstations and laptops. 
+company_name : Chumash Employee Resource Center   Crossroads Staffing
+city : Santa Ynez, CA Santa Ynez, CA Lompoc, CA Santa Barbara, CA
+jobtype : 
+positions : 
+tags : 
+state : 
+      

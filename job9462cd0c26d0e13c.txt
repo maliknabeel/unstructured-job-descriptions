@@ -1,0 +1,12 @@
+job_id : 9462cd0c26d0e13c         
+businesscategory_name : 
+title : Executive support (IT IS)
+start_date : 
+description: Mandatory Technical/Functional skills: - Must have very good experience on Executive support (IT IS) 
+company_name : Diverse Lynx Markets&International Banking Frontier Communications Tauck Family Foundation
+city : Norwalk, CT Stamford, CT Stamford, CT Norwalk, CT
+jobtype : 
+positions : 
+tags : 
+state : 
+      

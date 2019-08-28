@@ -1,0 +1,12 @@
+job_id : 627a73a6484ddabd         
+businesscategory_name : 
+title : IT Support Tech
+start_date : 
+description: Role The IT Support Tech performs a variety of duties in the area of first line support for hardware, software, network, ATM, and Core OS used by the Credit Union Essential Functions and Responsibilities Responsible for IT related technical support calls including diagnosing and solving hardware, software, Telco, and core issues Manage PC and Telco solutions including all installed software, system configurations, OS patches, and deployments Executes batch processing schedules on a daily, monthly, quarterly and yearly basis Responsible for interfacing with vendors; includes placing trouble tickets for errors Creates process efficiencies for batch processing, PC management and other IT related responsibilities Responsible for Core parameter authorizations, as well as authorizations for network access and applications Experience and Education: One to three years of similar or related experience HS education or GED Required Skills Required Experience One to three years of similar or related experience and a High School education or GED. 
+company_name : AltaOne Federal Credit Union Affordable Engineering Services, Inc. DaVita
+city : Ridgecrest, CA China Lake, CA Ridgecrest, CA
+jobtype : 
+positions : 
+tags : 
+state : 
+      

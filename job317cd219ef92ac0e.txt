@@ -1,0 +1,12 @@
+job_id : 317cd219ef92ac0e         
+businesscategory_name : 
+title : IT Project Manager, Oracle Center of Excellence
+start_date : 
+description: We have an exciting opportunity for an IT Project Manager, Oracle Center of Excellence to join the SAS IT team. The Oracle team is responsible for enhancing and maintaining the Oracle E-Business Suite(EBS) used globally in support of businesses that generate over $1B in revenue. The IT Project Manager will have responsibility for managing projects across several functional areas including, Finance, Distribution, Manufacturing/Planning, Commercial Operations and Engineering This position is expected to: *Manage the project roadmap for each functional area of support to promote business growth and more effective use of the Oracle EBS application. *Partner with outsourced vendor support teams to implement enhancements and new deployments to increase utilization of EBS application. *Provide project management leadership for the planning and direction of major technology adoption and deployment within each supported functional area. *Develop peer, cross-functional and cross-business relationships to maximize best practice sharing and team effectiveness. *Lead continuous improvement activities (ACE) within each functional area to improve application performance, quality and reliability. BA/BS degree with 6-10+ years experience or MA/BMS degree with 4-7+ years experience *5-10 years of project management experience in roles particularly managing IT projects and ERP deployments *Strong interpersonal written/verbal communication, organizational and leadership skills *ACE/Six Sigma trained/certified desired *PMI trained/certified desired *Ability to interface and influence at all levels in the organization *Demonstrated ability to excel in a global matrix organization *Proven analytical and problem resolution skills *Ability to manage and prioritize multiple tasks *Strong attention to detail United Technologies Corporation is An Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability or protected veteran status. 
+company_name : UTC Building & Industrial Systems
+city : Lincolnton, NC
+jobtype : 
+positions : 
+tags : 
+state : 
+      
