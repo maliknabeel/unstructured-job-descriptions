@@ -1,0 +1,17 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-11/1353477376.html
+
+Posted Date:20-Nov-2012
+
+Posted By :Qi He
+
+Job Description:
+
+The Service Analytics Solutions group at IBM Almaden Research Center is hiring two summer interns for 2013. This group is conducting fundamental research on data mining and information retrieval, and practical Deep Q&A applications for Life Sciences. A Strategic IP Insights Platform, SIIP in short, has been developed by this group and delivered to many real clients including Pfizer, Novartis and IBM T&IP (Trademark and Intellectual Property) department etc. This platform indexes 20M+ Medline articles and 6M+ worldwide patents, as well as millions of biological entities extracted from text. Many modern entity-aware applications including prior art search, link prediction, patient analysis, social media analysis, named entity identification and reference, generating taxonomy for text etc. are developed based on the huge entity graph. In Dec 2011, this group donated a database containing over 2.5 million unique chemical compounds and their reference in patents and scientific literature to NIH. In 2012, SIIP is #2 asset in IBM Global Business Service (GBS) for generation of signings, $20million sales pipeline and $3.3M impact on GBS revenue. For more information, please read http://www-935.ibm.com/services/us/gbs/bao/siip/.
+
+The research interns are required to have experiences in the fields of information retrieval and management, text mining and analytics, and machine learning. Specifically, we hope the students satisfy the following prerequisites without exceptions:
+1) Highly responsible and can work closely with mentors (same requirement on mentors).
+2) At least 1 year PhD research experience and able to do original research; already has publication experiences in top-quality conferences/journals (like SIGIR, SIGKDD, WWW, ICML, NIPS, TOIS, JMLR etc.). The intern is expected to submit one paper after the internship. 
+3) Able to build system prototypes independently. The intern will be assigned a small applicable project to finish independently within 3-4 months. By the end of the internship, the intern is expected to present a demo and file a patent accordingly. 
+4) Fluent in English writing and oral presentation; can cogently present intern results. 
+
+Typically the internship assignment is for 3-4 months, starting sometime in May or early June and ending sometime in August or September. Extension is possible, depending on the circumstance and the intern performance. We offer competitive salary to interns in Silicon Valley, but do not offer working visa support for the position. If you are interested, please send your resume with complete publication/project list to Qi He (heq@us.ibm.com, http://researcher.ibm.com/person/us-heq) ASAP. We start the application and interview immediately. Each short-listed candidate will be interviewed by at least two researchers from the group via Phone. We will close the application by the end of January 2013. No deadline extension for the application.

@@ -1,0 +1,26 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-11/1352873719.html
+
+Posted Date:14-Nov-2012
+
+Posted By :Guogen Zhang
+
+Job Description:
+
+FutureWei Technologies, Inc. (dba Huawei R&D USA) is a leader in ICT research and
+development. The office of CTO for New Data Platforms is looking for brilliant
+research engineers/architects to join the elite team of engineers/architects in 
+leading edge research and development in databases and analytics for new 
+applications. The focus will be on exploiting new architecture and hardware and 
+software technologies, such as multi-/many-core, huge memory, SSD, PCM, MPP, and 
+cloud, using NewSQL/NoSQL to support highly-scalable application systems with 
+high-throughput transactions, streams, and real-time analytics.
+
+The ideal candidates should have an earned PhD in databases or a related field with 
+a focus on data processing and high-performance computing, with  experiences in 
+commercial product research and development a plus. The ideal candidates must have 
+a passion for innovative solutions for real-world problems, and be a great team 
+player.
+
+Qualified candidates are invited to submit applications at the following website, 
+and send a copy to Guogen.Zhang@huawei.com for immediate attention.
+http://ch.tbe.taleo.net/CH06/ats/careers/requisition.jsp?org=FUTUREWEITECH&cws=1&rid=3462

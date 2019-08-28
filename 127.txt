@@ -1,0 +1,22 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-11/1352317959.html
+
+Posted Date:07-Nov-2012
+
+Posted By :Chunhua Weng
+
+Job Description:
+
+Position Title: Postdoctoral Research Scientist or Research Developer 
+Organization Name: Department of Biomedical Informatics, Columbia University 
+Location: The City of New York, NY 
+Job Description: 
+One postdoctoral position is available for highly motivated individuals to work with Dr. Chunhua Weng in the Department of Biomedical Informatics at Columbia University. The lab is focused on developing algorithms and systems to support information retrieval and knowledge management for clinical research. Specifically, we study how to reduce information overload for patients seeking clinical trial opportunities online and how to assist investigators searching for eligible research volunteers using large repositories of clinical data from electronic health records. Research topics include semantic knowledge management, information retrieval, query formulation, conversational question answering, and human-computer interaction. 
+
+Requirements: 
+· Have a PhD in related fields (biomedical informatics, information systems, computer science or engineering, or information science) 
+· Have at least three first author papers written in English in previous area of research with accepted or published status in journals or conference proceedings 
+· Have good spoken and written communication skills 
+· Be able to visit New York City for interviews without a visa application. This is imperative. 
+
+How to Apply: 
+Interested applicants should submit a letter of interest with a one-page proposal for a project to be conducted in Dr. Weng’s Lab, CV, and three references (including name and contact information) to cw2384@columbia.edu with subject line “Postdoctoral application.”

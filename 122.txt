@@ -1,0 +1,53 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-11/1352493679.html
+
+Posted Date:09-Nov-2012
+
+Posted By :Cristian Borcea
+
+Job Description:
+
+Assistant/Associate/Full Professor Faculty Positions - Computer Science
+Department, New Jersey Institute of Technology
+
+The Computer Science Department at the New Jersey Institute of Technology
+(NJIT) invites applications for tenured or tenure track positions
+beginning Fall 2013. The applicants should have research and teaching
+interests at the intersection of Big Data with Cloud Computing or Wireless
+Networks, such as large scale storage systems, mobile and sensor data
+management, data mining, social networks mining, machine learning, data
+intensive parallel computing, protocols and architectures for data
+centers, security and privacy of cloud services. The applicants should
+have a PhD (or expect to receive one by summer 2013) in Computer Science
+or a related field. The applicant should have a demonstrated potential for
+original research, a commitment to excellence in teaching, and
+expertise/familiarity with building software for large-scale computer
+systems.
+
+NJIT is a technology and science research university which offers
+competitive salaries. The Department of Computer Science is home to 26
+faculty members whose research encompasses the areas of cloud computing,
+distributed systems, mobile & ubiquitous computing, sensor networks, cyber
+security, software engineering, databases, artificial intelligence,
+machine learning, algorithms, computer vision, and image processing. The
+Department offers programs at the undergraduate, masters and PhD levels in
+Computer Science. Several masters programs in specialized areas such as
+Cyber Security and Privacy, and Software Engineering complement these.
+NJIT's location in the NY metro area is ideal for research collaboration.
+Besides many universities and research laboratories, the area is home to
+major financial, telecommunications, and pharmaceutical companies offering
+excellent opportunities for collaboration and industry sponsored research
+in the area of big data.
+
+We are committed to building a diverse faculty and strongly encourage
+applications from women. NJIT is an equal opportunity, affirmative action,
+and an equal access employer.
+
+How to Apply:
+
+- Upload cover letter, curriculum vitae, research statement, and
+teaching statement on njit.jobs (go to Search Postings and select Posting
+Number 0601259)
+- Ask 3 reference letter writers to email their letters to
+faculty-search@cs.njit.edu
+- The applications will be evaluated as they are received and accepted
+until the positions are filled.

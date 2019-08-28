@@ -1,0 +1,19 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-11/1353231613.html
+
+Posted Date:18-Nov-2012
+
+Posted By :Geert-Jan Houben
+
+Job Description:
+
+The Web Information Systems research group at TU Delft has an opening for a qualified
+
+POSTDOC researcher in the field of WEB DATA ANALYTICS
+
+Description: The position is in the area of web data analytics for the social web. In the context of national and international projects, this part of the WIS group’s research is aimed at exploring novel techniques for modeling and analyzing users on the social web, for example for the purpose of adaptation and personalization. This research has been published in a range of high-quality conferences and journals in recent years such as UMAP, WebSci, SIGIR, ACM HT etc. These research projects involve partnerships with external partners in domains such as cultural heritage, e-learning, crisis management, etc. (see http://www.wis.ewi.tudelft.nl/web-analytics/). The position includes also the supervision of PhD students studying this topic. Participation in education is possible.
+
+Requirements: Candidates are required to have a completed PhD. Specialization and a proven track record is needed in user modeling, web mining, web science, information retrieval, or related fields. Needed qualifications for candidates include proven research talent, relevant programming skills, experience with programming in the social web, and software development in a team. Candidates are expected to have an excellent command of English, and good academic writing and presentation skills.
+
+Employment: More on the WIS group can be found at http://www.wis.ewi.tudelft.nl. The position is available for two years, ideally starting early 2013. The terms of employment are in accordance with the Dutch Collective Labour Agreement for Research Institutes (“CAO-onderzoeksinstellingen”). Expats may apply for a profitable tax ruling, which, if approved by the tax authorities, would mean not having to pay taxes over 30% of your income. 
+
+Information and Application: For more information on the position, contact prof. Geert-Jan Houben (g.j.p.m.houben@tudelft.nl). To apply, applicants should send him by email (mention “PD-WDA” in the subject) a curriculum vitae with a list of publications. The deadline for applications is December 1, 2012.

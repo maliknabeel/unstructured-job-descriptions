@@ -1,0 +1,29 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-11/1352202847.html
+
+Posted Date:06-Nov-2012
+
+Posted By :Marco Viviani
+
+Job Description:
+
+The STRICT SociaLab (http://strict.dista.uninsubria.it), Department of Theoretical and Applied Sciences, University of Insubria, Italy (http://www.uninsubria.eu) announces the availability of 2 Marie-Curie Ph.D. Fellowship Position for early-stage researchers in Online Social Networking technologies.
+
+Position 1: Decentralized Access Control and Privacy Protection Services (for more information http://isocial-itn.eu/iSocial-INSUB-ESR6)
+
+Position 2: Privacy, Risk Analysis and Trust Management (or more information http://isocial-itn.eu/iSocial-INSUB-ESR7)
+
+The position are for three (3) years (with the possibility of extension to the 4th), starting in early 2013. The positions are funded by the European Commission under the Marie Curie Initial Training Network (ITN) program iSocial, which focuses on the design of distributed and scalable overlay networking and distributed storage infrastructures for open online social networks and for innovative social network applications that preserve end-user privacy and information ownership. The main objective of the iSocial Initial Training Network is to provide world class training for a next generation of researchers, computer scientists, and Web engineers, emphasizing on a strong combination of advanced understanding in both theoretical and experimental approaches, methodologies and tools that are required to develop Decentralized Online Social Networking platforms. For more information please contact prof. Elena Ferrari (http://www.dista.uninsubria.it/~elena.ferrari)
+
+Successful candidates are expected to join the Ph.D. program of the Department of Theoretical and Applied Science, University of Insubria, to conduct original research in collaboration with the principal investigators of iSocial, and to contribute actively to the activities planned of the project (scientific publications, taking courses, secondments, participation to meetings and events, preparation of educational material, coordination of work, etc.).
+
+Preference will be given to highly motivated candidates with strong programming and analytical skills and a proven commitment to their studies. The working language will be English; knowledge of Italian is welcome but not required.
+
+Eligible applicants are required to have obtained the M.Sc. degree in computer science or areas related to distributed computing from an internationally recognized university. Excellent grades from courses in distributed systems, security and privacy, networking, programming languages, computer architectures, and theory of computing are expected. The applicants must have less than 4 years of full-time research experience after obtaining their degree. At the time of recruitment by the Department of Theoretical and Applied Science, University of Insubria, the early-stage researchers must not have resided or carried out their main activity (work, studies, etc.) in Italy for more than 12 months in the 3 years immediately prior to the reference date.
+
+Students in their final year of Master education may also apply and if qualified, receive a conditional offer. If the applicant has not completed her studies, she should include a written statement from the degree administration office (or equivalent department), confirming that she is enrolled on the final year of her education and stating the expected completion date. If the applicant receives a conditional offer, the candidate should present the degree certificate to the Admissions Office at the time of the qualification exam.
+
+Marie Curie fellows enjoy good salaries and working conditions, career development opportunities and work-life balance. We especially encourage women researchers to apply for the aforementioned positions. The monthly salary of a PhD student under Marie Curie iSocial ITN scheme at the Department of Theoretical and Applied Science, University of Insubria (Italy) is expected to be is approx 32k euros (year) after-tax. Marie Curie fellows will also get coverage of expenses related to the participation in research and training activities (contribution to research-related costs, meetings, conference attendance, training actions, etc.).
+
+To communicate your expression of interest, please refer to:
+- http://isocial-itn.eu/iSocial-INSUB-ESR6
+- http://isocial-itn.eu/iSocial-INSUB-ESR7

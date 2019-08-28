@@ -1,0 +1,48 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-11/1352151897.html
+
+Posted Date:05-Nov-2012
+
+Posted By :Epaminondas Kapetanios
+
+Job Description:
+
+Subject: Extraction, structuring and management of semantic annotation
+
+Studentship Code: ECS8
+
+Semantic Computing seeks to leverage information and communication technologies 
+in all computer mediated forms of interactions and communications in an ecosystem 
+of data, humans and machines. We are currently contribute to a variety of contemporary 
+information and communication challenges in society, business and industry, such as 
+Named Entity Recognition, semantic multimedia, text analytics, cross-lingual information 
+retrieval, algorithms and conceptual structures, cognitive semantics and theory of meaning, 
+semantic classification and annotation, formal concept analysis and lattice theory. 
+
+Your proposed research should aspire to continue on or complement successfully funded 
+projects, e.g., UK Technology Strategy Board in collaboration with London businesses 
+and industry, as well as other currently running PhD projects in this thematic area. 
+You should bring robust knowledge in one or more of the following subject areas:
+
+-	algorithms and data/conceptual structures design and implementation, 
+-	data and knowledge representation,
+-	natural language processing,
+-	query languages and information retrieval,
+-	reasoning systems,
+-	machine learning and classification
+
+as well as the enthousiasm to cope with state of the art techniques for the extraction, 
+structuring and management of semantic annotation, from both machine and human collaboration 
+perspective. The purpose of the targeted research should enable the research group’s visions 
+for multi-lingual concept based search and information retrieval, future TV and multimedia 
+retrieval, the Big Data perspective, as well as their applications to smart cities and societies, 
+bio- and social sciences, the Web, cognitive semantics and psychology.
+
+The closing date for applications is 5pm, Friday 30 November 2012
+
+For further information on how to apply, please visit
+http://www.westminster.ac.uk/courses/research-degrees/research-areas/electronics-and-computer-science/apply
+
+Please include subject and studentship code in your research proposal as part of your application.
+
+For any informal inquiries, please contact 
+Dr Epaminondas Kapetanios, e.kapetanios@westminster.ac.uk

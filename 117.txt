@@ -1,0 +1,13 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-11/1352742551.html
+
+Posted Date:12-Nov-2012
+
+Posted By :Arash Termehchy
+
+Job Description:
+
+The School of Electrical Engineering and Computer Science at Oregon State University invites applications for several tenure–track positions in Computer Science.  We seek strong candidates with a commitment to quality teaching and with research strengths in the areas of programming languages, databases, software engineering, computer systems, computer security and privacy, and algorithms.  Applicants should demonstrate a strong commitment to collaboration with other research groups in the School of EECS, with other departments at Oregon State, and with other universities.
+
+The School of EECS supports a culture of energetic collaboration, and the faculty are committed to excellence in both education and research.  With 42 tenure/tenure-track faculty, we enroll 180 Ph.D., 120 MS and 1400 undergraduate students.  OSU is recognized for its “very high research activity” by the Carnegie Foundation for the Advancement of Teaching.  The School of EECS is housed in the Kelley Engineering Center, a green building designed to support collaboration among faculty and students across campus. Corvallis is a small college town renowned for its high quality of life.
+
+More information about the positions and application instructions can be found at https://jobs.oregonstate.edu/applicants/jsp/shared/position/JobDetails_css.jsp?postingId=309263. 

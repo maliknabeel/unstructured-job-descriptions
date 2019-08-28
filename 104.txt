@@ -1,0 +1,21 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-11/1353632634.html
+
+Posted Date:22-Nov-2012
+
+Posted By :Chandan Reddy
+
+Job Description:
+
+
+Job Posting Website: http://engineering.wayne.edu/cs/about/jobs.php
+Organization/Institution: Wayne State University 
+Department: Department of Computer Science 
+
+Applications are invited for a tenure-track faculty position specialized in the area of health informatics at the assistant professor level beginning in Fall 2013.  Candidates are expected to have a Ph.D. in Computer Science or a closely related field and to demonstrate potential for excellence in teaching and research.  Candidates with research interests in the area of health informatics, including human-computer interaction, information retrieval and visualization, data mining, natural language processing, and health data management, for both community health informatics and personalized medicine, will receive the strongest consideration. However, excellent candidates in other areas will also be considered. This position is part of the university's effort in building Interdisciplinary Program for Obesity Research and Education, and the candidate is expected to work independently as well as to collaborate closely with faculty from the Obesity Center.
+The Department of Computer Science has 23 tenured or tenure-track faculty members, with research strengths in the areas of Artificial Intelligence, Bioinformatics, Data Mining, Graphics and Visualization, Software Engineering, and Computer Systems. The research in the department is also highly interdisciplinary with active collaborations with faculty in medicine, engineering, and sciences. The Department has six NSF CAREER recipients, and an external funding exceeding $6M annually. The department currently has over 80 full-time Ph.D. students, along with 60 Master's students, and 293 undergraduate majors. Further information about the department can be found at http://www.cs.wayne.edu.
+The Department of Computer Science is in the College of Engineering.  The College has an annual research expenditure of about $20M. Information about the College of Engineering can be found at http://engineering.wayne.edu. Wayne State University is a Carnegie Research Extensive University offering more than 350 academic programs through 13 schools and colleges, to more than 32,000 students. Wayne State has approximately $260M annual research expenditures and more than 11,000 graduate students. Wayne State University, in partnership with the University of Michigan and Michigan State University, has a key role in Michigan's University Research Corridor initiative (http://urcmich.org/) and is closely involved with TechTown, the area's business incubator (http://techtownwsu.org/).  In addition, within a 20-mile radius of Wayne State campus, several Metro Detroit suburbs are consistently ranked in top 100 in Money Magazine's Best Places to Live (http://money.cnn.com/magazines/moneymag/best-places/2012/states/MI.html).
+Application Instructions
+Applicants should submit a cover letter, statement of research and teaching, and curriculum vitae with the contact information of three references. For full consideration, applications must be received by January 10, 2013. 
+
+Apply online at jobs.wayne.edu (position number: 039046). Nominations and inquiries should be directed to Prof. Ming Dong, the Chair of Search Committee, at mdong@wayne.edu. 
+Wayne State University is an equal opportunity educational institution/equal opportunity employer.

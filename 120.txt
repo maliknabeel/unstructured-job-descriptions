@@ -1,0 +1,45 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-11/1352598332.html
+
+Posted Date:10-Nov-2012
+
+Posted By :Michael Stonebraker
+
+Job Description:
+
+
+Paradigm4 powers Complex Analytics for Big Data in industries from pharma, healthcare, and energy to insurance telematics and e-commerce. 
+
+The Big Data we work with is machine-generated, multi-dimensional, multi-sourced data like location data from cars and cell 
+phones, genetic sequences, trading data, and data from connected devices – the emerging ‘internet of things’.  Big Analytics 
+is the complex math that drives better recommendation engines, faster risk models, data-driven genomic discovery, and personalized 
+pricing models. 
+
+We're a start-up team of seasoned entrepreneurs and data management experts -- including the renowned database innovator 
+Mike Stonebraker.  We are also the sponsors and developers of SciDB, the open source scalable scientific database engine.
+
+Open Positions
+If you are intrigued about building an innovative new data platform to support advances and disruptions in the scientific and 
+commercial worlds, read on and get in touch with us at join@paradigm4.com    We’re hiring developers to work at our Waltham, MA office.
+We’re hiring software developers to work in the following product areas: 
+
+* SciDB core
+Enhance SciDB’s innovative distributed, array database engine.
+* Math Library
+Develop massively scalable, distributed implementations of linear algebra, predictive analytics and machine-learning algorithms.
+* Client interfaces
+Expand SciDB’s client connectivity layer.
+* Enterprise management and monitoring tools
+Create user-friendly, web-based tools for managing and monitoring SciDB.
+
+We are looking for candidates with:
+* 5-7+ years of commercial software design and development experience 
+* Solid C++ programming experience including STL
+* Computer Science degree
+* Experience programming for a distributed computing or high performance computing environment, or experience developing database internals, or experience developing math libraries
+* Strong analytical skills 
+
+We greatly value these characteristics as well:
+* The intensity, flexibility and drive to do whatever it takes in a start-up environment
+* Fascination with managing, exploring, and finding insights in big data
+
+Email us at join@paradigm4.com 

@@ -1,0 +1,55 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-11/1352983248.html
+
+Posted Date:15-Nov-2012
+
+Posted By :Jan Mendling
+
+Job Description:
+
+The Institute for Information Business at WU Vienna is hiring two research assistants, one on pre-doctoral and one on post-doctoral level, within the frame of a European research project. The positions are expected to start at 01 January 2013 and will run until 30 September 2015.
+
+ 
+
+Job Description:
+
+You as one of the successful applicants will work on a research project that combines process monitoring, complex event processing and semantic matching for supporting a green logistics scenario with major European logistics providers. You will report research findings at international conferences and in research journals. Also, you will intensively collaborate with involved logistics companies on the topic of information systems for green logistics planning and control. 
+
+ 
+
+Requirements:
+
+You as one of the successful applicants have a Master’s degree in Computer Science, Business Informatics, Business Administration or a similar field of study, potentially a PhD when applying for the post-doc position. You have a strong affinity with interdisciplinary research that involves both Computer Science and Business Administration, as well as collaboration with industry. You should be highly self-organized and possess excellent communication skills in English. German skills are an advantage, but not required. Furthermore, you should have implementation skills in Java, and have an understanding of concepts in the area of event processing, semantic technologies and/or process modeling.
+
+ 
+
+Appointment:
+
+You will be appointed on a temporary contract for the duration of the research project (01 January 2013 to 30 September 2015). The monthly gross salary ranges from € 1.899 (pre-doctoral) to € 2.535 (post-doctoral assistant).
+
+ 
+
+Application:
+
+You can apply by sending your application including letter of motivation, CV, transcript of records, and references and all other relevant information to   jan.mendling@wu.ac.at. The deadline for submitting your application is 21 November 2012. For any inquiries, please also refer to   jan.mendling@wu.ac.at. 
+
+ 
+
+=====================================
+
+Prof. Dr. Jan Mendling
+
+WU Vienna
+
+Institute for Information Business 
+
+Augasse 2-6, A-1090 Vienna, Austria
+
+Email:   jan.mendling@wu.ac.at
+
+Phone: +43 1 31336 5200
+
+Fax:   +43 1 31336 739
+
+Web:    <http://www.mendling.com> www.mendling.com
+
+=====================================

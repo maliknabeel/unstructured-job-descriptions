@@ -1,0 +1,41 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-11/1352997037.html
+
+Posted Date:15-Nov-2012
+
+Posted By :Peter Dinda
+
+Job Description:
+
+Faculty Position
+Database Systems
+Northwestern University
+
+
+The Department of Electrical Engineering and Computer Science at
+Northwestern University invites applications for a tenure-track
+assistant professor position in database systems to start in fall
+2013.    We are interested in exceptional candidates in all areas of
+database systems, but have a particular focus on areas such as
+large-scale data management, integration of structured and
+unstructured data, parallel and distributed data mining and analytics,
+stream databases, and database engines for scalable computing and
+emerging computer architectures.
+
+A Ph.D. in Computer Science or Computer Engineering is required, as is
+a clear track record of success in database systems.  Successful
+candidates will be expected to carry out world class-research,
+collaborate with other faculty, and teach effectively at the
+undergraduate and graduate levels. Compensation and start-up packages
+are negotiable and will be competitive.
+
+Northwestern EECS consists of over 50 faculty members of international
+prominence whose interests span a wide range. Northwestern University
+is located in Evanston, Illinois on the shores of Lake Michigan just
+north of Chicago.
+
+Northwestern University is an equal opportunity, affirmative action employer. Qualified women and minorities are encouraged to apply. It is the policy of Northwestern University not to discriminate against any individual on the basis of race, color, religion, national origin, gender, sexual orientation, marital status, age, disability, citizenship, veteran status, or other protected group status. Hiring is contingent upon eligibility to work in the United States.
+
+To ensure full consideration, applications should be received by
+December 15, 2012, but applications will be accepted until the
+position is filled.  Information on how to apply can be found on our
+web site, www.eecs.northwestern.edu.  

@@ -1,0 +1,32 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-11/1351748908.html
+
+Posted Date:01-Nov-2012
+
+Posted By :Jin-Young Park
+
+Job Description:
+
+Faculty Positions at the Department ofInformation and Communication Engineering (ICE)
+
+
+Daegu Gyeongbuk Institute of Science & Technology (DGIST), located in Daegu, Korea, is a government-funded research-oriented institute. 
+The Institute offers programs at the Doctorate, Masters, and Bachelor levels in the fields of science and engineering.
+
+The Department of ICE at DGIST specializes in Cyber Physical Systems (CPS), and has several openings for tenure-track professors. 
+All lectures and research activities will be conducted in English. Applicants can apply for this position regardless of their nationality.
+
+Applicants should have a Ph.D. in Computer Science (CS) or Electrical Engineering (EE), or closely related fields,
+ and demonstrated strength in scholarly research with at least 2 years of professional experiences after earning Ph.D. degree. 
+Applicants must also have interpersonal skills for working in a cooperative manner with colleagues within and across departments in carrying out teaching, research, and service.
+
+We are especially interested in applications from candidates in the following areas although we also seek exceptional candidates in other areas of CS and/or EE (describe your specialty explicitly in your cover letter.)
+
+?	- Distributed/parallel computing, and operating systems
+?	- Architecture, compiler, runtime support
+?	- Analog circuit, Integrated circuit, and VLSI design
+?	- Medical and image signal processing, machine learning, computer vision
+?	- Control and systems theory with interdisciplinary applications
+
+Salary, incentive, and rank will be commensurate with qualifications. Please submit your Application Form for DGIST at http://faculty.dgist.ac.kr.
+ We will contact you if your qualifications meet our need. The application process will continue until the positions are filled. For more questions, 
+feel free to contact  Prof. Sang Hyuk Son(son@dgist.ac.kr).

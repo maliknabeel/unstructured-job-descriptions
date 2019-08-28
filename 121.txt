@@ -1,0 +1,56 @@
+URL :Habib M. Ammari
+
+Posted Date:09-Nov-2012
+
+Posted By :http://research.cs.wisc.edu/dbworld/messages/2012-11/1352518542.html
+
+Job Description:
+
+Hi All,
+
+ONLY the candidates who already have their MASTER'S DEGREE
+and the GRE and TOEFL SCORES will be considered.
+
+Please DO NOT email me if you do not have all of the above.
+
+Wireless Sensor and Mobile Ad-hoc Networks (WiSeMAN) Research Lab
+is looking for one highly self-motivated full-time Ph.D. student to conduct
+cutting-edge research in the area of wireless sensor networks in the
+Department of Computer and Information Science at the University of Michigan-Dearborn.
+Currently, there is ONLY ONE Ph.D. position left in WiSeMAN Research Lab.
+ 
+WiSeMAN Research Lab is interested in several research topics in
+wireless sensor networks, including coverage, connectivity, and
+geographic routing and data dissemination, as well as cyber physical
+systems, mobile ad-hoc networks, and mobile wireless Internet.
+ 
+The Ph.D. student will be hired to join WiSeMAN Research Lab
+and work on an NSF funded project, which focuses on the design,
+analysis, and implementation of sustainable and scalable three-
+dimensional wireless sensor networks.
+ 
+To be considered for this Ph.D. position, the interested candidate should meet the following criteria:
+   -   Master's of Science in Computer Science, Computer Engineering, or Mathematics
+       with a GPA at least 3.5.
+   -   Solid knowledge in the area of networking and/or wireless sensor networks.
+   -   Outstanding programming skills.
+   -   Strong mathematics background.
+   -   Excellent writing and communication skills in English.
+   -   High GRE and TOEFL scores.
+ 
+This Ph.D. position is funded for three years starting January 1, 2013.
+Applications will be accepted until November 9, 2012.
+ 
+Interested candidates should submit by email the following documents to
+Prof. Ammari at hammari@umd.umich.edu:
+
+   -   Application/motivation letter.
+   -   Detailed curriculum vitae.
+   -   List of publications (if any).
+   -   Copy of Master's thesis (if any).
+   -   List of graduate courses taken along with grades.
+   -   GRE and TOEFL scores
+ 
+Best Regards,
+Habib M. Ammari
+http://www-personal.engin.umd.umich.edu/~hammari/

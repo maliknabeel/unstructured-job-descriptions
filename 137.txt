@@ -1,0 +1,29 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-11/1351805634.html
+
+Posted Date:01-Nov-2012
+
+Posted By :Silvia Miksch
+
+Job Description:
+
+10 Open PhD Positions for Environmental Informatics 
+at the Vienna University of Technology
+
+In the framework of the doctoral college "Environmental Informatics“, expected to start in March 2013 for a period of 3 years, the Vienna University of Technology has 10 open PhD student positions of which 5 positions are dedicated to female students.  An accepted PhD student will be paid a salary of 949.50 EUR per month, 14 times per year for 15 hours/week working basis (salary scale 2012).  Additional payments are possible based on availability of external funding sources (up to 35.448 EUR per year for 40 working hours/week in the salary scale 2012). 
+The doctoral college "Environmental Informatics" as an interdisciplinary approach aims to establish research collaboration amongst   Architecture & Planning, Electrical Engineering and Information Technology, Informatics and Mathematics and Geoinformation. Five research areas are covered:  A) Information semantics, management and integration, B) Visual analytics, C) Algorithmic modeling, simulation, optimization, D) Large-scale data and compute-intensive systems, E) Governance and decision support.  
+
+PhD students will be supervised by Profs  Schahram Dustdar,  Andrew Frank,  Wolfgang Gawlik, Wolfgang Kastner,  Ardeshir Mahdavi,  Silvia Miksch,  Nebojsa Nakicenovic ,  Günther Raidl,  A Min Tjoa,  and   Jesper Larsson Träff . 
+
+Possible PhD research topics include:  
+-  Platform-as-a-Service for Environmental Informatics 
+- Ontologies to Model the Construction and the Use Processes in the Built Environment
+- Adaptive Micro Grid Control and Protection 
+- Information Modeling and Ontologies 
+- Coupled Multi-level Models for Performance Assessment of Built Environments 
+- Exploring and Analyzing Environmental Data with Visual Analytics Methods 
+- Decarbonization and Efficiency Revolution 
+- Optimization Issues in Public Bike Sharing Systems 
+- Exploiting Linked Open Data in Environmental Informatics 
+- Parallel Computing for Energy Efficiency
+
+Applicants should have completed a master degree in computer science, informatics, business informatics, mathematics or equivalent area. Submissions will be considered in different rounds, until all positions filled. The deadline for the next submission consideration is 15. November 2012.  Further information about topics and submission procedure are available at:   http://ei.infosys.tuwien.ac.at. 

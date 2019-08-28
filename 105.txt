@@ -1,0 +1,25 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-11/1353522866.html
+
+Posted Date:21-Nov-2012
+
+Posted By :James Cheney
+
+Job Description:
+
+
+
+I am recruiting for at least one funded PhD studentship in the University of Edinburgh, working with me on one of the following topics (with further details given at the associated links).
+
+* Provenance, curation, and archiving for scientific data (http://wcms.inf.ed.ac.uk/lfcs/study/provenance-curation-and-archiving-for-scientific-data)
+
+* XML query/update languages and static analysis (http://wcms.inf.ed.ac.uk/lfcs/study/xquery-update-static-analysis)
+
+Projects in other areas related to data management, programming languages, or their intersection are also possible; prospective applicants are encouraged to contact James Cheney (jcheney@inf.ed.ac.uk), Stratis Viglas (sviglas@inf.ed.ac.uk), Peter Buneman (opb@inf.ed.ac.uk) to discuss potential project ideas.  Possible research topics with others in LFCS are listed at http://wcms.inf.ed.ac.uk/lfcs/study/research-topics along with contact information for prospective supervisors.
+
+Available funding can cover full fees and a stipend for a 3-year PhD project for a student from the UK or EU.  Additional studentships on similar terms may be available contingent on funding decisions.  For students from other countries, the School provides assistance identifying and applying for appropriate sources of funding to cover additional applicable fees.
+
+To apply, please follow the instructions at:
+
+http://www.ed.ac.uk/schools-departments/informatics/postgraduate/apply/
+
+and apply to the LFCS PhD program (or just jump directly to http://www.ed.ac.uk/studying/postgraduate/degrees?id=493&cw_xml=details.php).  The first deadline for applications is *December 14*; applications received by this date will receive full consideration for available funding sources.  Please get in touch early in case of questions about the application process, project ideas or study in the UK or Edinburgh. 

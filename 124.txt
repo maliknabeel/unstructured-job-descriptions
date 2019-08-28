@@ -1,0 +1,22 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-11/1352461720.html
+
+Posted Date:09-Nov-2012
+
+Posted By :Marco Schaerf
+
+Job Description:
+
+The new Italian recruiting process for positions of Full and Associate Professors is based on a two phase process. Candidates must first obtain the Abilitazione, and then apply for a position at an Italian University. Candidates need to apply for a specific Academic Discipline.
+
+To facilitate international participation Sapienza University has created a guide and a series of video tutorials to help researchers who are not fluent in Italian or familiar with Italian rules apply. The material can be found in http://www2.uniroma1.it/home/eng/121031_guide.php
+
+The deadline for applications is November 20th at 5pm (Italian time, GMT+1).
+
+Please remember to point out that in Italy there are two Academic Disciplines covering Computer Science, these are both
+
+01/B Informatics
+09/H1 Information processing systems
+
+Please notice that Stefano Ceri, Maurizio Lenzerini, John Mylopoulos belong to 09/H1, while Antonio Albano, Dino Pedreschi, Pierangela Sammarati belong to 01/B. Groups are often mixed, for example Giuseppe De Giacomo belongs to 09/H1 and Diego Calvanese to 01/B.
+
+For questions and clarifications please contact 

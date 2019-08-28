@@ -1,0 +1,131 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-11/1351837093.html
+
+Posted Date:02-Nov-2012
+
+Posted By :Taneli Mielikäinen
+
+Job Description:
+Data Insight team in Nokia CTO Advanced Engineering is looking for
+data intensive-computing & distributed systems, data mining & machine
+learning, and visual analytics & human-data interfaces researchers
+with passion to transform research from interesting ideas and
+promising results into delightful solutions and useful systems in
+practice.
+
+We focus on the challenges and opportunities in Nokia's data
+landscape, conducting research on processes and techniques to derive
+insights from data and to bring the value of the data to the end
+users. The approach combines the theoretical foundations of data
+analysis and computer science, real-world data mining, interactive
+visualizations, and hands-on skills on rapid development of scalable
+systems with practical relevance.
+
+We are an interdisciplinary, agile team of machine learning,
+distributed systems and information visualization researchers, with a
+just-do-it attitude. We study, design and realize scalable solutions
+for data understanding and utilization. We strive extending ourselves
+to new topics and eagerly sharing knowledge with colleagues whose core
+competencies might be in other topics.
+
+To apply, please send your resume to datainsight@nokiaresearch.com
+
+
+Visual Analytics and Human-Data Interfaces
+
+You will be responsible for transforming complex datasets and
+computational models into understandable and engaging visualizations
+and other representations. You will be pushing traditional limits of
+information visualization and data user interfaces by producing unique
+representations of unique data sources together with the team. In many
+cases that requires also theoretical insights into mathematical
+properties of high-dimensional and otherwise complex data spaces. The
+position requires the ability to deeply understand multi-faceted and
+multi-dimensional information, as well as the creativity that is
+required to condense and illustrate the most relevant aspects of the
+models and the underlying data.
+
+As your visualizations will work as a communication medium and as a
+way to understand complex phenomena, you need to know how to convert
+seemingly chaotic information into an easily understandable and
+intuitive form. You have a solid sense of graphical aesthetics
+including attention to navigation, layout, color and typography. You
+devote meticulous attention to user experience and goals, and
+test/refine consistently.
+
+You enthusiastically implement even your most far-fetched ideas in
+practice, thus strong technical expertise in visualization tools and
+programming languages is a must. You are extremely comfortable
+expressing yourself with modern Web technologies such as HTML5. We
+value experience producing customer-facing web applications. Expertise
+in other data analysis frameworks and programming languages such as
+Python, Haskell and R is highly desirable. You have a strong passion
+for designing interfaces, from inception to completion if necessary.
+
+
+Data Mining and Machine learning
+
+As a data mining and machine learning expert you will be responsible
+for transforming terabytes of data into actionable models and
+descriptive knowledge. Your work includes gathering, processing and
+analyzing large dynamic real-world data sources, building
+computational and statistical models, discovering general mechanisms
+and best practices for data analysis, developing novel and useful
+machine learning and data mining techniques, providing fresh
+viewpoints to the foundations of data analysis, impacting the research
+communities around data and computing, and making the world a better
+place.
+
+You have extensive expertise in both the theory and practice of
+machine learning and data mining. You are familiar with the different
+paradigms of data analysis, such as statistical learning theory,
+Bayesian statistics, algorithmic information theory, data mining,
+inductive inference and so on, and you understand the conceptual and
+practical strengths and weaknesses in them. You are well-versed with
+various machine learning and data mining methods, being able to decide
+what method would be suitable for the task at hand, how to use it and
+why that makes sense, and to extend the existing approaches to any new
+situations as needed.
+
+You enjoy the art of programming. You can express your ideas fluently
+in a variety of programming languages, such as Python, Haskell,
+Erlang, C and R. You can solve problems with large volumes of data and
+you know how to cope with computationally hard problems. You are
+motivated to take your research beyond data mining and machine
+learning, and are excited by the prospect of creating usable prototype
+systems. You are aware of various existing tools and systems for data
+processing and are willing to re-use solutions engineered by others.
+
+
+Data-Intensive Computing and Distributed Systems
+
+As an expert in data-intensive systems, you will be responsible for
+designing and implementing demanding, distributed server-side software
+for various tasks related to large-scale data processing and web
+services, ranging from massive offline processing to the real-time
+construction of predictive models. You have a deep understanding of
+distributed computing and scalable data management systems. You are
+willing to rethink the current distributed computing primitives and
+abstractions for data-driven systems, and evaluate the practical
+benefits of new ones. You use sound engineering techniques like
+property and regression testing.
+
+You look forward to utilizing hundreds of servers in parallel using
+techniques like Map/Reduce and enjoy playing with terabytes of
+data. You are passionate about programming, have a developed sense of
+aesthetics, excellent coding skills and deep knowledge on programming
+paradigms and languages, such as Python, Erlang, Haskell, C and
+Ocaml. Contributions to Open Source projects, especially in the field
+of scalable systems, are a big plus. As you will be working with
+data-intensive systems research projects, knowledge of machine
+learning and data mining methods is very useful.
+
+You have a solid understanding of algorithmics, so you are able to
+help other researchers to implement scalable and distributed versions
+of various methods in large-scale data processing. You are familiar
+with standard web techniques, both on the client and the server
+side. Deep experience with Linux and other unices, as well as core
+internetworking technologies is a must. You know how to build a system
+that can handle 10K HTTP requests per second and achieves five-nines
+availability, or a terabyte-scale storage system that can store and
+access 10^9 data items efficiently without using a relational
+database. You see beauty in simplicity.

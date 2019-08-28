@@ -1,0 +1,18 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-11/1353515981.html
+
+Posted Date:21-Nov-2012
+
+Posted By :Bettina Kemme
+
+Job Description:
+
+The School of Computer Science at McGill University invites applications for a tenure-track position at the assistant professor level in the area of data mining with particular emphasis on “big data”, text analysis and unstructured data. Expected start date is August, 1st, 2013.
+
+The School of Computer Science offers a collegial environment with opportunities for interaction with world class researchers in areas including machine learning, distributed systems, embedded systems, pervasive systems and database systems, bioinformatics, software analysis, computer games development, robotics, vision, and many more.
+For further information on the School, see: http://www.cs.mcgill.ca.
+
+Complete applications, including a curriculum vitae, a list of publications with copies of at least two sample reprints, a research statement as well as a teaching statement, and the names and email addresses of three references should be sent as one or more PDF files to datamining@cs.mcgill.ca. 
+
+Applications will be reviewed as soon as they are received.  Applications received before January 18th, 2013 are assured full consideration.  
+  
+McGill University is committed to equity in employment and diversity.  It welcomes applications from indigenous peoples, visible minorities, ethnic minorities, persons with disabilities, women, persons of minority sexual orientations and gender identities and others who may contribute to further diversification.  All qualified applicants are encouraged to apply; however, in accordance with Canadian immigration requirements, priority will be given to Canadian citizens and permanent residents of Canada.

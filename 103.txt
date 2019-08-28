@@ -1,0 +1,45 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-11/1354009991.html
+
+Posted Date:27-Nov-2012
+
+Posted By :Alexander Zipf
+
+Job Description:
+
+
+
+
+
+Chair of GIScience
+Department of Geography · Berliner Str. 48 · 69120 Heidelberg · Germany
+Prof. Dr. Alexander Zipf
+zipf@uni-heidelberg.de 
+http://giscience.uni-hd.de 
+
+Interdisciplinary Center for Scientific Computing (IWR)
+
+Heidelberg Center for the Environment (HCE)
+Postion available
+PostDoc Geoinformatics 
+Web-based 3D visualisation and geo-analysis
+University of Heidelberg
+
+A PostDoc position is available at the GIScience Research Group at the Department of Geography at Heidelberg University. http://giscience.uni-hd.de. The candidate shall contribute to research related to Web-based 3D visualization and analysis of high volume 3D data of landscapes, cities and building complexes. 
+Further we welcome contributions to our work on generating & visualization 3D city & landscape models from crowdsourced information such as OSM-3D.org  & OpenBuildingModels.uni-hd.de. 
+
+The position is funded within the project MayaArch3D within the eHumanities programme of the german ministry of research and education being carried out together with archeologists from the German Institute of Archeology dealing with virtual modeling the Maya site in Copan Honduras. 
+
+Relevant topics include
+
+- Web-based 3D visualisation and geo-analysis with WebGL http://webgl.uni-hd.de 
+- Interoperable 3D Web-Visualization through the OpenGIS Web 3D Service (W3DS) (Java)
+- 3D Modeling of archeological sites
+- Crowdsouring 3D 
+
+We offer an attractive job in an interdisciplinary dynamic team with excellent possibilities for research and further qualification. The Chair of GIScience is also member in the Interdisciplinary Center for Scientific Computing (IWR) and funding member of the Heidelberg Center for the Environment (HCE). 
+ 
+We expect a top rated university deegree and PhD in either Geoinformatics, Computer Science or Geography, as well as research experience and know how in Geoinformatics, paired with the ability for independent scientific work and aquiring third party funds, as well as teamworkp. 
+
+Please send our application including (cv, grades, papers etc.) to Prof. A. Zipf zipf@uni-heidelberg.de 
+The project is initially funded for 3 years. Extensions depend on the availability of future funding.
+Deadline for applications: December 20th 2012. The position is to be filled as soon as possible.
