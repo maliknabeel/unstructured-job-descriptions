@@ -1,0 +1,42 @@
+job_id : 6938
+businesscategory_name : Sales and Marketing
+title : Account Executive
+start_date : 2009-11-16 11:54:01.514073+00
+end_date : 2009-12-16 08:00:00+00
+description:  TechCrunch seeks an energetic Account Executive to help us grow our business.
+
+This person will be responsible for fielding inbound advertising inquiries, calling on new prospects and developing and maintaining favorable relationships with new and existing clients. Light trafficking support via our ad management software will also be required. We're a startup, so we all wear many hats. This person will report to TechCrunch's Advertising Director.
+
+Internet advertising-sales-related experience including building proposals, responding to RFP's and knowledge of the technology and startup sectors is a huge plus. Most importantly, we want someone with a 'can do' attitude who is hungry, detailed oriented and looking to make an immediate impact.
+
+TechCrunch has quickly become the number one source for breaking technology news and opinion. We reach over 7 million unique visitors per month and deliver over 22 million page views. We also have a strong conferences and events business supported by industry-leading sponsors as well as a growing data business. We're all passionate about technology and the growth of our brand. The ideal candidate is a fan of TechCrunch and is committed to helping us grow.
+
+Please include "AE Candidate" in the subject line of your email.
+
+company_name : TechCrunch
+city : Palo Alto
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2009-10-15 03:45:17.925288+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 6044
+website :
+email : vaughn@techcrunch.com
+publish : 1
+featured : 0
+tags : techcrunch,sales,ae,advertising
+state : California
+
+
+
+
+

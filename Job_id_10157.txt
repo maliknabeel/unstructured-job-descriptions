@@ -1,0 +1,64 @@
+job_id : 10157
+businesscategory_name : Arts, Design, Entertainment, and Media
+title : Sales Marketing Manager
+start_date : 2011-03-12 00:19:07.748232+00
+end_date : 2011-04-10 00:00:00+00
+description: TechCrunch and AOL Tech seek a Sales Marketing Manager to join our growing team.
+ 
+In your subject line, please enter: Resume: Sales Marketing Manager. 
+ 
+No phone calls please. 
+ 
+Sales Marketing Manager Job Description 
+
+Key Job responsibilities include, but are not limited to:
+
+•Act as liaison with AOL sales organization for AOL Tech properties (TechCrunch, Engadget, Joystiq, TUAW and Switched, with a combined reach of over 25 million uniques and more than 200 million page views / month.) 
+
+•Work between sellers and product leads to design custom advertising programs and respond to client RFPs (requests for proposal.)
+
+•Oversee advertising program implementation and performance.
+
+•Design, develop and update sales marketing materials and research that will best position AOL Tech to the advertising community.
+
+•Develop new, innovative sales, marketing and product solutions
+Job Requirements :
+
+
+•3-5 years working experience in an related field – online publisher preferred 
+•Ability to understand and report on advertising data and rich media, HTML and Flash advertising units
+
+•Experience with one or more Internet ad management or targeted marketing applications. AdTech is the current ad serving platform used by AOL Tech.
+•Excellent client service, organizational, and communication skills
+
+••Strong interest in the internet and new media
+
+*Applicant must live in the San Francisco Bay Area or be wiling relocate
+
+About TechCrunch:
+
+TechCrunch (www.techcrunch.com) is a leading technology media network, dedicated to obsessively profiling and reviewing new Internet products and companies. Founded in 2005, TechCrunch and its network of websites reach over 10 million unique visitors and more than 35 million page views per month.  TechCrunch operates a global network of websites including dedicated properties in Europe and Japan as well as specialized industry websites including MobileCrunch, CrunchGear, and TechCrunchIT.  TechCrunch’s CrunchBase, is the leading, open database about start-up companies, people and investors.  In addition to Disrupt, TechCrunch hosts other conferences and events, including The Crunchies Awards and various meet-ups worldwide serving as community platforms for industry conversation and collaboration.  TechCrunch is a wholly owned operating division of AOL.
+
+company_name : TechCrunch
+city : San Francisco
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2011-02-08 23:46:19.225678+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 5900
+website :
+email : vanessa.geithner@teamaol.com
+publish : 1
+featured : 0
+tags : internet,sales,marketing,techcrunch,advertising
+state : California,CA
+

@@ -1,0 +1,53 @@
+job_id : 10242
+businesscategory_name : Internet
+title : Program Manager
+start_date : 2011-07-25 16:22:29.684473+00
+end_date : 2011-08-27 00:00:00+00
+description: CastTV is the San Francisco unit of Tribune Media Services, the leading provider of entertainment information to clients like Microsoft, Google, TiVo, Comcast, IMDb, and more.  CastTV provides a unique work environment: interesting customers and products in a fast-changing market, an agile startup-like atmosphere, and the resources of one of the country’s leading media companies.  We are looking for a passionate Program Manager to play a pivotal role in the success of existing and new products.  Your work will impact millions of consumers and perhaps even you, when you turn on your DVR or go to your favorite video website.
+
+ 
+RESPONSIBILITIES
+
+As a Program Manager, you will drive the success of new product releases by doing whatever it takes to turn vision into features and products used by leading customers.  Responsibilities include: 
+
+    Product/project management: Work with management and engineering to ensure timely delivery of the right priorities
+    Product marketing: Develop materials for new products and features
+    Customer advocacy: Track and communicate feedback and requests from leading customers
+    Quality assurance: Develop, manage, and execute test plans
+    Documentation: Author internal and external-facing technical documentation
+
+ 
+
+ 
+REQUIREMENTS/QUALIFICATIONS
+
+    Bachelor degree in a technical field or equivalent technical proficiency
+    Thrive in an entrepreneurial environment and enjoy wearing different hats
+    Excellent written and verbal communication skills
+    Detail-oriented and customer-focused
+    2+ years experience as a Product Manager, Program Manager, or Sales Engineer.  Recent graduates with strong internships are welcome to apply.
+
+company_name : CastTV unit of Tribune Media Services
+city : San Francisco
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2011-02-17 06:39:15.914578+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 6766
+website :
+email : mgarvey@tribune.com
+publish : 1
+featured : 0
+tags : program manager/product manager
+state : California,CA
+
+

@@ -1,0 +1,36 @@
+job_id : 8800
+businesscategory_name : Internet
+title : CrunchBase Manager
+start_date : 2011-07-28 18:27:06.989526+00
+end_date : 2011-08-27 00:00:00+00
+description: TechCrunch seeks a manager to contribute to our growing CrunchBase property.  CrunchBase is a wikipedia-like database for technology companies, people, and investors.  The directory is a structured wiki with contributions from each TechCrunch editors and the community at large.
+
+You will oversee the business operations of Crunchbase.  The manager will oversee and monitor primary and third-party news sources to identify and incorporate new data into the system. Our target candidates will share a passion for learning about a broad spectrum of Internet businesses and have excellent research and writing skills. The CrunchBase manager will be very focused on analyzing data and producing data visualizations and written research summarizing important and emerging trends in technology.  The manager will have the opportunity to hire additional full-time staff and to partner with existing writers and intern resources.
+
+ Please include "CrunchBase Business Analyst Candidate" in the subject line of your email.
+About TechCrunch:
+
+TechCrunch (www.techcrunch.com) is a leading technology media network, dedicated to obsessively profiling and reviewing new Internet products and companies. Founded in 2005, TechCrunch and its network of websites reach over 10 million unique visitors and more than 35 million page views per month.  TechCrunch operates a global network of websites including dedicated properties in Europe and Japan as well as specialized industry websites including MobileCrunch, CrunchGear, and TechCrunchIT.  TechCrunch’s CrunchBase, is the leading, open database about start-up companies, people and investors.  In addition to Disrupt, TechCrunch hosts other conferences and events, including The Crunchies Awards and various meet-ups worldwide serving as community platforms for industry conversation and collaboration.  TechCrunch is a wholly owned operating division of AOL.
+
+company_name : TechCrunch
+city : San Francisco
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2010-09-01 00:08:51.669419+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 14138
+website :
+email : christian.obrien@teamaol.com
+publish : 1
+featured : 0
+tags : internet,research,data,analysis,techcrunch
+state : California,CA

@@ -1,0 +1,62 @@
+job_id : 6800
+businesscategory_name : Internet
+title : Online Media Analyst
+start_date : 2009-11-06 08:00:00+00
+end_date : 2009-12-06 08:00:00+00
+description:  Online Media Analyst (San Francisco)
+
+The Nickelodeon Kids & Family Digital Games Group is seeking a Online Media Analyst/Business Analyst to oversee reporting on site metrics for the AddictingGames and Shockwave sites. The Analyst will be responsible for developing reports used to gain insights into our online audiences. They will be expected to be a resource for AddictingGames and Shockwave, supporting them with analytics reports, competitive industry insights, and other data-driven information.
+
+Responsibilities:
+
+    Monitor and measure site performance for both AddictingGames and Shockwave
+    Interpret and analyze data in order to track success and develop recommendations for site optimization
+    Work closely with Business and Product teams to effectively understand goals and key performance indicators for existing and new site initiatives
+    Perform weekly and monthly reporting/analysis on key site metrics and SEO data
+    Work with Site Production teams to ensure projects are implemented with appropriate data elements to track results
+    Develop tracking mechanisms to monitor mobile and social networking content areas, including analysis of new social media marketing initiatives
+    Conduct ongoing research into analytics trends and best practices
+
+
+Requirements/Skills:
+
+    A passion for numbers and the ability to use them to tell a story regarding site performance, consumer trends, and competitive analysis
+    Strong quantitative and analytical skills
+    Ability to give insightful presentations to top level executives on site performance and competitive analysis
+    Self motivated and able to work independently
+    Excellent communication and interpersonal skills
+    Strong ability to multi-task, think strategically and problem solve
+
+Experience/Education Requirements:
+
+    5-7 years of online media analytics experience
+    Exceptional knowledge of web analytics systems and syndicated services (Media Metrix, Nielsen//Netratings, eMarketer; Omniture SiteCatalyst; Test & Target, DART tracking/tagging; WebTrends, Google Analytics, Google Adwords)
+    Expertise with Microsoft Excel (including use of Pivot Tables, if-then analysis, and trend analysis) and Powerpoint (including use of tables, graphs, etc.)
+    Strong understanding of new media and digital platforms
+    Experience with online gaming websites a plus
+
+company_name : Nickelodeon
+city : San Francisco
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2009-09-17 22:06:10.870554+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 4259
+website :
+email : Martha.Lopez@mtvstaff.com
+publish : 1
+featured : 0
+tags : analyst,business analyst,reporting,metrics
+state : 
+
+
+

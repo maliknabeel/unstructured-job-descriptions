@@ -1,0 +1,53 @@
+job_id : 5888 
+businesscategory_name : Internet
+title : Software Engineer
+start_date : 2009-01-06 02:40:08.799957+00
+end_date : 2009-02-05 02:40:08.794686+00
+description: ABOUT CASTTV VIDEO SEARCH
+
+CastTV is working to build the web’s best video search engine. CastTV lets users find all their favorite online videos, from TV shows to movies to the latest celebrity, sports, news, and viral videos. Our proprietary technology addresses two main video search challenges: finding and cataloguing videos from the web and delivering relevant video results to users. Our goal is to index every video online and provide the best experience for finding and discovering these videos.
+
+We’re funded by DFJ, Ron Conway, and Marc Andreessen and our smart, experienced team is advised by Rajeev Motwani and other notable industry veterans. Our founders are Stanford alums who sold their previous company to Oracle. We are hiring entrepreneurial folks looking to make an impact and help build an amazing product. CastTV is based in the SoMa neighborhood of San Francisco, CA.
+
+JOB DESCRIPTION
+
+CastTV is looking for a smart, pragmatic, driven Software Engineer to work on our video search/discovery technology.  You will be a key member of our engineering team and develop new features that will dramatically improve the video-finding experience!
+
+QUALIFICATIONS
+* Background in Computer Science or related area.
+* Programming experience in Ruby on Rails or the ability to pick it up very quickly.
+* Exposure to search-related areas (machine learning, collaborative filtering, information retrieval, data crawling) a plus.
+* Previous experience with social-networking APIs (OpenSocial, MySpace, Facebook, etc) a plus.
+* Strong product focus.  You make decisions based on what makes users happier, not on the tech trend of the day.
+
+Please send resumes to jobs AT casttv.com
+company_name : CastTV Video Search
+city : San Francisco
+country :
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2009-01-06 02:40:08.767144+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 3807 
+website :
+email : jobs@casttv.com
+publish : 1
+featured : 0
+tags :
+state :
+        
+
+
+
+
+
+
+

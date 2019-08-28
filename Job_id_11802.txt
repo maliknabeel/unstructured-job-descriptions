@@ -1,0 +1,30 @@
+job_id : 11802
+businesscategory_name : Internet
+title : Chief Technology Officer (CTO)
+start_date : 2011-08-09 20:46:22.124619+00
+end_date : 2011-09-08 20:46:21.941405+00
+description: We are an established, international web-based service with millions of obsessive users and traffic numbers most start-ups would kill for ... but we're not satisfied. We're looking to build the next generation of our service and are searching for the person to lead the charge. Are you passionate about product, able to command respect from even the most hardened engineers, supremely protective of your team, and eager to do something on a grand scale that really makes a difference? If you are looking for a challenge that's bold, ambitious and highly rewarding, you might be our guy. Based on Los Angeles, the chief technology officer will be responsible for building a brand new in-house engineering and visual design team that will envision and create the next generation of our service with an underlying sense of urgency. The successful application will set technology strategy, architect a solution, and be able to draw upon personal contacts and established hiring forums to build the core of the new team. Strong management abilities must go hand in hand with strong technical understanding in order to properly direct this new team. While we are an established company with the stability and resources that come with that, the CTO will be given the tools – and the mandate – to create a culture of urgency and the passion of a nimble start-up
+
+company_name : Company Confidential
+city : Los Angeles
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2011-08-09 20:46:20.864484+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 2186
+website : 
+email : cooljob2011@yahoo.com
+publish : 1
+featured : 0
+tags : cto,engineer,web,service
+state : California,CA
+

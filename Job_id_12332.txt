@@ -1,0 +1,75 @@
+job_id : 12332
+businesscategory_name : Business Operations
+title : Research Analyst
+start_date : 2011-10-05 16:28:29.664485+00
+end_date : 2011-11-04 16:28:29.502099+00
+description: Weber Shandwick is a leading global public relations agency with offices in 74 countries around the world. The firm’s success is built on its deep commitment to client service, our people, creativity, collaboration and harnessing the power of Advocates - engaging stakeholders in new and creative ways to build brands and reputation. Weber Shandwick provides strategy and execution across practices such as consumer marketing, health care, technology, public affairs, financial services, corporate and crisis management. Its specialized services include digital/social media, advocacy advertising, market research, and corporate responsibility. In 2010, Weber Shandwick was named Global Agency of the Year by The Holmes Report for the second year in a row; an ‘Agency of the Decade’ by Advertising Age, Large PR Agency of the Year by Bulldog Reporter, a Digital Firm of the Year by PR News, and Top Corporate Responsibility Advisory Firm by CR Magazine. The firm has also won numerous ‘best place to work’ awards around the world. Weber Shandwick is part of the Interpublic Group (NYSE: IPG). For more information, visit http://www.webershandwick.com.
+
+ 
+
+The New York office has an exciting opportunity for a Research Analyst. We are seeking an analyst who will assist our team in conducting primary and secondary research in the areas of reputation management for the firm and our clients. Our research is used to help our clients build and defend reputations online and offline and build industry thought leadership that crosses regional and global agendas. We are looking for an analyst who can support our team on ground-breaking intellectual capital.
+
+Primary Responsibilities:
+
+·         Conduct Internet and Factiva searches on companies, leaders, organizations, etc. (will train on Factiva)
+
+·         Provide accurate, clear and insightful analyses
+
+·         Gather secondary research data to identify trends in communications, reputation, online developments
+
+·         Assist in identifying best practices for clients
+
+·         Assist in new thought leadership surveys on a wide range of topics
+
+·         Assist on client assignments that range cross-practices and cross-regions
+
+·         Perform basic data analysis
+
+ 
+
+Qualifications:
+
+·         Extremely well-organized and good at multi-tasking
+
+·         Highly detail-oriented (core requirement) – must be comfortable with extensive “data digging”and be able to turn the complex into usable information
+
+·         Client service excellence
+
+·         Strong analytical and critical thinking skills
+
+·         Results-oriented – must be highly motivated to get accurate results and not easily discouraged by the due diligence required
+
+·         Team player
+
+·         Interested in business trends
+
+·         Knowledge of Excel, Word and PowerPoint
+
+·         Must be a college graduate, preferably with a business background,  1+ years internship or related professional experience
+
+ 
+
+Weber Shandwick is an Equal Opportunity Employer. EEO/AA.M/F/D/V.
+
+company_name : Weber Shandwick
+city : New York
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2011-10-05 16:28:28.415705+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 38
+website : 
+email : HRjobopp@cmgrp.com
+publish : 1
+featured : 0
+tags :  research,analyst,business,reputation,management
+state : New York,NY

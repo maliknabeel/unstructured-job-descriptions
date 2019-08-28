@@ -1,0 +1,29 @@
+job_id : 12508
+businesscategory_name : Sales and Marketing
+title : Administrative Assistant
+start_date : 2011-10-21 12:19:46.271686+00
+end_date : 2011-11-20 12:19:46.107831+00
+description: I am looking for an Administrative Assistant who is energetic, and self-motivated individuals with natural talent for sales and marketing.. We're offering good benefit with traveling and monthly bonus.. Contact me for more details.. !!
+
+company_name : J.F. Sato and Associates
+city : ORLANDO
+country : USA
+jobtype : Part Time
+positions : 1
+priority : 0
+creation_date : 2011-10-21 12:19:45.217392+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 544
+website : 
+email : dschaffer@netzero.net
+publish : 1
+featured : 0
+tags :  accounting,payroll,book keeper and secretary
+state : Florida,FL

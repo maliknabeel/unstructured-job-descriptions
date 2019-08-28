@@ -1,0 +1,73 @@
+job_id : 7304 
+businesscategory_name : Computer and Information Technology
+title : Rails Developer
+start_date : 2010-11-04 20:43:21.103361+00
+end_date : 2010-12-04 00:00:00+00
+description: TechCrunch is hiring Rails developers!  
+
+We're looking for a Relentlessly Resourceful hacker to come work with us on some big ideas we have here at TechCrunch. We want to grow our small but intense team to build out the next generation of products and features on our network of blogs and websites. Your job will be to Get Things Done on these projects as well as eventually tell us what we absolutely need to be focused on next (and why).
+
+We're looking for: 
+- Really smart developers
+- Significant development experience
+
+Skills Required:
+- Fundamental OO concepts
+- Ruby
+- Rails 2.3+ - intermediate+ level
+- PHP
+- MySQL
+- CSS [sass]
+- HTML [haml]
+- Git/SVN
+- Love of the web: protocols, platforms
+- Javascript, JQuery, Ajax
+- Server administration
+
+You should have:
+- shipped Ruby on Rails code (full-time or as a side project) to production
+- basic understanding of how to design a system/write code that scales
+
+What you'll get:
+- A competitive salary
+- Health benefits
+- Stock
+- The ability to work in San Francisco
+- Free Lunch on M/F
+- Free access to all TechCrunch conferences/events [You'll probably help plan them as well]
+- A bunch of other nice perks
+
+Why work at TechCrunch?
+By joining the team as a developer, you'll be an intricate part of working on projects that will have massive impact on millions of our readers and users.  Your voice will be heard and you'll have a lot of autonomy over mission-critical decisions.  Our office culture is relaxed yet dynamic, located in the SOMA district of San Francisco within walking distance of CalTrain (perfect for commuting!).  Everyday, amazingly interesting people walk in and out of our doors making for a really exciting working environment.  
+
+About TechCrunch:
+TechCrunch (www.techcrunch.com) is a leading technology media network, dedicated to obsessively profiling and reviewing new Internet products and companies. Founded in 2005, TechCrunch and its network of websites reach over 8 million unique visitors and more than 25 million page views per month.  TechCrunch operates a global network of websites including dedicated properties in Europe and Japan as well as specialized industry websites including MobileCrunch, CrunchGear, and TechCrunchIT.  TechCrunch’s CrunchBase, is the leading, open database about start-up companies, people and investors.  In addition to Disrupt, TechCrunch hosts other conferences and events, including The Crunchies Awards and various meet-ups worldwide serving as community platforms for industry conversation and collaboration.
+
+company_name : TechCrunch
+city : San Francisco
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2010-01-07 02:25:16.175624+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 16678
+website :
+email : vineet@techcrunch.com
+publish : 1
+featured : 0
+tags :  software engineer,developer,hacker,rails,ruby,php
+state : California,CA
+
+
+
+
+
+

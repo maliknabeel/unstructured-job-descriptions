@@ -1,0 +1,29 @@
+job_id : 5688         
+businesscategory_name : Business Operations
+title : Bookkeeper/Administrator/Analyst - $17/hr %100 Telecommute
+start_date : 2008-11-06 17:13:08.878506+00
+end_date : 2008-12-06 17:13:08.877643+00
+description: We have a part-time to full-time position available for a Bookkeeper/Executive Administrator/Financial Analyst. This is a %100 telecommuting (i.e. work from home) position with up to 35 hours per week. This position will require a minimum of 25 hours that will need to be worked with a consistent schedule, during typical business hours, Monday through Friday.    The ideal candidate is someone with an accounting or related business degree, and is looking for a promising and dynamic entry level position with a growing Internet Marketing firm.   This is not a position for someone, who is looking for extra cash, with an easy part-time side job.   We are looking for an energizing Team member, who is computer savvy, understands professionalism, has the desire to learn new disciplines, and grow during the next few years on our vigorous Team.   Our private firm has been in business for seven years. We have a Team of about 30 international staff members, who all work a fixed schedule during typical business hours and telecommute from their respective locations. We communicate using (AIM) instant messenger tool.    This independent contractor, telecommute position involves maintaining our financial bookkeeping duties in Quickbooks/MS Excel and assisting the two Managing Members of the firm in solidifying our operational infrastructure, as well as, maintaining professional presentation to our clients.   We are seeking candidates that hold an accounting and a related business type degree from an acclaimed educational institution, and at least 1-3 years of related working experience in Bookkeeping, specifically with Quickbooks software.   The ideal candidate is analytical, clever, highly organized,  and a pro-active problem solver with exceptional professional written and oral communication skills.   All candidates will be expected to take an online exam that evaluates their Quickbooks and MS Excel skills via an independent service.   Required Skills & Experience: -> Educational background and professional experience in bookkeeping and corporate administration. -> Experience with Quickbooks & Advanced MS Excel skills -> Passion for creating and implementing corporate operational systems. -> Superior research skills and have experience in presenting information in a professional manor, so our Management team can make decisions. -> Based on prior experience, will need to understand how corporate infrastructure systems are organized as well as professional operational system protocols. -> Capable of forming strategic relationships over the telephone. -> Superior English written and oral communication skills. -> Computer savvy, with advanced skills in MSOffice, PowerPoint, PDF etc. -> Basic HTML skills or willingness to learn.   Personal Qualities: -> Strong and prevalent analytical skills -> Unflappable, well-balanced and has humility  -> Highly Organized & Detail Oriented -> Self-starter, highly motivated, pro-active, one who takes initiative and can work independently. -> You're perspectives are positive and constructive -> Clever & creative problem solver -> Reliable, consistent, and an understanding of how to conduct yourself in a professional manor -> You enjoy multi-tasking and taking on a diversity of Projects -> Quick learner    You will need a home office with high speed Internet access and a phone line exclusively used for making/receiving professional calls. You must be available from 25 to 35 hours per week during regular business hours. To be considered for this position, please submit a cover letter with an attached resume.   Thank you for your interest.  
+company_name : http://www.isotree.com
+city : %100 Telecommute
+country :
+jobtype : Part Time
+positions : 1
+priority : 0
+creation_date : 2008-11-06 17:13:08.835156+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 17575
+website :
+email : daniel@isoTree.com
+publish : 1
+featured : 0
+tags :
+state :
+        

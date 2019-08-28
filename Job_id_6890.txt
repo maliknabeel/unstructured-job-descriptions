@@ -1,0 +1,48 @@
+job_id : 6890
+businesscategory_name : Internet
+title : Product Manager
+start_date : 2009-10-07 18:56:16.031297+00
+end_date : 2009-11-06 19:56:16.007395+00
+description:  Description:
+Focused on the future, the Web Product Manager works closely with creative and technologists to design and develop web experiences that fulfill our long-term, customer-focused vision. The Product Manager guides web products throughout the execution cycle, focusing specifically on analyzing, positioning, designing, tailoring our solutions to all the markets where NYX does business. An understanding of web communities and social media is essential.
+
+Responsibilities:
+Own web product/feature launches from conception through launch and beyond. Act as customer advocate for all development efforts to produce useful, usable products. Gather business requirements and translate them into actionable product specs - wireframes, functional requirements. Partner closely with design and IT counterparts to ensure seamless, successful development efforts. Track performance of live products to generate reporting and drive enhancement recommendations.
+
+Experience & Characteristics:
+* Proven record driving consumer web product from idea to launch and post-launch analysis/look back.
+* Experience in review, selection and onboarding of third party software/tools
+* Deep knowledge of social media and online community technologies such as blogs, forums, etc.
+* Familiarity with content-rich sites and CMS systems
+* Wireframing and authoring requirements for development
+* "Can do" attitude, team player
+* Bachelor's degree or equivalent required
+
+NYSE Euronext brings together the markets, people and technologies needed to help power global business, providing a stage for market participants to connect, communicate, collaborate, network and exchange ideas and solutions.
+
+company_name : NYSE Euronext
+city : New York
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2009-10-07 18:56:15.971747+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 1463
+website :
+email : dreese@nyx.com
+publish : 1
+featured : 0
+tags : wireframes,functional requirements,execution cycle,cms
+state : New York
+
+
+
+

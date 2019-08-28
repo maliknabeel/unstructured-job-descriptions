@@ -1,0 +1,53 @@
+job_id : 5882 
+businesscategory_name : Internet
+title : Product Manager
+start_date : 2009-01-05 19:33:48.07273+00
+end_date : 2009-02-04 19:33:48.067078+00
+description: The product manager will work in a small team to help determine and execute the product strategy for pronto.com.  The ideal candidate is detail oriented, is passionate about creating ambitious user experiences online and loves online shopping and social media.  Interest in fashion and design is a plus. 
+
+Responsibilities include:
+
+-        creating wireframes and specifications documents outlining product requirements
+-        participating in user testing of all new products
+-        working with designers, developers, engineers and business owners to execute products according to spec and on time
+
+ Requirements:
+
+-        2-4 years experience with product management, interaction design or information architecture
+-        Knowledge of user experience best practices 
+-        Excellent written and oral communication skills
+-        The ability to work well in a team in a fast-paced environment
+-        Bachelor’s degree
+-        Experience with social media products a plus
+-        The candidate must be able to provide examples of work product
+
+Pronto.com is a social shopping web site with over 12 million unique users per month and is a top ten fastest growing site on the web.  We are funded by IAC and located in the IAC Building in New York, NY.
+company_name : Pronto.com
+city : New York
+country :
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2009-01-05 19:33:48.046367+00
+status : f
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 1489 
+website :
+email : jobs@pronto.com
+publish : 1
+featured : 0
+tags :
+state :
+        
+
+
+
+
+
+

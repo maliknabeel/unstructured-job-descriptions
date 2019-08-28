@@ -1,0 +1,48 @@
+job_id : 8044
+businesscategory_name : Business Operations
+title : Analyst
+start_date : 2010-05-13 17:47:39.118085+00
+end_date : 2010-06-12 17:47:39.110354+00
+description: Company Description
+
+Altman Vilandrie & Company (AV&Co.) is a boutique strategy consulting group that focuses exclusively on the communications, media, clean tech and related technology and investor sectors. As one of the only pure play communications and media strategy consulting groups in North America, we assist operating companies and financial groups in fast, high-impact, confident decision making. We enable clients to seize new opportunities, improve business performance, and increase shareholder value within complex and converging industries.
+
+ 
+
+Job Qualifications
+
+AV&Co. seeks analysts with strong quantitative backgrounds, and the ability to work on independent tasks while contributing to the project teams overall analysis. Effective communication skills, proficiency with spreadsheets, integrity, and a positive work ethic are prerequisites for an analyst applicant. 0-3 years experience.
+
+ 
+
+Job Description
+
+Analysts at Altman Vilandrie & Co. (AV&Co.) are involved in every aspect of our consulting practice. Our analysts build financial and market demand models, research business and technology trends, and help prepare presentation material for both client projects and marketing.  As an analyst, you will have an excellent opportunity to develop and hone your general analytical and presentation skills, as well as gain specific industry knowledge.
+
+ 
+
+The analyst role is an entry to mid-level position for applicants who are interested in management consulting.
+
+company_name : Altman Vilandrie & Company
+city : Boston
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2010-05-13 17:47:39.052366+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 1317
+website :
+email : recruiting@altvil.com
+publish : 1
+featured : 0
+tags :  analyst,consulting,consultant,telecom,clean tech,boutique
+state : Massachusetts,MA
+

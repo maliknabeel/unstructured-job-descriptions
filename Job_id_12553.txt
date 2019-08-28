@@ -1,0 +1,54 @@
+job_id : 12553
+businesscategory_name : Architecture and Engineering
+title : Engineer I
+start_date : 2011-10-24 22:33:53.444871+00
+end_date : 2011-11-23 22:33:53.281169+00
+description: Q-Cells North America, based in San Francisco, designs, builds and manages financially sustainable solar power generation systems bringing a best-of-word ecosystem of technology, processes and partnerships to local markets.   Q-Cells NA is currently searching for an Engineer I.
+
+ Reporting to the VP Engineering, the Engineer I will be responsible for the following:
+
+    Assist in all stages of project design including conceptual and advanced system design observing regulatory codes as well as customer requirements, balance of systems, siting, permitting and technical support during construction phase.
+    Assist project implementation in collaboration with the Project Manager and Project Engineer during planning and construction to assure quality and execution according to schedule.
+    Assist in the development and review of energy production models, project schedules, cost estimation, bill of materials, budgets, scopes of work, standards and quotes from suppliers.
+    Coordinate external resources such as structural, civil and electrical engineer consultants, geotechnical and topographic surveyors, other specialized professionals as needed and suppliers.
+    Create, deliver and maintain drawing packages and project documentation.
+    In collaboration with other team members, contribute to the completion of proposals to design and deliver photovoltaic projects.
+    Provide recommendations for continuous improvements in project designs, plans, processes and product development.
+    Assist with technical training to other team members and new employees
+    Collaborate with team members when necessary to ensure effective communication and results.
+
+ 
+
+Qualifications
+
+    A bachelor’s degree in Electrical Engineering, Mechanical Engineering or a related engineering science subject.
+    Solar system installation or design experience is a plus 
+    Experience with AutoCad and Office Suite (or equivalent)
+    Knowledge of the National Electric Code
+    Assertive, able to cope with pressure, a team player, prepared to travel
+    This is an entry level position.
+
+Q-Cells North America is an Equal Opportunity Employer offering competitive compensation and benefits packages.
+
+company_name : Q-Cells North America
+city : SAN FRANCISCO 
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2011-10-24 22:33:52.595171+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 110
+website : 
+email : xb001jobs@gmail.com
+publish : 1
+featured : 0
+tags :  engineer i needed at leading solar company - entry level position
+state : California,CA

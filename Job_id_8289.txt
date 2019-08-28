@@ -1,0 +1,36 @@
+job_id : 8289
+businesscategory_name : Financial Services,Banking
+title : Research Analyst
+start_date : 2010-06-18 20:30:56.463816+00
+end_date : 2010-07-18 20:30:56.455859+00
+description: The Carlyle Group is a global private equity firm with $88.6 billion of assets under management committed to 67 funds as of December 31, 2009. Carlyle invests in buyouts, growth capital, real estate and leveraged finance in Africa, Asia, Australia, Europe, North America and South America focusing on aerospace & defense, automotive & transportation, consumer & retail, energy & power, financial services, healthcare, industrial, infrastructure, technology & business services and telecommunications & media. Since 1987, the firm has invested $59.6 billion of equity in 952 transactions. The Carlyle Group employs more than 850 people in 27 offices throughout the world.
+
+ 
+
+The Research Analyst role will be within Carlyle Growth Partners, the US small LBO and growth capital arm of the firm which manages $1 billion of assets across several industries including education, business services, technology, telecom, media and healthcare. The primary responsibility of the Analyst will be to work to support directly the investment professionals on non-deal related activities.  The scope of the work will include, but is not limited to, managing and completing the various portfolio reporting functions required by the team such as company specific quarterly valuation reports and analysis(both quantitative and qualitative) and bi-weekly portfolio updates.  Additionally, the Analyst will support the investment professionals in tasks such as fund communications and marketing initiatives and general market and industry specific research.  While investment-related work will not be a primary function of the role, potential opportunities may exist to work with deal teams, time permitting, and the Analyst will have the opportunity to participate in bi-weekly investment team meetings.
+
+ While the Research  Analyst role is a support role for our investment team, with exceptional performance there would potentially be an opportunity for a promotion to the investment team after a 2-year period, based on meeting or exceeding performance targets.
+
+company_name : The Carlyle Group
+city : Washington DC
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2010-06-18 20:30:56.411416+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 1342
+website :
+email : hrusa@Carlyle.com
+publish : 1
+featured : 0
+tags :  research analyst position within an investment team
+state : District of Columbia
+

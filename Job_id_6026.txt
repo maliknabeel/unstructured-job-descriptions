@@ -1,0 +1,58 @@
+job_id : 6026 
+businesscategory_name : Internet 
+title : Conferences & Events Director
+start_date : 2009-02-05 22:34:45.282387+00
+end_date : 2009-03-07 22:34:45.277008+00 
+description: About TechCrunch
+TechCrunchis an internet media company dedicated to obsessively profiling and reviewing technology products and companies. Founded 3.5 years ago as a single-author blog, today TechCrunch comprises a dozen websites, hosts a variety of conferences and events and has a growing data-services business.  Our flagship site, TechCrunch, is the largest technology blog on the internet, both in terms of reach and authority.
+ 
+About the Role & Responsibilities
+
+TechCrunch now hosts about a dozen events a year, and we need an event-planning  expert.  TechCrunch events include our popular business-networking MeetUps held in multiple cities in the US and Internationally, the TechCrunch50 Conference, the Crunchies Award Ceremony, and other events under development.  TechCrunch events range in attendance from 200 2,000 each.
+
+ The Conferences & Events Director will be responsible for all major planning components of TechCrunch events, including venue and vendor research and negotiation, agenda and speaker coordination, ticketing and registration planning, sponsor and press management, and more.  The candidate should have both amazing organizational and interpersonal skills as well as unlimited energy. 
+
+Two-years relevant work experience preferred.
+
+Please include "Conferences & Events Director candidate" in the subject line of your email.
+
+company_name : TechCrunch
+city : Palo Alto
+country : 
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2009-02-05 22:34:45.248405+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 8141 
+website :
+email : heather@techcrunch.com
+publish : 1
+featured : 0
+tags : 
+state :
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

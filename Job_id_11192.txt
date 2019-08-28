@@ -1,0 +1,29 @@
+job_id : 11192
+businesscategory_name : Computer and Information Technology
+title : Director of Product Management, Advanced Software Development
+start_date : 2011-07-06 19:20:11.576146+00
+end_date : 2011-08-05 00:00:00+00
+description: We are AMPT (Audience & Multi-Platform Technologies) and we power Turner Broadcasting System’s global network of digital brands.  Grow with us - we’re hiring 100 Technologists in 100 Days. The role of the Advanced Software Development,  Product Manager is to partner with Turner business units, strategic technology partners in the application development, search technology, and recommendation/discovery solution space (new and existing), AMPT colleagues and corporate to identify, create and implement a forward looking social technology and experience roadmap focused on the intersection of media and the social platforms space that is actionable for technology & operations teams, product development, marketing, programming, and sales. The Director will show leadership in advanced technology delivery while at all times providing solid communication between design, development and product management teams. The Director will leverage market trends while consistently focusing on the consumer and the value of Turner products to the viewer. The Director will work with industry consortiums where appropriate to help support corporate initiatives. This role will ensure cross-functional and cross-divisional collaboration is achieved in pursuit of efficient allocation of resources and execution of systems strategy and projects.
+Qualifications: 10+ years experience with technical product management, design & development of consumer facing interactive platforms, products, or services. 5+ years direct experience working with application development frameworks, IDEs, methods, search technologies, navigation/discovery algorithms and solutions,  including but not limited to iPhone, iPad, and interactive/connected TVs in designing and launching products and applications to consumers. Experience with user interface, interaction design and development. At least 7 years demonstrated success leading individuals and teams to accomplish goals within time, resource and budget constraints. Demonstrated ability to mentor and direct the work of others in a way that builds successful internal and external relationships and provides opportunities for staff to develop professional/technical skills. 
+company_name : Turner Broadcasting System, Inc.
+city : San Francisco
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2011-06-06 20:59:22.663272+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 2163
+website : 
+email : victoria.hinks@turner.com
+publish : 1
+featured : 0
+tags : software development,product management,interactive platforms,ides,application development
+state : California,CA

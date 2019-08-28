@@ -1,0 +1,55 @@
+job_id : 8239
+businesscategory_name : Internet
+title : Community Manager
+start_date : 2010-06-11 19:23:22.640274+00
+end_date : 2010-07-11 19:23:22.632307+00
+description: We're lucky to have a great community at TechCrunch.  We have nearly 10 million unique visitors / month to our network of websites and we hold events that attract thousands of attendees and hundreds of thousands via live streams.  We need a super-energized community manager to help us keep our readers engaged and to grow our network in new directions.
+
+Core responsibilities include:
+
+--Help share information and engage with readers on Facebook, Twitter, GoogleBuzz, YouTube, foursquare, Gowalla, Meetup, etc.
+
+--Coordinate contests and giveaways
+
+--Help attendees effectively network at our live events
+
+--Use social media in smart ways to support and grow our audience online and at live events
+
+--Monitor site traffic and establish relationships with meaningful third-party partners.
+
+ 
+
+Please include "Community Manager Candidate" in the subject line of your email.
+
+ 
+
+About TechCrunch:
+
+TechCrunch (www.techcrunch.com) is a leading technology media network, dedicated to obsessively profiling and reviewing new Internet products and companies. Founded in 2005, TechCrunch and its network of websites reach over 8 million unique visitors and more than 25 million page views per month.  TechCrunch operates a global network of websites including dedicated properties in Europe and Japan as well as specialized industry websites including MobileCrunch, CrunchGear, and TechCrunchIT.  TechCrunch’s CrunchBase, is the leading, open database about start-up companies, people and investors.  In addition to Disrupt, TechCrunch hosts other conferences and events, including The Crunchies Awards and various meet-ups worldwide serving as community platforms for industry conversation and collaboration.
+
+company_name : TechCrunch
+city : San Francisco
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2010-06-11 19:23:22.568067+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 5613
+website :
+email : heather@techcrunch.com
+publish : 1
+featured : 0
+tags :  product,techcrunch,internet
+state : California,CA
+
+
+
+

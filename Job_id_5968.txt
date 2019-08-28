@@ -1,0 +1,55 @@
+job_id : 5968 
+businesscategory_name : Computer and Information Technology
+title : CTO/Lead Developer
+start_date : 2009-01-26 21:20:29.443318+00
+end_date : 2009-02-25 21:20:29.438047+00 
+description: We have an exciting opportunity available for a talented CTO/Lead Developer position in a live media search project. The position will oversee both in house programmers as well as outside firms, while initially coding themselves. An ideal candidate is one that has familiarity with dynamically updating databases, general search, as well as front end design and construction. Initial salary is competitive and based on skills, with the opportunity for performance based equity. Possible to telecommute at first, although a New York City location is preferred.
+
+Candidates must meet the following qualifications:
+
+    MySQL
+    PHP
+    Javascript
+    Ajax
+    Database architecure experience
+    Social web experience
+    CS majors preferred
+
+To Apply:
+
+Please include a resume and links to previous work with descriptions of project involvement.
+company_name : NowHound Inc.
+city : New York City or Telecommute
+country :
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2009-01-26 21:20:29.385121+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 5618 
+website :
+email : hr@nowhound.com
+publish : 1
+featured : 0
+tags :
+state :
+        
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,47 @@
+job_id : 8942
+businesscategory_name : Architecture and Engineering
+title : Creative Software Engineer
+start_date : 2011-05-12 03:27:52.698909+00
+end_date : 2011-06-11 00:00:00+00
+description: Peanut Labs is the #1 monetization platform for social networks. We monetize the largest social networks today, such as Facebook, IMVU to name just a few. Our platform processes millions of dollars in transactions monthly. Today we are looking for excellenet engineers to help us with the challenging task of developing and scaling this platform.
+
+Creative Software Developer for PHP/MySQL
+• Software development of core platform using PHP/MySQL/JavaScript and other relevant technologies
+• Shape product vision and requirements
+• Code primarily using PHP, Javascript, MySQL, CSS/HTML
+• Optimize our platform infrastructure to ensure that the Peanut Labs platform is fast and reliable
+ 
+ 
+Job Requirements:
+ 
+• B.A./B.S. in Computer Science or a related technical field 
+• Rapid learner who thrives in a fast-paced environment
+• Self-motivated; must take extreme pride in your work
+• Knowledge of relational databases and SQL
+• Must be able to write scalable code that will support millions of hard dollar  transactions per day
+ 
+ 
+At Peanut Labs, growth opportunities abound. All one needs is passion and the ambition to rise to higher levels of responsibility
+
+company_name : Peanut Labs
+city : San Francisco
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2010-09-15 22:00:23.297436+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 21055
+website :
+email : prosper@peanutlabs.com
+publish : 1
+featured : 0
+tags : software engineer,php,mysql,developer,javascript,html
+state : California,CA

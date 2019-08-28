@@ -1,0 +1,52 @@
+job_id : 7744
+businesscategory_name : Internet
+title : Channel Manager
+start_date : 2010-03-26 23:23:23.397284+00
+end_date : 2010-04-25 23:23:23.389505+00
+description: As our Channel Manager you will be responsible for the successful operation of our multiple external syndication channels, including YouTube, embedded player partnerships, iTunes, mobile, airlines VOD and more. The position will require significant coordination with external and internal partners to ensure that contractual deadlines are met and that channels are running smoothly. A successful Channel Manager will build relationships with external partners in order to garner promotional views. A great Channel Manager will go beyond the implementation and basic relationship duties and build contacts with others in the channel ecosystem in order to continually update the best practices that will drive views and revenues.
+
+Because syndication drives a large percentage of our overall views and revenues, this role is critical to the continued success of Funny or Die.  As such, we seek someone truly exceptional to fill the position. You will report to Funny or Die’s head of business development.  In the course of performing your duties, you will work closely with Funny or Die colleagues in Content Production/Editorial, Sales, Product Management, Finance and Marketing. 
+
+To succeed in your role you will need:
+
+    Very strong organizational and project management skills
+    A track record of building relationships and managing high profile accounts
+    Facility with interpreting contractual terms
+    Ability to use data to drive channel decisions
+    Good editorial judgment for programming channels
+    High energy and a “can do” attitude
+    Ability to balance (1) outward relationships, (2) contractual terms and (3) internal priorities of the different groups within Funny or Die
+
+Our ideal candidate has:
+
+    A track record of excellence – personally, professionally, academically
+    3+ years experience in channel management, account management or business development role in an online or media context
+    Knowledge and connections within YouTube and the YouTube community are a big plus
+    Some knowledge of Final Cut Pro and image editing software is a plus
+    An interest in smart comedy
+    A college degree
+
+company_name : Funny or Die
+city : San Francisco
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2010-03-26 23:23:23.348741+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 2446
+website :
+email : marcelo@funnyordie.com
+publish : 1
+featured : 0
+tags :  channel manager,media,comedy,online video
+state : California,CA
+
+

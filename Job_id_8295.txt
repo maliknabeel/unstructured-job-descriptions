@@ -1,0 +1,48 @@
+job_id : 8295
+businesscategory_name : Sales and Marketing
+title : Account Manager
+start_date : 2010-06-21 19:32:53.574231+00
+end_date : 2010-07-21 19:32:53.57338+00
+description: Personforce currently has several part-time Account Manager / Sales positions available covering Bay Area clients. Personforce is a profitable, growing company founded by Stanford alumni that helps online publishers make more money from job listings and other recruitment-related advertising. 
+
+
+This is a great job for someone who is looking for flexibility to work around their schedule and has very strong people skills.
+
+As an account manager / sales rep, you will be assigned a publisher (for example a college newspaper) and your primarily responsibilities will be to:
+• Grow and build employer relationships on behalf of the publisher
+• Follow up with employers that post jobs on our sites to drive additional sales
+• Responsibility for the success of a $100,000 revenue unit
+
+Key features of the job:
+
+
+• This is a part-time role. You’ll need to dedicate about 3 hours per day to the job, but it is predominantly left to you.
+
+• We’re flexible on location. You can work from home or from our office in downtown San Francisco. If you want to work from home, you really can be located anywhere in the country.
+
+• Compensation: You should expect to make about $30-40 per hour, though compensation is primarily driven by the profitability and revenue of your assigned Publisher. Compensation is part monthly stipend, but predominantly commission driven. 
+
+• No cold calling: You’ll only be asked to call on companies that are prior Personforce customers.
+
+company_name : Personforce
+city : San Francisco
+country : USA
+jobtype : Contractual
+positions : 1
+priority : 0
+creation_date : 2010-06-21 19:32:53.532899+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 1342
+website :
+email : rohin@personforce.com
+publish : 1
+featured : 0
+tags :  account manager,sales rep
+state : California,CA

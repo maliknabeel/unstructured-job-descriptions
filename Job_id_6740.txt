@@ -1,0 +1,63 @@
+job_id : 6740
+businesscategory_name : Internet
+title : Software Engineer
+start_date : 2009-09-06 05:02:03.864087+00
+end_date : 2009-10-06 05:02:03.83876+00
+description:  We are a venture-funded startup seeking an engineer that is able to work independently on projects that are both technically and methodically challenging. The position requires an understanding of basic web technologies, but we are open to people who are willing to learn and lack general experience. We are not interested in people who have spent their tenure as engineers in large corporate settings. We want people interesting in working long hours and dedicating themselves to the projects here. You should be prepared to make this startup a major part of your life. The employees of this startup have worked for some of the internet's most successful companies including: Facebook and Microsoft.
+
+Requirements:
+
+*Experience with basic web technologies such as PHP, Python, or Ruby
+
+*Proficiency in C, C++, or Java
+
+*Exceptional problem solving skills
+
+*Extensive experience with UNIX
+
+*Willingness to learn quickly and do whatever it takes to get the job done
+
+Pluses:
+
+*Experience with scaling data using MySQL, Hadoop, or any database system
+
+*Familiarity with scalable web architectures
+
+*Understanding of Erlang
+
+Perks:
+
+*Health, Vision, and Dental Insurance
+
+*Awesome computer setup (Macbook Pro)
+
+*iPhone
+
+*Free food
+
+*Weekly dinners at nice restaurants 
+
+company_name : Fwix
+city : San Francisco
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2009-09-06 05:02:03.716084+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 3660
+website :
+email : darian@fwix.com
+publish : 1
+featured : 0
+tags : developer,news,software,engineer,erlang,php,python
+state : California
+
+

@@ -1,0 +1,67 @@
+job_id : 5930 
+businesscategory_name : Healthcare and Safety
+title : Vice President Technology/CTO
+start_date : 2009-01-13 20:59:48.322589+00
+end_date : 2009-02-12 20:59:48.317289+00
+description: Vice President Technology/CTO, Healogica Inc.
+
+Intro:
+
+Healogica Inc. an online service for connecting patients to clinical trials opportunities seeks a kick-ass co-founding Vice President Technology/CTO.
+
+This person will be responsible for setting the direction and managing the execution of all aspects of worldwide technology development and will be able a key co-founding member of Team Healogica.  In addition, this position will also have significant involvement in product development and management and will offer the candidate the opportunity to do a wide range of cool and interesting things.  Healogica seeks to fundamentally change the way new medicines are brought to market and the Vice President Technology/CTO will be key to achieving this mission.  We plan to launch the beta version of our product in early 2009.
+
+Responsibilities:
+
+•    Hands-on coding of beta application and enhancements/new features to follow soon after launch (you must like to code!)
+•    Creating and communicating internally and externally the strategy for Healogica’s technology (can’t just be a coder, though – got to be able to communicate as well)
+•    Creating and maintaining Healogica’s technology roadmap, aligned with business and financial objectives and considering all aspects of the product lifecycle (got to be organized and able to keep things moving forward)
+•    Building and developing an awesome technology management team (got to be able to lead a team as we grow)
+
+Relationships:
+
+The Vice President Technology/CTO will join the company’s 2 hyper-focused co-founders as part of the founding team.
+
+Qualifications:
+
+•    A creative, driven technology management professional with experience building world-class scalable consumer-facing web products (think big!)
+•    At least five years of experience in the e-commerce/online content industry as a technology manager/developer/coder (years less important than actual accomplishments)
+•    Hands-on development experience with Ruby, Java, Python, and .NET, and other major development platforms (you dream in code)
+•    Previous experience with health-oriented applications on the web in particular and the healthcare industry in general is very helpful (you know the lingo)
+•    You've done it before, you’re fired up to do it again, and you have a ton of great ideas that you’d like to experiment with (emphasis on being fired up!)
+
+Location
+
+•    Manhattan, NYC
+company_name : Healogica, Inc.
+city : New York, New York
+country :
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2009-01-13 20:59:48.25028+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 5237 
+website :
+email : healogica@healogica.com
+publish : 1
+featured : 0
+tags :
+state :
+        
+
+
+
+
+
+
+
+
+

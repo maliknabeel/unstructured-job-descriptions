@@ -1,0 +1,42 @@
+job_id : 7091
+businesscategory_name : Internet
+title : Conferences & Events Director
+start_date : 2010-06-11 18:55:06.865202+00
+end_date : 2010-07-11 07:00:00+00
+description: About the Role & Responsibilities
+
+TechCrunch now hosts about three major conferneces a year, an annual awards ceremony and lots of other meetups, and we need a conferences and event-planning expert.  TechCrunch events include our popular business-networking CrunchUps held in multiple US and international cities, TechCrunch Disrupt Conferences in New York and San Francisco, the Crunchies Award Ceremony, and new events under development.  TechCrunch events currently range in attendance from 500 - 2,000.
+
+The Conferences & Events Director will be responsible for all major planning components of TechCrunch events, including venue and vendor research and negotiation, technical coordination, agenda and speaker coordination, ticketing and registration planning, sponsor and press management, and more.  The candidate should have both amazing organizational and interpersonal skills as well as unlimited energy. 
+
+Three+ years relevant work experience preferred.
+
+Please include "Conferences & Events Director candidate" in the subject line of your email.
+
+About TechCrunch
+
+TechCrunch (www.techcrunch.com) is a leading technology media network, dedicated to obsessively profiling and reviewing new Internet products and companies. Founded in 2005, TechCrunch and its network of websites reach over 8 million unique visitors and more than 25 million page views per month.  TechCrunch operates a global network of websites including dedicated properties in Europe and Japan as well as specialized industry websites including MobileCrunch, CrunchGear, and TechCrunchIT.  TechCrunch’s CrunchBase, is the leading, open database about start-up companies, people and investors.  In addition to Disrupt, TechCrunch hosts other conferences and events, including The Crunchies Awards and various meet-ups worldwide serving as community platforms for industry conversation and collaboration.
+
+company_name : TechCrunch
+city : San Francisco
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2009-11-16 12:04:56.784694+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 18154
+website :
+email : heather@techcrunch.com
+publish : 1
+featured : 0
+tags : techcrunch,conferences,events,producer,director
+state : California,CA
+

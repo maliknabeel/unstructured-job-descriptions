@@ -1,0 +1,36 @@
+job_id : 7327 
+businesscategory_name : Business Operations
+title : Product Manager
+start_date : 2010-01-12 20:07:21.858669+00
+end_date : 2010-02-11 20:07:21.851824+00
+description: Eventbrite is looking for a world-class Product Manager who can take ownership of the product lifecycle for new features.  Position Summary: Reporting to the VP of Product, this position requires a self-starter who enjoys working with cross-functional and collaborative teams. The ideal candidate will have a passion for online event management and ticketing  Responsibilities will include but are not limited to the following: Gather and prioritize product requirements for new feature development Engage with customers and prospective customers to understand pain points and opportunities for product improvements Work closely with key stakeholders to write PDRs and specifications Participate in market sizing projects Conduct detailed analyses of competitive offerings Identify and track metrics for measuring success  Required Skills: Passionate for delighting customers and building emerging web technologies Self-starter with proven track record of execution in product management Excellent written and oral communication skills and the ability to interact with and understand technology Proven team leading experience across diverse groups of technical and non-technical members A minimum of 2 years experience in Web-based product management; prior startup experience preferable BS degree in a technology-related field 
+
+company_name : Eventbrite
+city : San Francisco
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2010-01-12 20:07:06.258791+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 1586
+website :
+email : jobs@eventbrite.com
+publish : 1
+featured : 0
+tags :  product management,manager,startup,internet,web
+state : California,CA
+
+
+
+
+
+
+

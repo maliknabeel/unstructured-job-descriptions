@@ -1,0 +1,68 @@
+job_id : 8197
+businesscategory_name : Computer and Information Technology
+title : Jr. ASIC Verification Engineer;
+start_date : 2010-06-08 00:19:20.858282+00
+end_date : 2010-07-08 00:19:20.850534+00
+description: ASIC Verification Engineer – Digital (Sunnyvale, CA)
+
+New College Graduate
+
+ 
+
+As a member of VLSI engineering design team, new college grads will be mentored and trained for implementing test plans to verify unit, subsystem, and chip level functionality. This work will eventually involve working closely with design engineers to create constrained random based test-bench and test cases, to ensure adequate feature and code coverage, and to help resolve test failures. NCG will have the opportunity to help create reusable verification environments to be used across multiple projects.  New college grads will contribute to various SOC verification initiatives including end-to-end testing, formal verification, and verification of multiple power domains.
+
+ 
+
+Required
+
+    BS or MS in EE, Computer Engineering, or equivalent field.
+    ASIC Verification interest
+    RTL Design Understanding (Verilog preferred)
+    Good communication skills
+    Detail oriented and driven
+    Flexible and energetic
+    3.3 GPA or better
+
+ 
+
+Strongly Desired
+
+    Solid programming skills (OOP, flow development)
+
+ 
+
+Preferred
+
+    Internship/coop experience
+    Knowledge of digital video processing
+    Specman Constrained Random test-bench knowledge
+
+Please contact;
+
+mapton@gmail.com
+
+company_name : Apton Associates
+city : Sunnyvale
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2010-06-08 00:19:20.785627+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 631
+website :
+email : mapton@gmail.com
+publish : 1
+featured : 0
+tags :  verification,rtl,verilog
+state : 
+
+
+

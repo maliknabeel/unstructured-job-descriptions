@@ -1,0 +1,62 @@
+job_id : 6368
+businesscategory_name : Architecture and Engineering
+title : Software Engineer
+start_date : 2010-08-24 00:59:12.144774+00
+end_date : 2010-09-22 07:00:00+00
+description:   Fwix is a venture-funded startup looking to expand its development team.  We have built extensive technology designed to aggregate local news from a myriad of content producers.  The founders and upper management of Fwix were all early employees at Facebook, iLike, Geni, Yammer, or YuMe.  We are looking for engineers that are willing to learn, explore new technologies, and are open to working on a wide range of projects.  We're open to any type of candidate and are excited by people who like working with large data sets and applying theoretical principles to products used by everyday consumers.
+
+Working at Fwix will be unique in the sense that you will be one of six engineers on the project and will be responsible for your own project(s).
+
+Requirements:
+
+*Experience with basic web technologies such as PHP, Python, or Ruby
+
+*Proficiency in C, C++, or Java
+
+*Exceptional problem solving skills
+
+*Extensive experience with UNIX
+
+*Willingness to learn quickly and do whatever it takes to get the job done
+
+Pluses:
+
+*Experience with scaling data using MySQL, Hadoop, or any database system
+
+*Familiarity with scalable web architectures
+
+*Mobile Development on iPhone, J2EE, or any mobile platform
+
+*Experience with Python for 2+ years
+
+company_name : Fwix
+city : San Francisco
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2009-05-30 22:57:15.813848+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 9555
+website :
+email : darian@fwix.com
+publish : 1
+featured : 0
+tags : software engineer,mysql,hadoop,erlang,php,python
+state :
+
+
+
+
+
+
+
+
+

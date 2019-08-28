@@ -1,0 +1,55 @@
+job_id : 8044
+businesscategory_name : Internet
+title : Manager of Online Development & Marketing
+start_date : 2010-05-31 03:46:59.339683+00
+end_date : 2010-06-30 03:46:59.332202+00
+description: Manager of Online Development & Marketing
+
+Responsible for digital and social media initiatives for Record Label Group specializing in Country Music.
+
+Responsibilities:
+
+    Planning, developing and executing digital/new media strategy - examples include: Web Site Development, Graphic Layout, Live Interaction Event Coordination, Online contesting, Widget development, Social Network Oversight, Digital Asset Distribution, Online Media Tours, etc.
+    Managing label relations with new media partners, i.e. Facebook, MySpace, iLike, YouTube, Twitter and uStream.
+    Working with third party vendors to develop exclusive programs/software platforms for mobile and online.
+    Working with artists to formulate online branding strategies and new media tool training
+    Developing and maintaining all corporate label and artist sites as well as social networks and mobile initiatives.
+    Developing and maintaining databases and B2B and B2C communication systems.
+    Maintaining and monitoring all artist social networking sites - Facebook, MySpace, iLike, YouTube, Twitter, etc.
+    Research and report on new mobile and online technologies and trends to management.
+    Coordinating digital assets between label, management, radio & various third parties
+    Designing trade and commercial advertising materials for both label and artists
+    Assist in designing artist single packaging and promotional materials (pop, download cards, etc.)
+    Assist in designing CMA/ACM/CMT voting campaign pieces (online and print)
+
+CMA Music Festival
+
+    Design and setup of label booth (including merchandise, video screens, overall look and feel)
+    Design label merchandise with third party vendors
+    Oversee video production for booth
+    Assist in staffing booth with interns/volunteers
+
+company_name : Big Machine Label Group
+city : Nashville
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2010-05-31 03:46:59.266905+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 2850
+website :
+email : kelly.rich@bigmachinemail.com
+publish : 1
+featured : 0
+tags :  online development,social networking,web,graphic design,marketing,music
+state : Tennessee,TN
+
+

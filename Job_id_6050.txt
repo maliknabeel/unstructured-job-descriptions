@@ -1,0 +1,44 @@
+job_id : 6050 
+businesscategory_name : Sales and Marketing
+title : Social Media Program Manager
+start_date : 2009-02-13 08:20:48.224011+00
+end_date : 2009-03-15 08:20:48.218606+00
+description: Are you excited about social media? Do you enjoy working on ambitious goals with plenty of freedom to decide how to get there?
+
+This is an opportunity to work for a team that values continuous evolution and innovation within an established company, leader in its market. Join a fun team in a fast-paced, creative environment while leveraging significant resources to transform Enterprise Video and Audio podcasting.
+
+To succeed, you'll need to be passionate, flexible, self motivated, outgoing, and have experience in marketing and new media. You must excel at managing cross-group relationships and work well in a collaborative environment.
+
+The ideal candidate will be creative, driven, easy going, positive, a team player that can deliver and shift priorities and goals in a continuously changing environment.
+
+We strive to redefine the way that people receive and exchange information, from anywhere and anytime. It is important that members of our team contribute to the passion and enjoyment of an intense working environment where providing excellent customer service and having fun on the job is a high priority.
+
+We value candidates who are quick learners and can adapt to rapid change.
+
+Duties will include driving site utilization, managing and strategizing rotating editorial, reaching out to potential new audiences through target marketing and business partnerships, reporting and tracking service offerings, and educating our internal podcasting community.
+
+Location: Redmond (WA) 
+
+company_name : Audienz LLC
+city : Redmond, WA
+country : 
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2009-02-13 08:20:48.191045+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 5766 
+website :
+email : fernando@audienz.us 
+publish : 1
+featured : 0
+tags : 
+state :
+

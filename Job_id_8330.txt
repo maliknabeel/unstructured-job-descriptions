@@ -1,0 +1,73 @@
+job_id : 8330
+businesscategory_name : Arts, Design, Entertainment, and Media
+title : Content Coordinator
+start_date : 2010-06-24 21:44:15.591137+00
+end_date : 2010-07-24 21:44:15.583139+00
+description: Quality Assurance Manager - Content & Programming
+New York, NY
+
+Description:
+
+VEVO is a top ten video property and the #1 music network in the US according to comScore data.
+Join a dedicated team that loves music and technology and believes in the internet’s power to continually improve experiences for fans.  If you care about the future of music online, this is the place to be.
+
+As VEVO's Content QA Manager you will play a key role in the functioning of the Programming and Content group. This role is responsible for management of incoming content on site, metadata reconciliation, channel creation process, and acting as liaison with the Ad Ops team to execute video ad campaigns, and the product and technology team on product enhancements and roadmaps.
+
+Responsibilities include:
+
+    Day to day monitoring of incoming content, metadata database and ensuring proper video playback
+    Coordinate and administer content placement and promotion on vevo.com and VEVO on YouTube
+    Enable new artist profiles, select profile pictures and add URL’s, Twitter accounts, and oversee poster frame development and maintenance
+    File content or admin portal bugs with Project Management team
+    Alert Ad Ops of all necessary information for pre roll and overlay targeting
+    Daily gathering of video assets, and management of video carousel and related information
+    Oversee channel creation process and maintain channel request mailbox
+    Liaise with Development and Project Management teams on content/metadata dependent product updates, roadmap and admin enhancements
+    Oversee lyrics administration and synchronization act as project manager for lyric engine enhancements and workflow
+    Address content alerts in Admin Portal and file admin or content bugs with Project Management team
+    Monitor feedback inbox and create JIRA tickets for content issues
+
+ 
+
+Requirements:
+
+    Experience and knowledge of content management via CMS tools.  YouTube CMS a plus.
+    3+ years experience in an online media space. Music related, preferred.
+    Project / Product management experience
+    Demonstrable ability to leverage quantitative thinking to manage campaign success
+    Must be able to multi-task multiple projects, work well under pressure and excel in a fast-paced, high-energy start-up environment
+    Exceptional relationship management and communications
+    Strong experience working in Microsoft Excel, Google Apps, Sharepoint, etc. required
+    Excellent attention to detail
+    Passion for music, media and pop culture
+
+ 
+
+Education:  Bachelor’s Degree
+
+VEVO is an equal opportunity employer.
+
+company_name : VEVO
+city : New York
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2010-06-24 21:39:22.015657+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 2230
+website :
+email : evan.moore@vevo.com
+publish : 1
+featured : 0
+tags : music,online,web,internet,google,youtube,content,media,marketing,entertainment
+state : New York,NY
+
+

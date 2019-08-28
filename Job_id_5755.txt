@@ -1,0 +1,31 @@
+job_id : 5755
+businesscategory_name : Project Management
+title : Web Project Manager
+start_date : 2008-11-24 18:20:41.394581+00
+end_date : 2008-12-24 18:20:41.389604+00
+description: Web Project Manager   Responsibilities: The Project Manager will lead projects across FOXNews.com and FOXBusiness.com websites. The ideal candidate is a dynamic, results-oriented, detail-driven project manager with software and/or web project management experience.      Effectively lead cross-functional teams (business, operations, quality assurance, and technology) to successfully deliver new website initiatives.      Independently manage the full project life cycle, from initiation through implementation; including (but not limited to) requirements gathering and prioritization, defining scope and schedule, obtaining approvals, managing development and testing tasks, and troubleshooting.      Ensure project documents are complete, current, and stored appropriately.      Work with third-party subcontractors and technology partners.      Facilitate team and client meetings effectively.      Hold regular status meetings with project team.      Identify and resolve and/or escalates issues appropriately and in a timely fashion.      Effectively communicate relevant project information to superiors.        Regularly interface with senior stakeholders and business leads across the organization.      Collaborate with other members of the Project Management team to set and maintain appropriate project management methodologies; provide recommendations for process improvements and best practices.     Requirements      2-4 years prior experience in managing projects through full life cycle.     Expertise in developing detailed plans for complex projects involving challenging requirements, limited resources, and fixed deadlines in a fast paced environment.      A proven track record of managing large scale projects and delivering results.     Familiarity with standard software project and project management concepts, practices and procedures.      Expertise in written and oral communication, in relationship building, and in collaboration in a cross-functional team.     Ability to organize and prioritize tasks to ensure timely implementation of assigned projects.     Solid decision-making and problem solving skills; ability to execute a number of parallel tasks.      High level of business and technical savvy; strong organizational and analytical skills    Fox News Network is an EOE.
+company_name : FOX News Channel
+city : New York, NY
+country :
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2008-11-24 18:20:41.349609+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 5261
+website :
+email : resumes@foxnews.com
+publish : 1
+featured : 0
+tags :
+state :
+        
+
+

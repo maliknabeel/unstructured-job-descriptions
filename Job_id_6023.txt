@@ -1,0 +1,56 @@
+job_id : 6023 
+businesscategory_name : Office, Administrative
+title : Executive Assistant / Office Manager
+start_date : 2011-03-12 00:23:23.429848+00
+end_date : 2011-04-10 00:00:00+00 
+description: About the Role & Responsibilities
+ 
+We seek an Executive Assistant to support the Editor-in Chief-and CEO of TechCrunch as well as general organizational needs of the business. Prefer an executive, C-level assistant who can handle 60% office administration and 20% special projects, and 20% personal needs of the executives. Environment is very busy, and we seek someone who doesn't crack under pressure from multi tasking. Must also be very computer and internet savvy (Mac), have good office and interpersonal skills with a polished demeanor and sense of decorum as you will interface with the most prominent names in Silicon Valley and tech industry  and members of the press. Ideal candidate will be an excellent organizer and muti-tasker and trustworthy. For the Founder, you will keep him scheduled, well-informed and on top of every situation. For the CEO you will be able to anticipate and handle business-oriented tasks and projects. For the Office, you will be the hub of information, keeping everything organized and operating smooth and efficiently.
+
+Candidate must love technology and media as there is a TV studio and live blogging in the office. Duties will include scheduling, managing calendars, interfacing with all business executives and other tech personalities, coordinating in-office happenings, as well as handling office tasks such as receiving guests, vendor management, mail/courier needs, etc. Role is fast-paced and there is occasional travel. Salary is DOE. Candidates should have high energy and attention to detail and love being involved in a million projects at once.  Strong computer and internet skills.  Strong resarch and communication skills.
+
+Please include "Executive Assistant" in the subject line of your email.
+
+About TechCrunch:
+
+TechCrunch (www.techcrunch.com) is a leading technology media network, dedicated to obsessively profiling and reviewing new Internet products and companies. Founded in 2005, TechCrunch and its network of websites reach over 10 million unique visitors and more than 35 million page views per month.  TechCrunch operates a global network of websites including dedicated properties in Europe and Japan as well as specialized industry websites including MobileCrunch, CrunchGear, and TechCrunchIT.  TechCrunch’s CrunchBase, is the leading, open database about start-up companies, people and investors.  In addition to Disrupt, TechCrunch hosts other conferences and events, including The Crunchies Awards and various meet-ups worldwide serving as community platforms for industry conversation and collaboration. TechCrunch is a wholly owned operating division of AOL.
+
+company_name : TechCrunch
+city : San Francisco 
+country : USA 
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2009-02-05 21:20:00.944032+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 12651 
+website :
+email : tanya@techcrunch.com
+publish : 1
+featured : 0
+tags : 
+state :
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,39 @@
+job_id : 11189
+businesscategory_name : Computer and Information Technology
+title : Director of Product Management, Connected Device/Mobile Platforms
+start_date : 2011-07-06 20:17:04.804356+00
+end_date : 2011-08-05 00:00:00+00
+description: We are AMPT (Audience & Multi-Platform Technologies) and we power Turner Broadcasting System’s global network of digital brands.  Grow with us - we’re hiring 100 Technologists in 100 Days. 
+
+The role of the Digital Devices Product Manager is to partner with Turner business units, strategic technology partners in the mobile/connected device space (new and existing), AMPT colleagues and corporate to identify, create and implement a forward looking technology roadmap focused on the intersection of media and the mobile world that is actionable for information technology & operations, product development, marketing, programming, and sales. The Director will show leadership in advanced technology delivery while at all times providing solid communication between design, development and product management teams. The Director will leverage market trends while consistently focusing on the consumer and the value of Turner products to the viewer. The Director will work with industry consortiums where appropriate to help support corporate initiatives. This role will ensure cross-functional and cross-divisional collaboration is achieved in pursuit of efficient allocation of resources and execution of systems strategy and projects. 
+
+Qualifications:
+
+10+ years experience with technical product management, design & development of mobile and interactive platforms, products, or services.
+
+3+ years direct experience working with iPhone, iPad, and interactive/connected TVs in designing and launching products and applications to consumers. Experience with user interface, interaction design and development.
+
+At least 7 years demonstrated success leading individuals and teams to accomplish goals within time, resource and budget constraints. Demonstrated ability to mentor and direct the work of others in a way that builds successful internal and external relationships and provides opportunities for staff to develop professional/technical skills. 
+
+company_name : Turner Broadcasting System, Inc.
+city : San Francisco
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2011-06-06 20:45:48.62434+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 2125
+website : 
+email : victoria.hinks@turner.com
+publish : 1
+featured : 0
+tags : digital devices,mobile/connected device,product development,
+state : California,CA

@@ -1,0 +1,41 @@
+job_id : 8259
+businesscategory_name : Internet
+title : Green Tech Intern
+start_date : 2010-06-15 07:17:17.424747+00
+end_date : 2010-07-15 07:17:17.416992+00
+description: There's no better way to learn about startups and technology than by working at TechCrunch.  Join our intern program and learn about the world's innovating startups while working at a startup too.  Job responsibilities are diverse (some days you'll moderate comments and create CrunchBase profiles) but the core focus will be to support our co-editor TechCrunch, and developing content for expanded greentech / cleantech coverage. 
+
+Open to graduating college and graduate students. Not appropriate for students returning back to studies in September.
+
+ 
+
+Please include "Green Tech Intern Candidate" in the subject line of your email.  Enclose links to or samples of writing in your cover note.
+
+ 
+
+About TechCrunch:
+
+TechCrunch (www.techcrunch.com) is a leading technology media network, dedicated to obsessively profiling and reviewing new Internet products and companies. Founded in 2005, TechCrunch and its network of websites reach over 8 million unique visitors and more than 25 million page views per month.  TechCrunch operates a global network of websites including dedicated properties in Europe and Japan as well as specialized industry websites including MobileCrunch, CrunchGear, and TechCrunchIT.  TechCrunch’s CrunchBase, is the leading, open database about start-up companies, people and investors.  In addition to Disrupt, TechCrunch hosts other conferences and events, including The Crunchies Awards and various meet-ups worldwide serving as community platforms for industry conversation and collaboration.
+
+company_name : TechCrunch
+city : New York or San Francisco
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2010-06-15 07:17:17.374714+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 4742
+website :
+email : erick@techcrunch.com
+publish : 1
+featured : 0
+tags :  greentech,cleantech,intern,techcrunch
+state : New York,NY

@@ -1,0 +1,44 @@
+job_id : 5959 
+businesscategory_name : Computer and Information Technology
+title : Technology Director
+start_date : 2009-01-22 21:37:24.411332+00
+end_date : 2009-02-21 21:37:24.405677+00
+description: REQUIREMENTS
+
+The ideal candidate will be a hands-on technologist that has a broad background that demonstrates expertise in various IT disciplines, such as planning and maintaining scalable, highly flexible web architectures and experience selecting and managing a migration to a new content management system. S/he will also have extensive and demonstrable experience architecting, building and deploying multi-faceted consumer facing web sites and ability to vet new technologies. The candidate will have experience in Software Development Life Cycle (SDLC) and iterative methodologies, as well as solid knowledge of PHP, mySQL, HTML, XML, Javascript, Ajax, Flash and RoR. S/he must have excellent interpersonal and communication skills. A college degree is preferred.  
+RESPONSIBILITIES
+
+The Technology Director will lead Newsweek Digital’s technology efforts and be a senior member of the Digital team. S/he will be required to architect and establish a scalable and flexible platform for product development that meets Editorial, Business and Consumer needs. Initially, The Technology Director will manage the transition of technological services from WPNI to Newsweek, including selecting and implementing a new content management system, as well as building out a team. S/he will also identify and implement appropriate third-party technological solutions and create and implement product development schedules and processes to ensure projects are on time and budget, as well as perform other duties as assigned.
+company_name : Newsweek Magazine, Inc.
+city : New York, NY
+country :
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2009-01-22 21:37:24.340162+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 3774 
+website :
+email : resumes@newsweek.com
+publish : 1
+featured : 0
+tags :
+state :
+        
+
+
+
+
+
+
+
+
+
+

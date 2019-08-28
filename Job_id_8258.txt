@@ -1,0 +1,42 @@
+job_id : 8258
+businesscategory_name : Internet
+title : Conference Program Chair
+start_date : 2011-07-28 18:35:06.886121+00
+end_date : 2011-08-27 00:00:00+00
+description: TechCrunch now hosts about three major conferneces a year, an annual awards ceremony and lots of other meetups.  We need a dedicated program chair for our Disrupt conferences, who will work closely with our editorial team to design our speaker agenda, reach out to target participants and then act as chief wrangler for VIP participants.  TechCrunch events currently range in attendance from 500 - 2,000.
+
+The Conferences Program Chair will be responsible for speaker and content coordination, including agenda develppment, speaker outreach and VIP wrangling, startup competition management, website content and updates, program guide development and post-event follow-ups and coordination with press resources.  The candidate should have both amazing organizational and interpersonal skills as well as unlimited energy. 
+
+Two+ years relevant work experience preferred.
+
+Include "Conference Program Chair Candidate" in the title of the email.
+
+About TechCrunch:
+
+TechCrunch (www.techcrunch.com) is a leading technology media network, dedicated to obsessively profiling and reviewing new Internet products and companies. Founded in 2005, TechCrunch and its network of websites reach over 10 million unique visitors and more than 35 million page views per month.  TechCrunch operates a global network of websites including dedicated properties in Europe and Japan as well as specialized industry websites including MobileCrunch, CrunchGear, and TechCrunchIT.  TechCrunch’s CrunchBase, is the leading, open database about start-up companies, people and investors.  In addition to Disrupt, TechCrunch hosts other conferences and events, including The Crunchies Awards and various meet-ups worldwide serving as community platforms for industry conversation and collaboration. TechCrunch is a wholly owned operating division of AOL.
+
+company_name : TechCrunch
+city : San Francisco
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2010-06-15 07:02:01.270462+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 9767
+website :
+email : christian.obrien@teamaol.com
+publish : 1
+featured : 0
+tags :  conference,agenda,internet
+state : California,CA
+
+
+

@@ -1,0 +1,81 @@
+job_id : 7627
+businesscategory_name : Computer and Information Technology
+title : Software Engineer
+start_date : 2010-03-08 00:42:10.372947+00
+end_date : 2010-04-06 23:42:10.365338+00
+description: Looking for Software Engineers with a broad set of interests and skills to help prototype and evaluate new technologies and techniques. Great team, exciting product, interesting problems. Excellent opportunity to broaden your skills. Early-stage startup environment. 
+
+Responsibilities 
+* investigate & evaluate new technologies 
+* develop software proof-of-concept and prototypes 
+* develop methods to integrate technologies 
+* communicate/demonstrate your findings to management 
+* collaborate with the software engineering team to evolve your work into product-quality code
+Skills
+
+Required Skills 
+* passion for learning new things and digging into unfamiliar territory 
+* quick learner 
+* proficient in C 
+* familiar with linux development 
+* as comfortable with low-level software as high-level 
+
+Desirable 
+* experience with: 
+* embedded linux development, cross-compilation, etc. 
+* power-managed devices, efficiency and performance considerations 
+* familiar with: 
+* a variety of languages - C++, Javascript, Perl, Python, etc. 
+* AJAX/Comet techniques, soap, JSON, REST, etc. 
+* networking protocols (TCP, UDP, HTTP, DHCP, DNS, etc.) 
+* wireless networking and security 
+* Portable Document Format (PDF) 
+* typography and font rendering techniques 
+* graphics/windowing principles and libraries, e.g. GTK, X11, OpenGL/ES, EGL 
+* database engines, particularly SQL 
+* understanding of security models and potential issues
+Company Description
+
+Kakai Inc. 
+
+Kakai is in search of a talented Software Engineer to join a super hot, stealth start-up. Kakai is building a consumer-facing application platform working with leading edge technologies including mobile computing and touch interfaces. Kakai was founded by Babur Habib (Ph.D) and Osman Rashid (founder of Chegg.com and recently named 2009 Entrepreneur of the Year for Northern California (http://www.reuters.com/article/idUS131536+17-Jun-2009+PRN20090617). The company has recently closed a $7.5 million Series B round led by Marc Andreessen’s fund Andreessen Horowitz (see http://www.techcrunch.com/2009/12/23/kakai-funding/). 
+
+
+We offer the following: 
+• Medical (Blue Shield PPO or Kaiser) 
+• Dental (Blue Shield) 
+• Vision/VSP 
+• 401K 
+• FSA (Flexible Sending Account) 
+• Holiday Pay 
+• Life Insurance, Long-term & Short-term disability 
+• Subsidized Gym membership 
+• Breakfast, lunch, dinner and fresh baked cookies 
+• Rock Band and Wii
+
+company_name : Kakai
+city : Santa Clara
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2010-03-08 00:42:10.282892+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 2219
+website :
+email : jmarchell72@gmail.com
+publish : 1
+featured : 0
+tags :  c,c++,software engineer,developer,linux,embedded
+state : California,CA
+
+
+
+

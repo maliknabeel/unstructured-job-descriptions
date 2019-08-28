@@ -1,0 +1,60 @@
+job_id : 7328 
+businesscategory_name : Customer Care
+title : Head of Customer Experience
+start_date : 2010-04-05 17:12:30.855489+00
+end_date : 2010-05-05 07:00:00+00
+description: Eventbrite is built upon the core value of world-class service and we take pride in our ability to delight the customer. One of the reasons why we are successful is because of our transparency with users and our willingness to go the extra mile to provide the very best in technical, practical, and emotional support. Planning an event is a high pressure, time sensitive experience and our Customer Service Team is armed with the know-how and insight to aptly support the needs of event organizers as they utilize our service to the fullest extent. This highly talented and dedicated team needs a fearless leader; someone who is itching for a challenge and has experience building high-caliber teams who excel in qualitative and quantitative approaches to their work.
+
+
+We are looking for a leader who is passionate about innovating, fostering, and organizing customer-facing interactions. The ideal candidate would be someone who is extremely metrics-oriented and highly adept at rewarding customer interaction. This leader will be responsible for experimenting / testing / implementing the best options for creating world-class, collaborative, proactive end-to-end online support experience, including integration of support site with in-product experience. We are looking for a rising star who has played a key role in customer support for a transactional-based business known for its excellence in customer support . We value high energy here and seek someone who is willing to put in the hours and the commitment to build and brand an important core team within an already thriving and fast-paced company.
+
+
+Responsibilities will include but are not limited to the following:
+
+
+    Define the overall customer support experience from self-service to assisted support
+    Understand the customer support funnel and how that relates to overall customer retention
+    Set a clear vision for Eventbrite's customer relations brand
+    Identify and adopt best practices and correct gaps in the online support customer experience based upon analytics and direct and indirect customer feedback
+    Develop a clear self-help experience using the intersection of online media, tutorials, forums, and usability improvements
+    Improve upon and maintain useful knowledgebase content and create a system that will foster constant iteration
+    Coordinate communications to customers to increase retention and drive interaction
+    Instill best practices for communicating, assisting, and retaining customers
+
+
+Required Skills:
+
+
+    Track record in designing and implementing innovative and effective ways of delivering a superior service experience
+    Proven leadership skills within support teams 
+    Leading through influence across multiple teams
+    Strong organizational leadership and personnel management skills
+    Experience leading change and inspiring teams with an exciting future vision
+    Solid business sense
+    Strong project management skills
+    Strong analytical skills and a passion for metrics
+    Obsession for optimizing customer experience
+
+company_name : Eventbrite
+city : San Francisco
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2010-01-12 20:08:45.24398+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 4603
+website :
+email : jobs@eventbrite.com
+publish : 1
+featured : 0
+tags :  customer support,startup,customer service,operations
+state : California,CA
+

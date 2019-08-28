@@ -1,0 +1,70 @@
+job_id : 7253
+businesscategory_name : Computer and Information Technology
+title : Research Scientist, Web Technologies
+start_date : 2010-02-19 19:35:28.148452+00
+end_date : 2010-03-21 07:00:00+00
+description: If you are bubbling over with ideas; love and live technology; are self-motivated; enjoy a good spirited debate; are constantly thinking one year ahead; want early access to cutting edge technology; have been called insatiably curious and articulate; and want to see your own ideas come to fruition you should be talking with us.  We are Orange Labs San Francisco.
+We are looking for a candidate that brings an entrepreneurial attitude, has a driven desire to be innovative, goes beyond simple task execution and is inspired to networking in the valley through conferences, seminars, and other business means.
+ 
+Orange Labs San Francisco is the Bay Area’s division of one of the world’s largest corporate research and development organizations.  The San Francisco lab’s mission is to anticipate, develop, explore and research technologies and business models coming from the Silicon Valley. The lab has a startup-like atmosphere with small teams working on innovative ideas
+ 
+Description of position: As a research scientist in the web technologies group,  you will be joining a highly productive and innovative team of researchers, software engineers and product managers building new consumer-driven products and technologies for our Internet, mobile and television businesses. The goal of this team is to make substantial impact on new consumer-focused products for Orange's growth initiatives through technology transfer and intellectual property development.
+ 
+The ideal candidate likes independence but thrill at the resources of a multinational corporation. Research can be analysis. It can also be about building, testing, failing, starting over and succeeding. If you’re into analysis only, we’re not for you but if you’re a builder, don’t wait till tomorrow to contact us—even if building your own company is in the cards someday.
+ 
+The best way to get our attention is to send us a link to the best writing you have recently completed whether a ultra serious research paper, a funny haiku, a creative tweet or an insightful blog post on last week’s Mad Men episode.
+Following that, explain why a company like Orange should care about your research or an area that you think it should be researching.
+ 
+Requirements:
+
+    Identify and initiate new research focused topics in the areas that have high relevance to business opportunities for Orange. Areas of focus are expected to be: web data mining, real-time web, social networks, internet technologies, data visualization, human computer interfaces, multimedia/visual computing and computational advertising.
+    Determine research approach, devise solutions and drive development through hands-on prototyping and experimentation.
+    Stay current on the latest technology, research and market trends
+    Actively participate in the web early adopter community and be known as a thought leader in your space of expertise.
+    Promote and evangelize research projects and advanced technologies to both research and product units within the corporation.
+    Publish research results through publications, presentations and collaborations with appropriate external partners.
+    Work closely with other researchers, product managers and software engineers in the company
+
+ 
+Qualifications
+
+    PhD preferably in Computer Science and research experience in a subset of the following areas: data visualization, machine learning, information retrieval, data mining, internet technologies, multimedia computing and system design.
+    Good track record of recent publications in relevant conferences and journals as well as patents.
+    Combination of research and implementation skills
+    Excellent algorithm and software design skills
+    Relevant industry experience in consumer internet is a big plus.
+    Ability to deal with ambiguity and uncertainty with a degree of maturity.
+    Ability to accomplish non-trivial milestones on relatively unknown topics in a short period of time.
+    Unique blend of business and technical savvy; a big-picture vision, and the drive to make that vision a reality.
+    Knowledge of French is a plus.
+
+No Relocation Package.
+ 
+BENEFITS:
+M/D/V/STD/LTD/Life/Bonus/401(k) 
+
+company_name : Orange Labs SF (France Telecom R&D)
+city : South San Francisco
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2009-12-17 17:30:39.420958+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 3663
+website :
+email : ckearns.ext@orange-ftgroup.com
+publish : 1
+featured : 0
+tags :  research scientist,web technologies
+state : California,CA
+
+
+

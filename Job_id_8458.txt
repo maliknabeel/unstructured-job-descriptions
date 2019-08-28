@@ -1,0 +1,29 @@
+job_id : 8458
+businesscategory_name : Internet
+title : Social Media/Online Marketing Specialist
+start_date : 2010-07-15 15:00:16.116687+00
+end_date : 2010-08-14 15:00:16.090767+00
+description: Fast-growing e-commerce shoe retailer with international customer base seeks an experienced individual to grow and enhance our presence across social media networks and relevant online communities. Daily responsibilities will include maintaining our blog, Facebook page and Twitter, but we need a self-starter who will look beyond these channels and take the reins on exploring new tools/technologies to create dynamic promotional opportunities for us. (This might mean partnering with others at/outside our company to create a viral video and then working to direct traffic to it on YouTube, or it might mean partnering with fashion bloggers in a more significant way than we currently do … the sky is the limit, really.). Familiarity with Facebook ad campaigns, e-mail newsletter marketing, Google analytics, etc. is a plus. Interest in fashion/familiarity with Fashion 2.0 sites (e.g. Polyvore) a BIG plus, but not absolutely required. Location will be flexible and salary will be commensurate with your experience.
+
+company_name : Barefoot Tess
+city : Baltimore
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2010-07-15 15:00:16.007337+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 3488
+website :
+email : jobs@barefoottess.com
+publish : 1
+featured : 0
+tags : social media,fashion,shoes,blogger,facebook,marketing          Maryland,MD
+state : 

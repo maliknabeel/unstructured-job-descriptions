@@ -1,0 +1,59 @@
+job_id : 11842
+businesscategory_name : Others
+title : Venture Associate
+start_date : 2011-08-12 19:02:15.195479+00
+end_date : 2011-09-11 19:02:15.015156+00
+description: Venture Associate
+
+ 
+
+JOB DESCRIPTION:
+Top tier venture capital firm on the peninsula is looking for a Venture Associate to work for our Internet and Information Technology Team. The Venture Associate will be extremely involved in the Firm’s proactive sourcing efforts to identify investment opportunities within the Internet and Digital Media sector.
+
+Job responsibilities include sourcing deals for investment, attending industry events, developing relationships with entrepreneurs and companies of interest, supporting the evaluation of potential investments by performing due diligence, and maintaining an on-going database of Internet and Digital Media companies.
+
+QUALIFICATIONS:
+
+Candidate must possess strong interpersonal skills; have a track record of top notch professional and personal achievement with an inherent passion for the Internet and Digital Media space.
+
+Desirable qualities include some or all of the following:
+
+
+- A 4-year degree.
+
+- Active in the Internet and Digital Media start up community in San Francisco/Silicon Valley.
+- Frequent user of Twitter, Facebook, LinkedIn, Zynga and other internet and social media platforms.
+- Experience in a start-up Internet company.
+- Experience in the Internet or Digital Media practice of a venture fund, private equity firm or investment banking firm.
+- Established network of entrepreneurs and technologists.
+
+COMPENSATION: A kazillion dollars.
+
+VantagePoint Capital Partners is an Equal Opportunity employer and prides itself on having a culturally diverse workplace. If you are interested in becoming part of our team, please feel free to email your resume to jobs@vpcp.com.
+
+ 
+
+Principals only. Recruiters, please don't contact this job poster.
+
+company_name : VantagePoint Capital Partners
+city : San Bruno
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2011-08-12 19:02:14.257405+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 2496
+website : 
+email : jobs@vpcp.com
+publish : 1
+featured : 0
+tags : venture associate
+state : California,CA

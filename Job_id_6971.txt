@@ -1,0 +1,47 @@
+job_id : 6971
+businesscategory_name : Construction, Trades, Production, and Warehousing
+title : Production Supervisor
+start_date : 2009-10-23 13:09:40.824657+00
+end_date : 2009-11-22 14:09:40.817369+00
+description:  Heinz North America, a Fortune 500 Midwest Food Processing Company has an immediate opening for a Production/Maintenance Supervisor. This position is responsible for directing and monitoring the making and packaging of food products that conform to Heinz quality standards.
+Assume leadership in the efficient production of quality product in a safe manner.Â Manage related functions of safety, quality, productivity, maintenance, labor relations, continuous improvement and conformance to all regulatory requirements.Â
+The qualified candidate should possess a degree in Business or Sciences, with three (3) to five (5) years experience in Food/Beverage industry a plus; Supervisory training or experience; Human Relations experience or training plus a general maintenance background.
+We offer a competitive starting salary and attractive benefit package.
+Accepting Resumes through November 27, 2009
+Â If interested please send your resume in confidence to:
+Heinz NA â?? Fremont Factory
+Human Resources
+Charlene Hutchinson
+1200 N. Fifth Street
+Â Fremont, OH43420
+
+company_name : Heinz
+city : Fremont
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2009-10-23 13:09:40.769529+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 889
+website :
+email : charlene.hutchinson@us.hjheinz.com
+publish : 1
+featured : 0
+tags : production supervisor
+state : Ohio,OH
+
+
+
+
+
+
+
+

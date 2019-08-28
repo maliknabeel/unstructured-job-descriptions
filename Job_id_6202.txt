@@ -1,0 +1,57 @@
+job_id : 6202 
+businesscategory_name : Arts, Design, Entertainment, and Media
+title : Manager, Innovations
+start_date : 2009-04-13 17:34:19.831393+00
+end_date : 2009-05-13 17:34:19.825699+00
+description:  Summary:
+Leading L.A. based advertising agency seeks talented Manager for our Innovations Team, which develops marketing and digital breakthroughs to help our clients navigate the emerging media and evolving technology landscape.  We take advertising to the next level by embracing emerging trends and technologies to reach the consumer in revolutionary ways. This is a special division created specifically to keep tabs on the latest developments in technology, media, marketing, consumer behaviors, trends in pop culture and the digital world. Major accounts in film, television, gaming, beverages, auto and others.  
+ 
+Initiative is one of the world’s leading advertising agencies that specializes in media, marketing and digital solutions for clients.  With a presence in 22 markets in North America, Initiative provides strategic consulting and ideas to power media focused on taking our clients into the new media world.
+We are looking for a creative marketing manager to develop and execute ideas as well as present to existing and new clients in digital media, traditional media and branded entertainment. 
+ 
+Essential Responsibilities:
+ 
+
+    Stay up to date on trends in technology, culture, and advertising, and be able to translate trends into new opportunities for business growth.
+
+    Lead and participate in brainstorming sessions daily.
+    Develop relationships with vendors and source new leads in emerging media platforms.
+    Manage new media campaigns from ideation to completion through entire agency cycle.
+
+ 
+Job Specifications:
+ 
+
+    Successful candidates will have 3+ years in advertising, media, digital, broadband, wireless companies or related marketing background, and have an entrepreneurial spirit yet work well in a corporate environment. 
+    Must have knowledge of the emerging technologies and existing media and be able to develop creative uses to help our advertisers 'break through the clutter'. 
+    Must have strong presentation skills and be able to generate ideas.
+    Advertising Industry knowledge is strongly preferred but not required.
+
+company_name : Initiative 
+city : Los Angeles
+country : 
+jobtype : Full Time
+positions : 1
+priority : 0
+creation_date : 2009-04-13 17:34:19.797206+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 2564 
+website :
+email : lajobs@us.initiative.com
+publish : 1
+featured : 0
+tags : manager,innovations,agency,advertising,advertising agency,digital,digital advertising
+state :
+
+
+
+
+
+

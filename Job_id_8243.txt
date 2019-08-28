@@ -1,0 +1,45 @@
+job_id : 8243
+businesscategory_name : Internet
+title : Product Lead
+start_date : 2011-08-02 23:01:04.957753+00
+end_date : 2011-09-01 00:00:00+00
+description: TechCrunch seeks an ambitious head of product to continue TechCrunch's mission of growing into the world's leading tech news organization.
+
+This is a new role at TechCrunch, and we're looking for someone who wants to come in and make a big impact. The Product Lead will own the product roadmap for the company, including its network of news blogs, video, CrunchBase directory and events websites.  You will lead the sites' news product, syndication, information services and social media strategies, and define the features and functionalities, user engagement metrics and path to rapid execution and revision.   
+
+A passion for product and unlimited energy and attention to detail are required. Strong ability to partner with multiple groups (editorial, development and sales) to develop and execute the most innovative products and services for our community of readers.
+
+ 
+
+Include "Product Lead Candidate" in the title of the email.
+
+ 
+
+About TechCrunch:
+
+TechCrunch (www.techcrunch.com) is a leading technology media network, dedicated to obsessively profiling and reviewing new Internet products and companies. Founded in 2005, TechCrunch and its network of websites reach over 10 million unique visitors and more than 35 million page views per month.  TechCrunch operates a global network of websites including dedicated properties in Europe and Japan as well as specialized industry websites including MobileCrunch, CrunchGear, and TechCrunchIT.  TechCrunch’s CrunchBase, is the leading, open database about start-up companies, people and investors.  In addition to Disrupt, TechCrunch hosts other conferences and events, including The Crunchies Awards and various meet-ups worldwide serving as community platforms for industry conversation and collaboration.  TechCrunch is a wholly owned operating division of AOL.
+
+company_name : TechCrunch
+city : San Francisco
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2010-06-11 19:36:48.664237+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 14676
+website :
+email : christian.obrien@teamaol.com
+publish : 1
+featured : 0
+tags :  product,techcrunch,internet
+state : California,CA
+
+

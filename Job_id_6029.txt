@@ -1,0 +1,40 @@
+job_id : 6029 
+businesscategory_name : Internet 
+title : CrunchBase Junior Analyst
+start_date : 2009-02-06 01:45:04.082951+00
+end_date : 2009-03-08 01:45:04.077665+00 
+description: About TechCrunch
+TechCrunch is an internet media company dedicated to obsessively profiling and reviewing technology products and companies. Founded 3.5 years ago as a single-author blog, today TechCrunch comprises a dozen websites, hosts a variety of conferences and events and has a growing data-services business.  Our flagship site, TechCrunch, is the largest technology blog on the internet, both in terms of reach and authority.
+ 
+About the Role & Responsibilities
+
+TechCrunch seeks a full-time junior analyst (entry level) to assist in managing the content of our growing CrunchBase property.  CrunchBase is a free directory of technology companies, people, and investors.  The directory is a structured wiki with contributions from both TechCrunch editors and the community at large.
+
+The CrunchBase analyst will work with TechCrunch editors to create profiles of new companies, people and investors.  The analyst will manage the team of TechCrunch interns, who contribute to the creation and editing of new profiles.  Our target candidate will have a passion for learning about a broad spectrum of Internet businesses, strong Internet news-gathering skills, excellent research and writing skills, and strong time- and project-management capabilities.  The junior analyst will also contribute to the expansion of the CrunchBase business model by recommending new content and functionality.
+
+College degree required. 
+
+Please include "CrunchBase Analyst Candidate" in the subject line of your email.
+
+company_name : TechCrunch
+city : Palo Alto
+country : 
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2009-02-06 01:45:04.057548+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 9591 
+website :
+email : gene@techcrunch.com
+publish : 1
+featured : 0
+tags : 
+state :

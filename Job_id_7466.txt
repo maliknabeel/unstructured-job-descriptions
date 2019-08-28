@@ -1,0 +1,72 @@
+job_id : 7466 
+businesscategory_name : Engineering / Technical Services
+title : Mobile Innovation Developer and Intrapreneur
+start_date : 2010-03-10 19:51:05.742221+00
+end_date : 2010-04-09 07:00:00+00
+description: If you are bubbling over with ideas; fascinated with the opportunities and technology; are self-motivated; enjoy a good spirited debate; are constantly thinking one year ahead; want early access to cutting edge technology; have been called insatiably curious and articulate; and want to see your own ideas come to fruition you should be talking with us. We are Orange Labs San Francisco.
+
+We are looking for a candidate who has a strong background in mobile and wireless technology and platforms, brings an entrepreneurial attitude, has a driven desire to be innovative, goes beyond simple task execution and is inspired to networking in the valley through conferences, seminars, and other business means.
+
+
+Orange Labs San Francisco is the Bay Area R&D division of one of the world's largest corporate research and development organizations. The San Francisco lab's mission is to anticipate, develop, explore and research technologies and business models coming from the Silicon Valley. Among the labs projects is the drive to create novel consumer services for the converged web, mobile and television markets. The lab has a startup-like atmosphere with small teams working on innovative ideas.
+
+Unlike many corporate research departments, Orange Labs San Francisco is charged with bringing ideas from concept to working prototype. Yet, projects are still mostly engineering driven and proactively marketed internally to our business units for rapid deployment (trials and commercial deployments).
+
+We are looking for well-rounded software engineers, mobile architects, product managers (and more) who can create high-volume production applications as well as rapidly develop prototypes. We prefer individuals who have a curiosity and drive to keep up with the latest technology and market trends who also love to tinker and explore.
+
+Job Responsibilities:
+As  a mobile technologist and  intrapreneur, you will be responsible to lead us to the next big idea on  mobile  services and technology and shape the future mobile experience of our customers. As a mobile technologist you are expected to have hands-on experience in mobile and internet technology (well versed in coding on mobile platforms preferably in Android and iPhone), been an entrepreneur and have a deep understanding on the current usages and the trends in the mobile industry.  In this multi-hat position, you will interact with the industry thought leaders, research technology, create, build and sell these concepts internally as well evangelize them across the industry. 
+
+Main tasks would be to:
+
+    Research and Innovate: We believe that augmented reality, crowd sourcing, sensory web, a mobile assistant will change the way our consumers will interact with services on the mobile in the next year. As an innovator, we expect you to have a good understanding of this, conceptualize this with our team and identify a few more emerging ones in the next 12 months.
+    Self-starter - Formulate ideas into a concept and require you to build a proof of concept that could eventually lead to a working prototype. You will initiate, plan, and collaborate with partners and international teams to implement working prototypes.
+    Evangelize our research through the Silicon Valley and mobile ecosystem by active participation in meet-ups, conferences, blogs and events. Build strong connections with universities, internet and mobile companies.
+     As an internal analyst, we expect you to be aware of the responses of operators in North America to trends and needs of mobile networks and expect you to forge a opinion and recommend on topics ranging from network, devices, new usages to business models.  You will be required to create position papers, whitepapers and contribute to business/strategy plans.
+    Delivering results: Influencing strategic thinkers of Orange FTGroup based on the learning from new developments and disruptions of North American mobile and telecom landscape.
+    Self-starter, results-oriented with strong team work attitude. Innovation mind-set and follow-through innovation cycle (feasibility study, design, develop, experiment, deploy, validate).
+
+ Requirements:
+
+    Ideally you will have been a researcher in a university or corporate labs that led to a startup or an entrepreneurial initiative. Focus on mobile services and technology.
+    Master degree in EE or CS required. M.B.A preferred.
+    Technology:
+    Familiarity with at least one of the emerging  O.S for smartphones and netbooks: Android, iPhone, Chrome OS, WebOS
+    Device technology:  Mobile Internet Devices, Netbooks/Smartbooks, smartphones, Sensors, Accelerometer, Touch, Gesture, Nanowire, new processor technology, Near Field Communications(NFC)
+    Mobile development using J2ME, Android, iPhone or Windows Mobile. 3+ years of experience in designing and developing Mobile Web applications using technology such as AJAX, JavaScript, XML, HTML 5.0. Knowledge of Bondi and  OneAPI is a plus
+    Knowledge of algorithms in data mining, machine learning, Attention profiling desirable.
+    Network: Familiarity with mobile network infrastructure and evolution of wifi(802.11n, 11ac/ad), WAN(WCDMA, HSDPA, WiMAX, LTE) and Personal Area Networks
+    Involvement in academic industry partnership, research paper publications, R&D initiatives and activities. Prior publications in journals, industry blogs and magazines desirable.
+    Strong working knowledge of rapid prototyping and usability focused interfaces; Ability to work on wire framing and Graphical Design .
+     Knowledge and/or fluency in French is a plus.
+    Outstanding communication skills, persuasion and ability.
+
+              No Relocation Package!
+
+BENEFITS:
+M/D/V/STD/LTD/Life/Bonus/401(k)  
+
+company_name : Orange Labs SF (France Telecom R&D)
+city : South San Francisco
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2010-02-04 22:17:23.616386+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 2432
+website :
+email : ckearns.ext@orange-ftgroup.com
+publish : 1
+featured : 0
+tags :  engineer
+state : California,CA
+
+

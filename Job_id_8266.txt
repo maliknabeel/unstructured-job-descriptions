@@ -1,0 +1,51 @@
+job_id : 8266
+businesscategory_name : Project Management
+title : Product Manager - Oodle Pro
+start_date : 2010-06-16 16:20:34.073974+00
+end_date : 2010-07-16 16:20:34.046745+00
+description: Overview of Position: Oodle is looking for an experienced Product Manager who will be responsible for Oodle Pro - our premium service that delivers social media integration to real estate, automotive, and employment professionals. This individual should have experience building online products catering to small businesses. Familiarity with social networking sites like Facebook, Twitter, and LinkedIn? is a big plus. Responsibilities will include gathering product requirements from our existing and target customers, sales and marketing teams, managing the development of new features, conducting detailed analysis of product performance in all areas, and optimizing audience conversion rates across the Oodle Marketplace. You must be a strong communicator, work effectively across teams, and be able to champion the needs of our customers.
+
+Direct Responsibilities:
+
+ 
+
+    Lead product development efforts for Oodle Pro
+    Partner with the sales and marketing teams to define an actionable product roadmap
+    Work directly with other product managers, engineering, and designers to fully specify and deploy new features
+    Actively analyze products' business performance and use metrics to make informed decisions
+    Champion customer requirements within the product development organization
+    Coordinate product launches with product development, marketing, sales, and customer support teams
+
+Experience, Qualifications & Skills
+
+ 
+
+    2-5 years of relevant social media and product development experience
+    Proven track record defining, building, and delivering online applications for small businesses
+    Strong analytical skills
+    Excellent verbal, written, and presentation skills
+    Good sense of humor
+    BA/BS required
+
+company_name : Oodle
+city : San Mateo
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2010-06-16 16:20:33.982355+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 1923
+website :
+email : jobs@oodle.com
+publish : 1
+featured : 0
+tags :  product manager,product development,social networking
+state : California,CA

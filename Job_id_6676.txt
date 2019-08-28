@@ -1,0 +1,64 @@
+job_id : 6676
+businesscategory_name : Arts, Design, Entertainment, and Media
+title : Director, Social Media Strategy and Execution 
+start_date : 2009-08-19 16:48:00.215995+00
+end_date : 2009-09-18 16:48:00.210043+00
+description:  Are you in tune with Social Media? Do you live, eat and breathe the social web? Are you addicted to twitter and find yourself playing with new services and installing new iPhone apps constantly? If so, let's talk. Break Media is a global top-40 online media presence, we own and operate 9 different sites that reach over 30 million monthly visitors. We’re looking for a Social Media expert to come on board and and help us create a strategy and execution plan for leveraging social media to build awareness, engage audiences, and drive traffic to our various properties. This is a tremendous opportunity to engage a loyal audience, with both editorial, marketing and engineering resources at your disposal, to help define how next generation media companies should leverage the social web.
+
+Responsibilities include:
+
+- Creating original voice and authoring tweets for all properties
+
+- Leveraging facebook, twitter, myspace and more to reinforce the brand experience
+
+- Work with editorial to create original content specifically for the social web
+
+- Work with Product Management to create new products and features that help promote audience interaction
+
+- Help create concepts for original applications to run on Facebook, Myspace or the iPhone
+
+- Work across the company to evangelize and promote social media
+
+- Come up with new ways to leverage social media that we haven't even thought of
+
+Requirements:
+
+- Expert in social media
+
+- Creative writing skills
+
+- Active in social media (send us your stuff, prove it)
+
+- Excellent communication skills, able to work across the organization to align teams around social media initiatives
+
+- Tech savvy
+
+- Background in online marketing preferred
+
+To apply, please send a resume with examples of your work or for more information, check out http://breakmedia.break.com or our individual properties: www.break.com, www.mademan.com, www.holytaco.com, www.screenjunkies.com, www.cagepotato.com, www.chickipedia.com, www.allleftturns.com.
+
+company_name : Break Media
+city : Beverly Hills
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2009-08-19 16:48:00.172443+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 1937
+website :
+email : nick@break.com
+publish : 1
+featured : 0
+tags : social media,product manager,entertainment,video
+state : 
+
+
+

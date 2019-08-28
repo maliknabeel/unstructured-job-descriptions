@@ -1,0 +1,46 @@
+job_id : 5987 
+businesscategory_name : Internet 
+title : CrunchBase Interns
+start_date : 2009-01-29 22:19:12.514898+00
+end_date : 2009-03-30 07:00:00+00
+description: TechCrunch seeks 10 part-time remote college interns for the 2009/2010 academic year to contribute to our growing CrunchBase property. CrunchBase is the leading statisstical directory about technology companies, people, and investors. The free directory is a structured wiki with contributions from both TechCrunch editors and the community at large.e CrunchBase interns will respond to requests from TechCrunch editors to create profiles of new companies, people and investors. Interns will also identify and incorporate new funding data into CrunchBase. Our target candidates will share a passion for learning about a broad spectrum of Internet businesses and have excellent research and writing skills. Interns can work remotely from their colleges and are being requested to commit to 5 hours per week. This is an academic (non-remunerated) internship to provide interns with great experience in the technology start-up world. Interns will have the chance to attend the TechCrunch conferences and events, free of charge. Academic-year interns are also given priority consideration for paid summer internships. Please include "CrunchBase Intern Candidate" in the subject line of your email.
+
+
+company_name : TechCrunch
+city : remote 
+country : USA 
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2009-01-29 22:19:12.459715+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 5914 
+website :
+email : gene@techcrunch.com
+publish : 1
+featured : 0
+tags : crunchbase,interns,research,techcrunch
+state :
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

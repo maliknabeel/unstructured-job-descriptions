@@ -1,0 +1,81 @@
+job_id : 7051
+businesscategory_name : Architecture and Engineering
+title : (Above the) Cloud Research Architect / Product Manager
+start_date : 2010-02-10 18:00:42.113541+00
+end_date : 2010-03-12 08:00:00+00
+description: If you are bubbling over with ideas; love and live technology; are self-motivated; enjoy a good spirited debate; are constantly thinking one year ahead; want early access to cutting edge technology; have been called insatiably curious and articulate; and want to see your own ideas come to fruition you should be talking with us. We are Orange Labs San Francisco.
+We are looking for a candidate that brings an entrepreneurial attitude, has a driven desire to be innovative, goes beyond simple task execution and is inspired to networking in the valley through conferences, seminars, and other business means.
+Orange Labs San Francisco is the Bay AreaâÂ?Â?s division of one of the worldâÂ?Â?s largest corporate research and development organizations. The San Francisco labâÂ?Â?s mission is to anticipate, develop, explore and research technologies and business models coming from the Silicon Valley. Among the labs projects is the drive to create novel consumer services for the converged web, mobile and television markets. The lab has a startup-like atmosphere with small teams working on innovative ideas.
+Unlike many corporate research departments, Orange Labs San Francisco is charged with bringing ideas from concept to working prototype. Yet, projects are still mostly engineering driven and proactively marketed internally to our business units for rapid deployment (trials and commercial deployments).
+
+Description:
+Is your head in the clouds? Do you want to think above and beyond the clouds?
+Were you excited about Cloud computing back in early 2008 but now it's just a routine? Installing servers, racking and stacking, managing apps, etc. Want to get back to the exciting days of concepts, designs and implementation? Orange Labs is looking for people to create the next concepts in Cloud computing. Do projects like Hadoop. Cassandra, and hripe make your heart twitter?
+Do you have an idea that's been waiting on the shelf because your boss wouldn't risk the project failing? Come try it here... just be prepared to fail fast.
+
+Companies have become incredibly dependent on cloud computing technologies. For systems architects, that means managing these systems has become conservative, repetitive and possibly boring. This position will allow you to take the risk to create and test audacious ideas and solutions that may lead to the next breakthrough in Cloud computing.
+
+Responsibilities:
+Define and evolve new highly scalable, highly available cloud-based architectures.
+Work hands-on to deliver significant components, including development of demos, proofs of concept and prototypes.
+Provide technical leadership and mentoring to the development team.
+Collaborate with your peers on other SaaS/Cloud projects within Orange Labs on common components and services.
+Help position the products through market and product requirements, as well as analyzing potential partners for products.
+Perform business model and TCO analysis.
+Run beta and pilot programs.
+Effectively communicate and collaborate with international teams, including customers and partners.
+As Architect / Product Manager, you will build products from existing ideas, and help develop new ideas based on your vision, industry experience and your contact with users. You must possess a unique blend of business and technical savvy; a big-picture vision, and the drive to make that vision a reality. You must enjoy spending time in the market to understand their problems, and find innovative solutions for the broader market.
+Due to the R&D context, the statements contained in this job description are not necessarily all-inclusive; additional duties may be assigned and requirements may vary from time to time.
+
+Qualifications:
+R & D Experience highly preferred
+MS or BS; Computer Science or Engineering
+6 years experience with Cloud computing technologies and services,
+Strong strategic thinking and trend setting, strong passion for technology
+I.T. architecture / product development experience a must
+Experience with large scale applications infrastructure from concept âÂ?Â? design âÂ?Â? production to operation
+Self-starter who is highly organized, learns quickly, and is a team player.
+Good analytical and organizational capabilities
+
+Technical skills:
+Knowledge of emerging trends in Cloud computing such as Hadoop, HBase, Pig, and Cassandra, application delivery networks and vertical market Cloud and SaaS offers are critical to this job.
+Keen understanding of Cloud computing technology stack, autonomic computing and distributed systems
+Previous experience with architecting and/or developing complex web scale apps
+Experience with Amazon Web Services or other cloud-based platforms a strong plus.
+Strong comprehension of virtualized data center design and planning in mission critical environments that includes network and network security, servers and systems, storage as well as database and application architectures / SaaS
+Experience with Unix/Linux or Windows environments, distributed systems, machine learning, information retrieval, network programming, and/or developing large software systems a plus.
+Familiar with open-source Internet-oriented technologies, LAMP, Java/J2EE
+Good with rapid prototyping using Perl, Python and Ruby-on-Rails framework
+
+Additional requirements:
+This position requires collaboration with teams in France, UK and Spain which may imply trips to Europe for short periods of time
+Fluent in French is a plus
+Skilled at writing reports for an international reader (decision makers, managers, technical experts, business experts)
+
+No Relocation Package.
+
+BENEFITS:
+M/D/V/STD/LTD/Life/Bonus/401(k)
+
+company_name : Orange Labs San Francisco (France Telecom R&D)
+city : South San Francisco
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2009-11-06 20:25:11.640346+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 5597
+website :
+email : ckearns.ext@orange-ftgroup.com
+publish : 1
+featured : 0
+tags : product manager
+state : California,CA

@@ -1,0 +1,66 @@
+job_id : 7019
+businesscategory_name : Internet
+title : VP Product
+start_date : 2009-11-03 08:03:27.366776+00
+end_date : 2009-12-03 08:03:27.359921+00
+description:  Covestor Investment Management (CVIM), an SEC registered investment advisor, offers its clients a better alternative to a mutual fund. It provides a managed account service, previously only available to those with millions of dollars invested with a wealth management firm, where one can invest alongside any brilliant self-directed individual or professional investor (www.cv.im)
+
+CVIM is the transactional platform of Covestor (covestor.com) the leading online real-trade sharing service that lets any committed investor, individual or professional, build a track record, establish a fund and benefit as if they were a professional money manager.
+
+Covestor is led by a team with successful start-ups under their belt and backgrounds from Amazon, Goldman Sachs, McKinsey and Microsoft. The company is a venture backed start-up with offices in London and New York.
+
+
+Job Description
+We are looking for a senior professional to take ownership of an industry changing, web-based, consumer finance product. The VP Product will be responsible for setting the product strategy and roadmap and working with a Project Manager and team of engineers to successfully execute it. The VP Product will work closely with the CEO to refine the product strategy and achieve the Company’s core business objectives.
+
+Specific responsibilities include:
+
+    Conducting user research and delivering a first class, highly effective user experience
+    Standardizing the product development process
+    Writing the product roadmap, prioritizing and writing business requirements with sufficient detail for technical implementation
+    Managing needed internal and external resources – e.g. interaction designer, copywriter, graphic designer
+    Collaborating with the technical development team to deliver the best product possible
+
+Skills
+This role is ideally suited for someone experienced in building world class products and in shaping the direction of a highly disruptive web based service. The candidate does not have to have a background in financial services but should be able to operate in a fast paced start-up.
+
+As the key member of a small team you will want to grow a financial services company from the ground up. The right candidate will be self motivated and hard working, adaptable to change, not afraid of getting their hands dirty and working both with others and autonomously. Rather than being an institutional fund provider, we are an internet business catering to clients that expect greater control and transparency. We are looking for a candidate who can reflect and communicate that ethos.
+
+Key Competencies - Role Specific
+- The position calls for an ambitious and experienced product marketeer
+- Demonstrated success in building a compelling consumer proposition
+- Experience building multi-functional online products
+
+Key Competencies - Generic
+- Instinctual understanding of needs of financial consumers
+- Excellent interpersonal, and relationship-management skills
+- Ability to self-manage and work autonomously
+- Drive and enthusiasm
+
+Benefits of Role
+- Key employee with control over significant budget
+- Potential for significant growth in the role as core part of Covestor offering
+- Part of a highly motivated team
+
+company_name : Covestor, Inc
+city : Manhattan
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2009-11-03 08:03:27.320487+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 2003
+website :
+email : jobs1009@covestor.com
+publish : 1
+featured : 0
+tags : product
+state : California,CA

@@ -1,0 +1,97 @@
+job_id : 9981
+businesscategory_name : Internet
+title : Web Developer - Ruby on Rails
+start_date : 2011-07-28 18:36:19.305105+00
+end_date : 2011-08-27 00:00:00+00
+description: TechCrunch is hiring web developers!  
+
+We want to grow our (at this time) small but intense technical team to build out the next generation of products and features on our network of blogs and websites. Your job will be to Get Things Done on these projects as well as eventually tell us what we absolutely need to be focused on next (and why).
+
+ 
+
+We're looking for a resourceful developer to come work with us on some big ideas we have here at TechCrunch. We value smartness and an ability to get things done.
+
+ 
+
+You will be spending a large portion of your time working on significant new features and improvements for CrunchBase, the open directory of startups, financing, and entrepreneurs that TechCrunch has built and curates.
+
+ 
+
+Required Skills
+
+- 2+ years designing and developing scalable web applications
+
+- Experience developing in Ruby
+
+- Strong experience working with Rails - ideally you've worked full-time on Rails or have side-projects that you've built from scratch
+
+- Solid understanding of ActiveRecord, Associations, Routing, Migrations, Caching principles and practices, and the whole nine yards
+
+- MySQL
+
+- CSS [sass]
+
+- HTML [haml]
+
+- Experience/Knowledge in Git
+
+- Love of the web: protocols, platforms, languages
+
+- Javascript, JQuery, Ajax
+
+- Experience working with Linux servers, Rails application deployment, and so forth
+
+ 
+
+What you'll get:
+
+- A competitive salary
+
+- Health benefits - medical, dental, and vision
+
+- 401K
+
+- Stock
+
+- The ability to work in San Francisco
+
+- Free Lunch on M/F
+
+- Free access to all TechCrunch conferences/events [You'll probably help plan them as well]
+
+- A bunch of other nice perks
+
+ 
+
+Why work at TechCrunch?
+
+By joining the team as a developer, you'll be an intricate part of working on projects that will have massive impact on millions of our readers and users.  Your voice will be heard and you'll have a lot of autonomy over mission-critical decisions.  Our office culture is relaxed yet dynamic, located in the SOMA district of San Francisco within walking distance of CalTrain (perfect for commuting!).  Everyday, amazingly interesting people walk in and out of our doors making for a really exciting working environment.  
+
+ 
+
+About TechCrunch:
+
+TechCrunch (www.techcrunch.com) is a leading technology media network, dedicated to obsessively profiling and reviewing new Internet products and companies. Founded in 2005, TechCrunch and its network of websites reach over 10 million unique visitors and more than 35 million page views per month.  TechCrunch operates a global network of websites including dedicated properties in Europe and Japan as well as specialized industry websites including MobileCrunch, CrunchGear, and TechCrunchIT.  TechCrunch’s CrunchBase, is the leading, open database about start-up companies, people and investors.  In addition to Disrupt, TechCrunch hosts other conferences and events, including The Crunchies Awards and various meet-ups worldwide serving as community platforms for industry conversation and collaboration. TechCrunch is a wholly owned operating division of AOL.
+
+company_name : TechCrunch
+city : San Francisco
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2011-01-19 00:59:03.535204+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 6657
+website :
+email : christian.obrien@teamaol.com
+publish : 1
+featured : 0
+tags : developer,ruby,ruby on rails,software engineer
+state : California,CA

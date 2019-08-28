@@ -1,0 +1,78 @@
+job_id : 7557 
+businesscategory_name : Sales and Marketing
+title : Jr. Account Manager
+start_date : 2010-02-23 17:42:20.895293+00
+end_date : 2010-03-25 16:42:20.887699+00
+description: Job Description
+
+Jr. Account  Manager – BermanBraun Interactive
+
+Full Time
+
+ 
+
+POSITION SUMMARY
+We are looking for an experienced, organized and motivated Account  Manager to manage and execute online display and custom advertising campaigns for Wonderwall (the highly successful new celebrity site for MSN) and soon to be launched women’s fashion, lifestyle and beauty site (in partnership with MSN and Hachette). The Account Manager will work closely with internal BermanBraun Ad Sales Solutions and Microsoft/MSN Ad Sales teams.  The Account Manager willcoordinate efforts on multiple levels and work closely with the internal editorial, product, design, ad operations, and various business teams to seamlessly deliver stellar custom advertising programs to fortune 500 companies across a wide variety of industries including Entertainment, Fashion, Beauty, Automotive, Financial Services, Technology, etc.   BermanBraun is an exciting company that produces valuable, quality content across multiple platforms and its web-sites are fast becoming known for their amazing design-aesthetic, innovative navigation and custom ad solutions.
+
+
+PRIMARY DUTIES
+• Manage andcoordinate the successful delivery of all custom ad programs across Wonderwall and Lille
+
+• Work with editorial, design, technology and business groups to successfully execute all campaign elements
+
+• Create accurate project schedules and ensure personal and team adherence to deadlines and milestones
+
+• Secure all required approvals from ad sales/clients and internal departments
+• Track ad sales performanceand ensure ad programs deliver on-time and on-budget
+• Help resolve conflicts and negotiate solutions quickly and effectively
+• Work with ad operations to troubleshoot any issues on site
+
+• Help to manage all requests and RFP’s coming in from MSN Ad Sales
+• Report progress of existing and upcoming campaigns to Ad Solutions and Management teams
+
+• Participate in creative brainstorming to come up with advertiser programs and new ad solutions
+
+REQUIREMENTS
+• College Degree preferred and 3+ years relevant work experience, including a minimum of 2 years in digital media  sales or agency work
+
+• Proficient with Microsoft Office (Word, Excel, PowerPoint) and Microsoft Outlook
+• Proven project management skills and successful track record in taking projects or ad campaigns from sale to completion
+• Proven track-record of multi-tasking and overseeing numerous projects of various sizes, while managing client/sponsor expectations
+• Must be detail-oriented with strong organizational skills
+
+• Must possess excellent interpersonal skills (written and oral) and have the ability to effectively communicate and build great relationships
+
+• Self-managed proactive work style
+• Experience managing external resources
+• Ability to independently prioritize projects and his/her time are essential
+
+• Have a high regard for and understanding of great customer service
+
+• Adaptable, agile and competent in a high-stress and high-pressure environment
+
+• Sense of humor, creativity, and interest in new media and television is preferred
+
+company_name : BermanBraun
+city : Santa Monica
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2010-02-23 17:42:20.859612+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 1659
+website :
+email : jobs@bermanbraun.com
+publish : 1
+featured : 0
+tags :  ad sales
+state : California,CA
+
+

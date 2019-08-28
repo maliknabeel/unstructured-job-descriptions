@@ -1,0 +1,51 @@
+job_id : 6146 
+businesscategory_name : Computer and Information Technology
+title : Senior Software Engineer (ASP.NET)
+start_date : 2009-03-18 17:54:52.116051+00
+end_date : 2009-04-17 17:54:52.110254+00 
+description:  Articulate (www.articulate.com) is the 15th fastest growing company in North America and arguably the #1 coolest to work for. We’re looking for a senior-level C#/ASP.NET software engineer to join our team.
+
+Do you want to work at a small, profitable, energetic software company where you can make a difference? Would you love the opportunity to work from home and forget commuting? Because we value talent over location, we’re looking for the right person no matter where you live.
+
+We’re looking for a talented software engineer to help us build online communities and applications that help trainers teach people.
+
+Qualifications
+* Undying passion for building awesome, useful software
+* Boundless curiosity about technology and solving problems
+* Experience building high-traffic ASP.NET applications using C#
+* Very high quality standards
+* High-bandwidth person who can work unmonitored (from home)
+
+Perks
+* Stock options
+* Free iPhone
+* 30’’ Flat Panel
+* Medical Insurance
+* 100% Telecommute (US only please)
+
+company_name : Articulate Global, Inc.
+city : 100% Telecommute (Anywhere, USA)
+country : 
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2009-03-18 17:54:52.086642+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 5319 
+website :
+email : devjobs@articulate.com
+publish : 1
+featured : 0
+tags : 
+state :
+
+
+
+

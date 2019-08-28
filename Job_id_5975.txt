@@ -1,0 +1,83 @@
+job_id : 5975 
+businesscategory_name : Sales and Marketing
+title : Director of Marketing
+start_date : 2009-01-27 19:13:58.276567+00
+end_date : 2009-02-26 19:13:58.270868+00
+description: Verance develops technologies and solutions that track, manage, and enhance the use of media content. Verance’s audio watermarking technologies have been deployed globally by large and small companies in a variety of business and consumer application areas, and has been incorporated in over 100 million consumer entertainment products. Additional information about Verance and its technologies, products and services can be found at http://www.verance.com. 
+Director of Marketing
+
+Verance is seeking a hands-on Director of Marketing with expertise in product marketing, marcomm and media communications. The position relates to the marketing of proprietary technologies that are integrated into premium entertainment content (including movies and music), consumer entertainment products (including home theater equipment, portable/mobile entertainment devices, DVD players, and PC media player software), and online distribution services (including web sites and services).   
+Responsibilities: 
+
+    Develop and implement product marketing strategies, communications and outreach programs to partners, customers, and key industry influencers.
+    Partner with internal teams on product development and product collateral, including design and documentation.
+    Develop and maintain relationships with major media, entertainment, consumer electronics, and computer industry companies worldwide.
+    Partner with internal teams to develop customer support plans, materials, and web site.
+    Ensure consistent messaging and product positioning across all marketing communications plans.
+    Develop sales collateral, web content, white papers, case studies, presentations, and media kits for use in business development, marketing, and sales efforts.
+    Plan and execute media relations campaigns.
+    Develop and document detailed product requirements.
+    Provide appropriate market research and data on industry trends, competitive offerings, and market evolution to enable informed decisions by executive team regarding products and service offerings.
+    Plan and coordinate events, including tradeshows, conferences, and sponsorships.
+    Develop and manage internal marketing staff and external vendors
+
+ Qualifications: 
+
+    Bachelor’s degree in Business, Marketing, Engineering, or Computer Science with an MBA preferred. 
+    A minimum of 8+ years professional marketing experience is required.
+    3+ years experience in a related product area, such as: digital entertainment and digital media production, replication, and distribution; consumer electronics product and components; consumer application software; digital asset management solutions; information or content security solutions, or media information services.
+     Ability to quickly master complex technical issues and articulate them to a broad range of audiences. 
+    Demonstrated analytic capabilities in a fast-paced software development/information technology environment.
+
+ Requirements: 
+
+    Deep understanding of effective technology product marketing methods and processes.
+    Exceptional written and verbal communication skills, both technical and non-technical.            
+     Portfolio of work must be provided.
+    Strong analytical problem solving skills.
+    Solid leadership, cross-functional teamwork and interpersonal skills.
+    Self-motivation, with critical attention to detail, deadlines and reporting.
+    Bottom-line oriented, budget-conscious, and metrics/measurement driven.
+    Ability to prioritize and innovate.
+    Demonstrated ability to deliver results under pressure and adapt to changing business requirements.
+    Experience in managing outside vendors including PR consultants, technical writers, graphic and web-site designers.
+
+This position is located in San Diego, CA. 
+
+Verance is an Equal Opportunity employer. Local candidates only; no relocation assistance is offered for this position. Eligible candidates will be able to provide proof of eligibility to work in the United States without support; sponsorship is not available.
+company_name : Verance
+city : San Diego, CA
+country :
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2009-01-27 19:13:58.244142+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 1226 
+website :
+email : information@verance.com
+publish : 1
+featured : 0
+tags :
+state :
+        
+
+
+
+
+
+
+
+
+
+
+
+
+

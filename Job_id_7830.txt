@@ -1,0 +1,64 @@
+job_id : 7830
+businesscategory_name : Arts, Design, Entertainment, and Media
+title : Senior Director of Digital
+start_date : 2010-04-07 19:29:31.75927+00
+end_date : 2010-05-07 19:29:31.751531+00
+description: POSITION SCOPE AND REPONSIBILITY
+
+ 
+
+    Responsible for planning and executing high-level global digital and mobile strategy for high-profile entertainer / brand
+    Devise and drive innovative marketing and business development strategies and tactics that support and/or promote area(s) of focus, proactively positioning the brand / music artist (and its affiliated companies) online and via other technologies including mobile
+    Establish short and long-term marketing, content and distribution strategy and objectives – including measurable goals in alignment with said objectives
+    Responsible for setting, managing and tracking budgets, sales projections and overall group P&L
+    Manage, coordinate and provide guidance and supervision to any and all external agencies and partner companies
+    Position based in New York with periodic travel required
+
+ 
+IDEAL CANDIDATE PROFILE
+
+ 
+
+Personal Qualities:  
+
+    High energy, passionate professional
+    Extraordinary poise and thinks well under pressure
+    Level of confidence that can effectively influence internal and external constituents across all levels
+    Ability to think strategically and operationally (plan strategy and manage operations)
+    Strong network of senior executives / key players in the digital / entertainment spaces
+
+ 
+
+Experience & Skill Set: 
+
+    Senior level position at interactive marketing / advertising agency or senior “in house” position at brand / entertainment group
+    Highly developed verbal, written and presentation skills and experience developing and executing digital / mobile strategies for high-profile brands / agencies on a global scale
+    Strong global online and mobile carrier / handset relationships
+    Comfort working with international, multicultural business environments
+
+ 
+
+Required Education:BA or BS; Advanced degree a plus
+
+company_name : Nexus Management Group
+city : New York
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2010-04-07 19:29:31.702777+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 1923
+website :
+email : marin.kim@gmail.com
+publish : 1
+featured : 0
+tags :  digital,social media,entertainment
+state : New York,NY

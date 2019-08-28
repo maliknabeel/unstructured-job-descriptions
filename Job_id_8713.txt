@@ -1,0 +1,63 @@
+job_id : 8713
+businesscategory_name : PR
+title : Marketing & Event Planner
+start_date : 2010-08-18 18:55:46.86735+00
+end_date : 2010-09-17 18:55:46.859138+00
+description: RESPONSIBILITIES:
+
+    Plan, coordinate, and implement all company events and activities (internal and external.) 
+    Develop project plans with milestone paths and layouts for housing, meeting rooms, banquets, and serve as official liaison with contracted hotels and event sites. Supervise total readiness of facilities. 
+    Collaborate with event owners and/or initiators (training, sales, marketing, etc.) to clearly define and understand objectives and expected results.
+    Design and implement plans for menus and special events.
+    Coordinate air travel, ground transportation, and hotel accommodations as it relates to assigned meetings for applicable event participants.
+    Hotel and vendor negotiations, on-site management, transportation, Food &Beverage, audio visual and bill reconciliation. 
+    Procures and coordinates vendor services for bids and negotiate service contracts.
+    Coordinate contract reviews with legal, supervisors, and timing management with financial impact.
+    Research, write and edit written communications, reports and speeches for Executives
+    Key role in coordinating and writing other important internal communications.
+    Responsible for creating project plans and meeting deadlines.
+    Oversees the development of appropriate communications vehicles to target audiences.
+    Develop and execute a Communication Plan that will support communication initiatives from all areas of the business - Operations, Marketing, Sales, HR, Finance and IT.
+    Assist with the development and implementation of the Company branding strategy.
+    Partner with the corporate Marketing Team to develop assets that support local community engagement initiatives.
+    Build and maintain the database of speakers, topics and areas of expertise within the Company. 
+    Analyze requests for speaking engagements as to impact, effect and potential positive exposure to the Company.  
+    Research speaking and panel opportunities for Company Executives that would promote the Company goals and increase awareness of the organization.
+    Match request with database of speakers to find best individual for event.  Arrange for participation in event and details with the Executive selected.
+
+ SKILLS AND ABILITIES:
+
+    This is a fast paced environment and individual must be able to work well under pressure and to multi-task in a fast paced environment. 
+    Must be able to work independently on a variety of projects and have exceptional communication skills. 
+    Must be a confident leader able to interact with clients. 
+    This position requires extensive travel and long hours during peak season.
+
+EDUCATION AND EXPERIENCE:
+
+    Degree (B.A.) from a four year college or university
+    3-5 years professional experience in event planning or marketing experience that includes coordinating trade show events and other marketing activities
+
+company_name : Tree.com
+city : Charlotte
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2010-08-18 18:55:46.80242+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 1080
+website :
+email : dedra.ellis@lendingtree.com
+publish : 1
+featured : 0
+tags : marketing,event planner,coordinator,public relations
+state : North Carolina,NC
+
+

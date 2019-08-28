@@ -1,0 +1,64 @@
+job_id : 7297 
+businesscategory_name : Internet
+title : Online Product Manager
+start_date : 2010-01-06 19:29:58.34801+00
+end_date : 2010-02-05 19:29:58.340915+00
+description: The Product Manager develops plans and oversees implementation of new features and
+enhancements (large and small) to the About.com website. The selected candidate should be a positive and active leader, and effective in communicating across technical and non-technical
+departments. The qualified applicant will have the ability to plan and execute world-class
+products with strong analytical follow-up.
+
+Representative Responsibilities Include:
+- Maintain and enhance the value proposition to About.com website users in order to increase traffic, repeat visits, and profitability
+- Manage existing products and develop new products for the company based on strategic priorities, industry experience, idea generation, company technological capability, staff resources, and site and marketplace research.
+- Manage new product development from strategic planning to implementation and post-launch analysis by working with editorial, marketing, sales, technology and finance.
+- Define and document functional requirements
+- Ensure projects are delivered on schedule and with high quality results.
+- Optimize and analyze product performance and respond quickly to diagnose and correct any problems
+- Remain abreast of competitors and trends in website design and functionality, integrating new technologies into the About.com site as they emerge
+
+Qualifications:
+The position requires expertise in website management and business principles combined with an understanding of consumer needs and technology. Specific requirements include:
+- Three (3) or more years of experience in Internet-related product management or website development
+- Five (5) or more years of total experience in marketing, technology or product development roles
+- Experience leading website development projects: defining and communicating specifications, managing resources, leading cross-functional teams and managing ontime
+implementation
+- Experience product managing software application builds and 3rd party software implementations
+- Superior ability to manage short- and long-term projects simultaneously, trading-off resources to achieve company objectives
+- Skilled in standard software project and project management concepts, practices, and
+procedures
+- Knowledge of design principles and best practices in user experience design, website navigation, information architecture, and traffic retention.
+- Experience in creating functional requirements and product specification documents
+- Strong familiarity with Internet technology and current web trends, including social media and mobile
+- Experience working on advertising products
+- Exceptional troubleshooting and problem-solving skills.
+- Excellent written and oral communication skills
+- Bachelor's degree
+
+company_name : About.com
+city : New York
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2010-01-06 19:29:58.29413+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 1319
+website :
+email : chadas@nytimes.com
+publish : 1
+featured : 0
+tags :  user experience,design principles,project managment
+state : New York,NY
+
+
+
+
+

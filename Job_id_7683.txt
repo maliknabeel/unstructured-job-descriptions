@@ -1,0 +1,42 @@
+job_id : 7683 
+businesscategory_name : Computer and Information Technology
+title : Web Developer - Full-time entry level or intern
+start_date : 2010-03-18 15:55:56.078043+00
+end_date : 2010-04-17 15:55:56.070511+00
+description: We're looking for web developers with a passion for their work and a hunger to learn. Join our small team working on high profile sites for clients around the country. You'll work on multiple projects, from concept phase through testing and launch. We work in an open, collaborative environment and seek developers who enjoy problem solving and straying outside the routine.
+
+Specifically, we prefer:
+
+•Interest in developing data driven web applications in Ruby , Java, Perl or PHP
+•Understanding of object-oriented design and software development principles
+•Understanding of web-based architecture (web servers, load balancing, caching, databases, replication, etc.)
+•Understanding of JavaScript and other web technologies (XHTML, CSS, Ajax, etc.)
+•Understanding of the Document Object Model (DOM) and DOM scripting techniques
+
+company_name : Perfect Sense Digital
+city : Reston
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2010-03-18 15:55:56.03747+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 747
+website :
+email : kchipman@perfectsensedigital.com
+publish : 1
+featured : 0
+tags :  web developer,software engineer
+state : Virginia,VA
+
+
+
+
+

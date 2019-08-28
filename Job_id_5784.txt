@@ -1,0 +1,61 @@
+job_id : 5784
+businesscategory_name : Internet
+title : CFO
+start_date : 2008-12-08 21:48:27.666554+00
+end_date : 2009-01-07 21:48:27.661375+00
+description: MocoSpace is the leading mobile social network in North America.  The company is founded by successful entrepreneurs, and backed by some of the top firms in the country. 
+
+We are looking for an entrepreneurial CFO who has experience growing companies from the ground up.  The CFO will be responsible for the tactical and strategic financial planning and control of MocoSpace.  The successful candidate must possess solid financial and managerial skills, share management’s passion for building a great business, and have experience in a start-up environment. 
+
+The CFO must act and think like an owner, i.e. obsess over how to constantly improve and drive the business forward.   Rolled up sleeves is a must.
+
+Professional Qualifications
+
+
+·         Experience in budgeting, forecasting, fundraising, HR, contract negotiations.
+
+·         Excellent analytical skills with the ability to drive an organization’s focus on ROI and data driven decision making.
+
+·         Great communicator with experience working with investors, boards, and management.
+
+·         Track record of creating value.
+
+·         A background in online consumer and advertising focused businesses a big plus.
+
+
+Personal Qualifications
+
+
+·        Execution and results oriented.
+
+·         A leader that raises the bar for everyone.  
+
+·         Hands on, entrepreneurial drive.  Able to leverage limited resources into outsize results. 
+
+·         Team player and communicator who can work with everyone and help share management’s vision and goals internally and externally.
+company_name : MocoSpace
+city : Boston, MA
+country :
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2008-12-08 21:48:27.619137+00 
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 3740 
+website :
+email : jamie@corp.mocospace.com
+publish : 1
+featured : 0
+tags :
+state :
+        
+
+
+

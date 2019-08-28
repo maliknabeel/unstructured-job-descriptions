@@ -1,0 +1,39 @@
+job_id : 12392
+businesscategory_name : Arts, Design, Entertainment, and Media
+title : Digital Images Librarian
+start_date : 2011-10-11 16:03:57.891787+00
+end_date : 2011-11-10 16:03:57.72852+00
+description: Digital Image Librarian
+ 
+Reed Hilderbrand – a nationally recognized, award-winning landscape architectural firm located in Watertown, Massachusetts – is seeking a Digital Image Librarian to organize, catalog and maintain our large collection of digital images. In our digital image library, we find inspiration for current projects and an essential link to our promotional materials; therefore, its systematic maintenance and navigability are essential to the health of the firm’s work process.
+ 
+In this critical role, we are seeking candidates with a love and knowledge of photography, a penchant for rigorous organization and a willingness to do what it takes to bring and keep a working photo library system up and running. Among the responsibilities of the Digital Image Librarian will be “tagging” photographs with searchable keywords, working with project managers to ensure incoming images are properly catalogued, and assisting in the design and implementation of a working digital library architecture.
+ 
+We seek a candidate with a background in photography and/or library science who is IT-savvy and has a penchant for systems organization. Candidates must have strong computer skills and should be familiar with software applications and filing systems for digital images.
+ 
+Compensation includes a competitive salary (commensurate with experience) and a comprehensive benefits package.
+ 
+To learn about our firm, please visit: www.reedhilderbrand.com
+
+company_name : Reed Hilderbrand
+city : Watertown
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2011-10-11 16:03:56.838463+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 148
+website : 
+email : info@reedhilderbrand.com
+publish : 1
+featured : 0
+tags :  photography,digital images,librarian
+state : Massachusetts,MA

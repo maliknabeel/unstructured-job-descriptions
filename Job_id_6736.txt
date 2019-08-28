@@ -1,0 +1,75 @@
+job_id : 6736
+businesscategory_name : Engineering / Technical Services
+title : New TV product and Project manager
+start_date : 2009-09-04 20:55:13.392512+00
+end_date : 2009-11-03 08:00:00+00
+description:  New TV product and Project manager
+If you are bubbling over with ideas; love and live technology; are self-motivated; enjoy a good spirited debate; are constantly thinking one year ahead; want early access to cutting edge technology; have been called insatiably curious and articulate; and want to see your own ideas come to fruition you should be talking with us. We are Orange Labs San Francisco.
+We are looking for a candidate that brings an entrepreneurial attitude, has a driven desire to be innovative, goes beyond simple task execution and is inspired to networking in the valley through conferences, seminars, and other business means.
+Orange Labs San Francisco is the Bay Area’s division of one of the world’s largest corporate research and development organizations. The San Francisco lab’s mission is to anticipate, develop, explore and research technologies and business models coming from the Silicon Valley. Among the labs projects is the drive to create novel consumer services for the converged web, mobile and television markets. The lab has a startup-like atmosphere with small teams working on innovative ideas.
+Unlike many corporate research departments, Orange Labs San Francisco is charged with bringing ideas from concept to working prototype. Yet, projects are still mostly engineering driven and proactively marketed internally to our business units for rapid deployment (trials and commercial deployments).
+Description:
+If you believe
+
+    That TV over internet in form of Hulu and Netflix is just too primitive?
+    That the power of social media is under utilized in today's Internet TV.
+    That "Over the Top" is just beginning of TV every where.
+    That projects going on at companies as big as Comcast (Comcast Interactive Media) and AT&T's Entertainment services division and as innovative as Boxee are fascinating but they still seem too constrained because they are market focused rather then dream focused
+
+We want to talk with you.
+Do you have an idea that's been waiting on the shelf because your boss wouldn't risk the project failing? Come try it here... just be prepared to fail fast. TV delivered over Internet is in its infancy, so don't get constrained by following someone else's roadmap. Follow your intuitive and innovative brain and build the TV service that you would want to use and recommend to your friends.
+This position will allow you to take the risk to create and test audacious ideas and solutions that may lead to shape tomorrow's Internet TV.
+Responsibilities:
+
+    Proposing new ideas, concepts and business proposition for different "New TV services" that will leverage internet web 2.0 infrastructures (e.g. Social network platforms, open source recommendation engines and APIs frameworks), Internet video delivery infrastructure (CDN, cloud infrastructure, streaming technologies) and connected devices frameworks (Over the Top boxes, connected TVs, gaming consoles).
+    Translating high level business concepts into detailed Product description and requirements for technical teams along with details business/strategy plan. This activity may require detailed collaboration with International teams including teams in Europe.
+    Work hands-on to deliver significant components, including development of demos, proofs of concept and prototypes.
+    Provide technical leadership and mentoring to the onsite and offsite development team.
+    Identify, negotiate, collaborate and manage with key small/medium/big partners from Silicon Valley and/or Hollywood eco-system, for Orange's new TV products and proof of concepts.
+    Perform business model and TCO analysis.
+    Run beta and pilot programs.
+    Effectively communicate results to Orange high level executives and if needed with partners too.
+
+Due to the R&D context, the statements contained in this job description are not necessarily all-inclusive; additional duties may be assigned and requirements may vary from time to time.
+Qualifications:
+As a Product/Project manager, one needs have strong technical and business aptitude and demonstrable R&D experience to innovate for new entertainment services built for internet world.
+
+    MBA with strong technical aptitude: BS or MS in Computer Science or Engineering is a preferred.
+    5-7 Years experience in product/project management in the space of Internet video services and application with proven track record of taking a medium/large scale platforms and product from concept -design- production to operation using standard open source stacks and solutions.
+    Detailed understanding of US TV eco-system and business is a must.
+    Comprehensive technical understanding of web 2.0 platform, technologies and API frameworks.
+    Comprehensive technical understanding of video formats, streaming, playback, and delivery network.
+    Experience with embedded platforms to understand and innovate on Set top box and connected devices is a big plus
+    Solid interpersonal skills coupled with excellent communications skills (verbal, written, PowerPoint)
+    Experience in dealing with international teams and cultures.
+    Self-starter who is highly motivated, organized, learns quickly, and is a team player.
+
+    Fluent in French is a plus
+
+No Relocation Package.
+BENEFITS:
+M/D/V/STD/LTD/Life/Bonus/401(k) 
+
+company_name : Orange Labs San Francisco (France Telecom R&D)
+city : South San Francisco
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2009-09-04 20:55:13.346084+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 3410
+website :
+email : ckearns.ext@orange-ftgroup.com
+publish : 1
+featured : 0
+tags : product manager
+state : 
+

@@ -1,0 +1,30 @@
+job_id : 5744         
+businesscategory_name : Computer and Information Technology
+title : Full Time Writer
+start_date : 2008-11-20 07:05:15.188275+00
+end_date : 2008-12-20 07:05:15.183119+00
+description: TechCrunchIT seeks 1 full-time writer for TechCrunch's enterprise site. TechCrunchIT features a range of Enterprise-related news and analysis including applications, open standards, platforms, cloud computing, microenterprises, customer experience, legacy enterprise, social media, information management and software.  The candidate will work with TechCrunchIT and TechCrunch editors to track breaking news sources alongside TechCrunch story flow to develop enterprise and developer-focused stories, product reviews, interviews, and attend industry events and press conferences.    A background in enterprise trade media and/or Web 2.0 technologies and development is appreciated but not required, but a passion for digging deep into the intersection between the enterprise, cloud computing, and the fast-moving social media technologies is a prerequisite. The target candidate is a recent college graduate with strong writing and critical thinking skills; strong work ethic.  Preference is for candidate from the San Francisco Bay Are
+company_name : TechCrunch
+city : Atheron
+country :
+jobtype : Full Time
+positions : 1
+priority : 0
+creation_date : 2008-11-20 07:05:15.138858+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 4834
+website :
+email : steve@techcrunch.com
+publish : 1
+featured : 0
+tags :
+state :
+        
+

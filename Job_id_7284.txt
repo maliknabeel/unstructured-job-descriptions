@@ -1,0 +1,81 @@
+job_id : 7284
+businesscategory_name : Computer and Information Technology
+title : Information Architect & Product Manager of Technology
+start_date : 2010-01-04 23:49:58.901772+00
+end_date : 2010-02-03 23:49:58.894444+00
+description: THE POSITION:
+
+The Information Architect & Product Manager of Technology role is a new position which has opened as the result of a recent expansion at The Huffington Post. This position will report to the CTO, and will be based in our New York headquarters, located in the heart of SoHo (NYC area candidates are preferred).
+
+ 
+
+REQUIREMENTS:
+
+·    Ability to manage many simultaneous projects and work with an international group of developers and designers
+
+·    Ability to present eloquently and with high energy and charisma
+
+·    Natural ability to make products better through creative thoughts about feature sets and interaction design
+
+·    5-10 years experience 
+
+·    Experience on a high traffic site is a huge plus
+
+·    In love with new media and new ideas
+
+·    Demonstrates expertise in problem solving and technical innovation.
+
+·    Ability to motivate and demonstrate technical leadership.
+
+·    Demonstrates capability of “rolling-up sleeves and getting hands dirty."
+
+·    Works well in fast-paced growing environment.
+
+·    May have prior start-up experience and demonstrate ability to adapt.
+
+·    An ideal candidate demonstrates independence, creativity and initiative and the ability to master a solid understanding of the company’s architecture and its business goals.
+
+·    Work with the edit team and ad teams to understand use cases and help build products
+
+·    Document design as needed for internal design reviews and coding. Fast Photoshop mock ups, etc.
+
+ 
+
+Leadership and Communication:
+
+·    Excellent influential communication skills and business acumen to both arbitrate and advocate for technical issues.
+
+·    Charisma and speaking ability to present in sales meetings and to travel to key meetings with partners
+
+·    Interfaces with internal groups, customers and partners-- strong hands-on experience is a must.
+
+ 
+
+To Apply: Send a resume, along with a detailed salary history to infoarch@huffingtonpost.com
+
+company_name : The Huffington Post
+city : New York
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2010-01-04 23:49:58.834737+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 2647
+website :
+email : infoarch@huffingtonpost.com
+publish : 1
+featured : 0
+tags :  website,media,business,manager,executive
+state : New York,NY
+
+
+
+

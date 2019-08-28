@@ -1,0 +1,54 @@
+job_id : 5878 
+businesscategory_name : Internet
+title : Director of Product Management
+start_date : 2009-01-02 21:04:56.271032+00
+end_date : 2009-02-01 21:04:56.265212+00
+description: About Our Company     We’re much more than just a web site – we’re actually a network of independently staffed news and information sites that are each dedicated to a single community. Our mission is simple: we want to make people’s lives better by providing quick and easy access to the information that is most relevant to them, whether that’s local events, news, or information about services, places, or businesses. Our team is comprised of talented engineers, product managers, editors, marketers, financial analysts and other professionals. Started by experienced online pioneers and based in Soho, Patch is an exciting and invigorating place to work.
+
+Responsibilities:
+    •    Lead the product management effort for an early stage web start-up, in an agile environment.
+    •    Build a product roadmap based on executive strategic direction, managing growth towards clear goals over the next month, quarter and year of development.
+    •    Serve as the primary point of contact for all aspects of the product platform. Ensure that people across the organization understand where the product is now, and where it is going.
+    •    Work closely with business and editorial teams to identify new product needs.
+    •    Work closely with design and engineering team to build new features collaboratively and effectively.
+    •    Manage and provide mentorship for a small team of product managers and QA staff.
+    •    Ensure that the product adheres to the highest standards of web usability.
+
+Experience:
+    •    10 years of experience in software product management, preferably with at least 2 years in a management and/or director role.
+    •    In-depth knowledge of best practices for web usability & analytics.
+    •    Experience with issue tracking and/or project management software.
+    •    Experience in an agile development environment.
+    •    General understanding of web application architecture, client/server interactions, AJAX, etc.
+    •    Experience with programming (professional or as a personal hobby) is desired but not required.
+    •    A personal interest in local and geographically-specific applications and content.
+
+We offer competitive salary, stock options, benefits, and a great working environment. We've also been known to BBQ and bowl on occasion. Send us your resume and a note!
+company_name : Patch Media
+city : New York
+country :
+jobtype : Full Time/Permanent 
+positions : 1
+priority : 0
+creation_date : 2009-01-02 21:04:56.235677+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 3449 
+website :
+email : warren@patch.com
+publish : 1
+featured : 0
+tags :
+state :
+        
+
+
+
+
+

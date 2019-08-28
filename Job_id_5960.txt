@@ -1,0 +1,44 @@
+job_id : 5960 
+businesscategory_name : Arts, Design, Entertainment, and Media
+title : Product Manager, Newsweek Digital
+start_date : 2009-01-22 21:40:50.541763+00
+end_date : 2009-02-21 21:40:50.53633+00 
+description: REQUIREMENTS
+
+The ideal candidate will have a very strong understanding of consumer needs and trends and how each product fits into the overall brand promise. S/he will also be able to develop business cases that justify the need for the product or enhancement and be able to work closely across the organization, including editorial, design, development and sales to ensure products are successfully launched and goals are met. The ideal candidate will have two to five years of experience developing Internet products, technologies and platforms. S/he must have exceptional written and oral communication skills, outstanding organizational and analytical skills, and excellent teamwork skills. The ideal candidate will have demonstrated success defining and launching new products within online media as well as demonstrated skills in gathering requirements, organizing resources, and schedule risk management. S/he will have the ability to influence cross-functional teams without formal authority and an understanding of media products and social applications.
+RESPONSIBILITIES
+The Product Manager will be responsible for the product planning and execution of multiple initiatives, including market research, setting the product vision, goal setting, creating the product scope through requirements gathering and measuring performance. S/he may be asked to launch a new iPhone app, create a mobile strategy, or define the product requirements of a new site feature. The Product Manager will conduct market research and build the business case for each new product or enhancements to existing products. S/he will collaborate with internal stakeholders to define product strategy and roadmap, including defining and prioritizing high and low-level features and building consensus. The Product Manager will work with external third parties and outside partners to assess partnerships and licensing opportunities and implement new products. S/he will manage new initiatives through the product lifecycle, independently or with project management, including gathering and prioritizing product and stakeholder requirements and working with internal stakeholders. The Product Manager will work independently or with Project Management to deliver product requirement documents and manage site-wide Product Roadmap. S/he will work with Analytics to define goals and measure on-going performance, and perform other responsibilities as assigned.
+company_name : Newsweek Magazine, Inc.
+city : New York, NY
+country :
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2009-01-22 21:40:50.516491+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 5619 
+website :
+email : resumes@newsweek.com
+publish : 1
+featured : 0
+tags :
+state :
+        
+
+
+
+
+
+
+
+
+
+
+

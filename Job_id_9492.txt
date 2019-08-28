@@ -1,0 +1,63 @@
+job_id : 9492
+businesscategory_name : Government and Policy
+title : Research and Administrative Assistant 
+start_date : 2010-11-16 16:57:57.967124+00
+end_date : 2010-12-16 16:57:57.754842+00
+description: Please send resumes to nick@rockcreekdc.com
+
+Job Description:
+
+We are a public policy and legal consulting firm looking for an individual to assist us with research and fulfill several important administrative responsibilities. 
+
+The position will involve the following administrative duties:
+
+    Preparation of bills to clients.
+    Filing documents and maintaining firm research database.
+    Locating filings and legal briefs using Westlaw, Lexis Nexis and Pacer.
+
+The position will also require a substantial level of research assistance and analysis, specifically:
+
+    Contacting customers and competitors of companies involved in mergers we are tracking for clients.
+    Researching the relevant markets using various firm databases and Internet resources.
+    Updating the firm on news and outside analysis of deals.
+    Tracking various legislative and political developments on Capital Hill.
+
+Qualifications:
+
+    1-2 years experience working in a professional environment.  This experience could include working in government or at a law firm, lobbying office, policy consulting firm or a related field.  Recent graduates will also be considered. 
+    We are looking for someone who is professional, ambitious, hard working and who is capable of conducting significant. amounts of research while also fulfilling various administrative task as they arise.
+    Some background in microeconomics is preferable but not essential.
+
+Benefits:
+
+    $40,000 annual salary
+    Health Care
+    Further benefits to be discussed
+
+Firm Description:
+
+RCP is a consulting firm located in Georgetown that advises investment managers at large hedge funds and investment banks on the legal, regulatory and political implications of mergers and acquisitions.  Our clients specialize in a trading strategy called Merger Arbitrage.  In a nutshell, these investment managers buy up stock in companies involved in merger transactions and during a deal's lifecycle, the merging parties' securities will fluctuate in price based upon regulatory situations in DC.  Because of this they rely on a sophisticated level of policy and legal analysis.  Both partners at the firm were antitrust lawyers at the Department of Justice and Federal Trade Commission and have a great deal of experience in this field.  The research half of this position would entail researching the relevant markets (markets where the merging companies compete in) and tracking various developments in DC and elsewhere that impact the transaction.  Administratively, this position will involve preparation of bills to clients and organizing and filing documents, as well as managing our research database.
+
+company_name : RCP
+city : Washington
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2010-11-16 16:57:56.849359+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 836
+website :
+email : nick@rockcreekdc.com
+publish : 1
+featured : 0
+tags : research assistant
+state : District of Columbia
+

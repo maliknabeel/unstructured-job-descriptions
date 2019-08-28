@@ -1,0 +1,45 @@
+job_id : 5786 
+businesscategory_name : Engineering / Technical Services
+title : Freelance Web App & Social Media Developer (PHP or RoR, JS/AJAX)
+start_date : 2008-12-09 15:32:16.318038+00
+end_date : 2009-01-08 15:32:16.31199+00 
+description: Vested Ventures is a web incubator for the ideas of Steve Poland, former TechCrunch contributor. The business is a 1-man virtual operation that makes use of contractors. There are several consumer web app projects planned for '09, with one that is ready to be built-out right now. 
+
+Passion for the web, a must. Passion for social media, a must. Passion for simplicity, a must.
+
+Seeking an experienced programmer (for freelance/contract) to write a web app in either PHP or Ruby on Rails; must be experienced in AJAX/JavaScript; must be experienced in use of Amazon EC2/S3; you'll be implementing Aurigma (photo uploader; simple java applet. No prior exp necessary) and PayPal (for subscriptions). The graphic design is done, the screen mockups are done (aka what pages exist; what elements exist on each page; what functionality occurs on each page). The PSD's need to be cutup (which we can take care of) and then the application programmed.
+
+Seeking someone experienced with working on "web 2.0" web apps, social media, and an understanding of the information architecture / workflows / viral-factor for top consumer web apps.
+
+More info on Steve Poland and Vested Ventures, Inc:
+
+http://www.stevepoland.com/about
+
+http://www.vestedventures.com
+company_name : Vested Ventures Inc.
+city : Anywhere is fine (we're in Buffalo, NY)
+country :
+jobtype : Contractual 
+positions : 1
+priority : 0
+creation_date : 2008-12-09 15:32:16.288195+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 5272 
+website :
+email : steve@vestedventures.com
+publish : 1
+featured : 0
+tags :
+state :
+        
+
+
+
+

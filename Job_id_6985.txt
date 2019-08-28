@@ -1,0 +1,78 @@
+job_id : 6985
+businesscategory_name : Computer and Information Technology
+title : Product Innovator
+start_date : 2010-01-05 23:53:40.303535+00
+end_date : 2010-02-04 08:00:00+00
+description:  If you are bubbling over with ideas; love and live technology; are self-motivated; enjoy a good spirited debate; are constantly thinking a few years ahead; want early access to cutting edge technology; have been called insatiably curious and articulate; and want to see your own ideas come to fruition you should be talking with us. We are Orange Labs San Francisco.
+We are looking for a candidate that brings an entrepreneurial attitude, has a driven desire to be innovative, goes beyond simple task execution and have the deep desire to network in the valley through conferences, seminars, and other business means.
+Orange Labs San Francisco is the Bay Area division of one of the world’s largest corporate research and development organizations. The San Francisco lab’s mission is to anticipate, develop, explore, and research technologies as well as business models coming from the Silicon Valley. The lab's projects are all focused on creating novel consumer services for the converged web, mobile, television markets, and Next Generation enterprise services, platforms & networks. The lab has a startup-like atmosphere with small teams working on innovative ideas.
+Unlike many corporate research departments, Orange Labs San Francisco is charged with bringing ideas from concept to working prototype. Projects are engineering driven and proactively marketed internally to our business units for rapid implementation (trials and commercial deployments).
+Job Description:
+Do you know how Facebook, Twitter, and Semantic Web technologies can be used within enterprises to effectively do business without compromising security & privacy? Do you have ideas about how future enterprise users will use mobile technologies & devices beyond what we see in the market today? If over the past few years you’ve become a skilled, successful product manager but miss the excitement of getting involved in programming, creating technical specs, and just experimenting with the latest technology, we want to talk with you. One of the latest buzzwords in the valley brings together graphics, 3D, mobile, location and telecommunications. If you know what we are talking about and if that subject gets your mind racing don’t wait till tomorrow--Contact us today.
+Due to the Research & Development context, the statements contained in this job description are not necessarily all-inclusive; additional duties may be assigned and requirements may vary from time to time.
+Responsibilities:
+(Bold typed are major responsibilities for this role)
+
+    Define product vision and strategy (10%)
+    Design & develop initial prototype/proof of concept demo (20%)
+    Manage technical development team on software functional architecture, requirement & design (15%)
+    Project and product management (10%)
+    Identify target customer segments, usage, pricing structure, and business models for the product (10%)
+
+· Evaluated relevant products available in market or through open source and benchmark its features (10%)
+· Run beta tests and pilot programs (5%)
+
+    Identity and articulate market trends
+    Write whitepapers targeting top management on strategic topics.
+    Identify and recruit key strategic business partners.
+    Interact closely with the Silicon Valley ecosystem and communities.
+    Work closely with strategic marketing and product development teams in our business units to integrate prototypes into company product lines.
+
+As a Product Innovator (Product Manager)you will be responsible for the early part of a product's lifecycle including shaping the product idea and moving it to prototype and market trial. The ideal candidate should have strong product management and some software development experience. You should be very comfortable in launching new products in the context of the latest business and market trends in enterprise software & telecommunications space.
+Requirements:
+
+    Minimum eight years overall experience of which 2-4 years of product management experience and minimum five years of software development experience in the enterprise software space.
+    MS Computer Science or Engineering (or equivalent) is required. Having an MBA as well is a plus.
+    Good understanding of enterprise software space, including but not limited to Enterprise 2.0, Software-as-a-Service, Enterprise Augmented Reality, Semantic Web & Real Time Web
+    Experience with taking a medium/large scale enterprise app from concept -design- to market trial
+    Strong project management and organizational skills including the ability to handle multiple parallel projects.
+    Excellent written and oral communication skills
+    Proactive leader who takes initiative and demonstrates a high level of accountability
+    Ability to work in an agile environment with rapid product innovation and iteration
+    Knowledge of French a plus.
+
+Technical Requirement:
+· Previous experience with technical management of enterprise software & applications
+· Good development experience of end-to-end web application using .NET, J2EE & LAMP stack.
+· Familiar managing projects developed on public cloud platforms including but not limited to Amazon EC2, Google App Engine, and force.com
+· Good experience and knowledge on developing applications on Linux & Windows OS
+· Basic programming languages knowledge in Java, C/C++, AJAX, Flex, scripting languages (PHP, Python, etc…), and API
+· Experience with open-source oriented technologies and architectures
+No Relocation Package.
+BENEFITS:
+M/D/V/STD/LTD/Life/Bonus/401(k)
+Please send resume, cover letter with salary requirements to:
+ckearns.ext@orange-ftgroup.com or Fax to: (650) 875-1511 
+
+company_name : Orange Labs SF (France Telecom R&D)
+city : South San Francisco
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2009-10-27 17:43:24.092332+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 4872
+website :
+email : ckearns.ext@orange-ftgroup.com
+publish : 1
+featured : 0
+tags : product innovator
+state : California,CA

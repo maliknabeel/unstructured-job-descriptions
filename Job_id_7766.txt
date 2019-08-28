@@ -1,0 +1,42 @@
+job_id : 7766
+businesscategory_name : Internet
+title : Software Engineering Intern
+start_date : 2010-03-31 17:37:22.030475+00
+end_date : 2010-04-30 17:37:22.022684+00
+description: Software Engineer – Intern
+
+33Across is looking for an enthusiastic rising Senior to spend the summer as an intern supporting software engineering projects. This position is an entry level internship software engineer position. General knowledge on one of following areas is required:
+
+1. Java, C, C++
+
+2. PHP, MySQL, Javascript (JQuery or other frameworks) -> Candidate must have an eye for frontend design and must love javascript
+
+3. Applied Math and Statistics -> Loves to work with mult- dimensional data sets. Helps us with algorithm development and testing
+
+Candidate will work closely with supervisor and mentor to acclimate to the team and become a productive member. Generates or develops code using the proper syntax of a computer language or database tool. Designs and develops software products/systems. Tests and documents software processes. Develops database solutions. May perform work in one or more of the following disciplines: Software Engineering, Software Development, Software Programming, Software Systems Analysis. Candidate must be currently enrolled in a CS, EE, IS, or equivalent program and be a rising Senior
+
+company_name : 33Across
+city : Sunnyvale, CA
+country : USA
+jobtype : Internship
+positions : 1
+priority : 0
+creation_date : 2010-03-31 17:37:21.96951+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 621
+website :
+email : maya@33across.com
+publish : 1
+featured : 0
+tags :  java,c,c++,php,mysql
+state : California,CA
+
+
+

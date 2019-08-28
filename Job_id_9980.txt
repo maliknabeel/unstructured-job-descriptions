@@ -1,0 +1,97 @@
+job_id : 9980
+businesscategory_name : Internet
+title : Web Developer - PHP/MySQL
+start_date : 2011-02-08 22:38:47.128391+00
+end_date : 2011-03-20 00:00:00+00
+description: TechCrunch is hiring web developers!  
+
+ 
+
+We are looking for a proficient PHP Developer to work on our network of sites, including TechCrunch, CrunchGear, MobileCrunch, and a few others.
+
+ 
+
+You will spend a large portion of your time working on new features and site improvements. You will also be responsible for admin, maintenance, and continued operation of these sites. From time to time, you will work on special projects that will required back-end development for TechCrunch's events such as the Disrupt conference, the Crunchies awards and so on.
+
+ 
+
+We would love to bring someone on-board who can thrive in a rapid-paced, informal startup environment with little to no hand-holding (more power to autonomy! :)
+
+ 
+
+Required Skills/Experience
+
+- 2+ years of experience designing and building scalable web applications
+
+- Proficient in PHP and MySQL. Strong experience with the LAMP stack
+
+- Experience working with JavaScript/HTML/CSS for basic front-end stuff
+
+- Experience with SVN
+
+- Being able to come up to speed quickly on an existing PHP code base
+
+- Comfortable with Unix/Linux
+
+ 
+
+Desired, but not required
+
+Knowledge of WordPress or another CMS and experience developing for one.
+
+ 
+
+What you'll get:
+
+- A competitive salary
+
+- Health benefits - medical, dental, and vision.
+
+- 401K
+
+- Stock
+
+- The ability to work in San Francisco
+
+- Free Lunch on M/F
+
+- Free access to all TechCrunch conferences/events [You'll probably help plan them as well]
+
+- A bunch of other nice perks
+
+ 
+
+Why work at TechCrunch?
+
+By joining the team as a developer, you'll be an intricate part of working on projects that will have massive impact on millions of our readers and users.  Your voice will be heard and you'll have a lot of autonomy over mission-critical decisions.  Our office culture is relaxed yet dynamic, located in the SOMA district of San Francisco within walking distance of CalTrain (perfect for commuting!).  Everyday, amazingly interesting people walk in and out of our doors making for a really exciting working environment.  
+
+ 
+
+About TechCrunch:
+
+TechCrunch (www.techcrunch.com) is a leading technology media network, dedicated to obsessively profiling and reviewing new Internet products and companies. Founded in 2005, TechCrunch and its network of websites reach over 8 million unique visitors and more than 25 million page views per month.  TechCrunch operates a global network of websites including dedicated properties in Europe and Japan as well as specialized industry websites including MobileCrunch, CrunchGear, and TechCrunchIT.  TechCrunch’s CrunchBase, is the leading, open database about start-up companies, people and investors.  In addition to Disrupt, TechCrunch hosts other conferences and events, including The Crunchies Awards and various meet-ups worldwide serving as community platforms for industry conversation and collaboration.
+
+company_name : TechCrunch
+city : San Francisco
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2011-01-19 00:46:24.904355+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 1838
+website :
+email : vineet@techcrunch.com
+publish : 1
+featured : 0
+tags : developer,php,software engineer
+state : California,CA
+
+

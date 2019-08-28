@@ -1,0 +1,29 @@
+﻿job_id : 3080         
+businesscategory_name : Engineering / Technical Services
+title : RF/Analog IC Design - entry level
+start_date : 2007-10-19 06:17:27.625749+00
+end_date : 2008-10-18 06:17:27.625294+00
+description: Develops broadband RF integrated circuits from product definition through transfer to production. Candidate may work with marketing, systems engineering, and customers to define new products and set specifications. Candidate will be a member of an IC design team (and on occasion may lead the team) with responsibility for IC system and circuit design. Provides guidance to physical designers, monitors progress of IC layout and provides inputs to characterization plans for IC\'s produced by the design team. Candidate will work with systems engineers, application engineers, and marketing managers to prepare product briefs, data sheets, and application notes. Candidate will be responsible for measurement and characterization of portions of new ICs that they designed. Candidate will work with product and test engineers as needed to ensure ICs are successfully transferred to production. Requirements:      BSEE  and 0-2 years directly related experience.     Experience with Cadence analog IC design tools including SpectreRF.     Experience designing silicon bipolar/BiCMOS RFIC\'s for the commercial market. Requires transistor level experience designing fundamental RFIC building blocks including low noise amplifiers, variable gain amplifiers, fixed gain amplifiers, mixers, voltage controlled oscillators, synthesizers, phase locked loops and necessary support circuitry such as op-amps, bandgap references and current mirrors.     Hands-on experience characterizing RFIC\'s using equipment such as spectrum analyzers, network analyzers, noise figure meters, oscilloscopes, etc. 
+company_name : Microtune, Inc.
+city : Plano, TX
+country :
+jobtype : Full Time
+positions : 1
+priority : 0
+creation_date : 2007-08-15 15:52:18.22451+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 7219
+website :
+email : employment@microtune.com
+publish : 1
+featured : 0
+tags :
+state :
+        

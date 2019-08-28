@@ -1,0 +1,60 @@
+job_id : 7562 
+businesscategory_name : Management and Executive
+title : Vice President of Product
+start_date : 2010-02-23 21:49:52.923565+00
+end_date : 2010-03-25 20:49:52.915792+00
+description: GoodGuide is building an information platform and suite of tools to inform people about the impacts of products and companies, and to empower them to make better decisions. GoodGuide provides free information to the publicabout the health, environmental, and social impacts of products and companies via GoodGuide.com, its iPhone application, and through a network of distribution partners. We also provide businesses with subscription-based access to detailed ratings and a suite of sustainability analysis tools. We are an innovative “for benefit” company that has won numerous awards, including “Startup most likely to make the world a better place.” We are a lean startup, backed by New Enterprise Associates, Draper Fisher Jurvetson, and Physic Ventures. 
+
+We are seeking a highly motivated person to lead our Product Development. The VP of Product will oversee the product for our website, mobile applications and for our enterprise products. These products will transform how consumers, producers, retailers, and institutional purchasers analyze the sustainability of products. The candidate will become a key member of GoodGuide's senior management team and be responsible for supporting our growing product portfolio.  The VP of Product will report to the Company's CEO.
+
+DUTIES
+
+    Lead and manage our consumer and enterprise product development;
+    Collaborate with cross-functional teams on the design, implementation, testing, and iteration of products and features;
+    Participate in customer development and feature prioritization;
+    Deliver products that exceed our user and customer expectations;
+    Lead the refinement of the GoodGuide user experience in order to grow our user base;
+    Build new products for manufacturers and retailers of consumer packaged goods;
+    Own user data, SEO numbers, A/B tests, and web analytics.
+
+REQUIREMENTS
+
+    10+ years of product management experience in web applications, preferably in online information services, product reviews, ecommerce, etc.
+    Experience inworking in a startup environment with limited resources;
+    Proven project management and multi-tasking capabilities with the ability to work well under pressure in a deadline-driven environment;
+    Highly flexible, adaptable, and able to deal with fast-paced nature of a startup;
+    Creative product thinker and problem solver who can balance the needs of users and customers;
+    Entrepreneurial self starter, hands-on, and passionate about your work;
+    Affinity with GoodGuide’s mission and charter;
+    Proven track record building products/features that people love;
+    Experience building data or web analytics tools a plus.
+
+GoodGuide offers a competitive salary, excellent benefits, and equity. GoodGuide is committed to building a culturally diverse team and strongly encourages applications from women and minority candidates.
+
+Principals only.  No recruiters.
+
+company_name : GoodGuide, Inc.
+city : San Francisco
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2010-02-23 21:49:52.871503+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 2626
+website :
+email : vpproduct@goodguide.com
+publish : 1
+featured : 0
+tags :  product development
+state : California,CA
+
+
+

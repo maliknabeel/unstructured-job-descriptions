@@ -1,0 +1,70 @@
+job_id : 8588
+businesscategory_name : Arts, Design, Entertainment, and Media
+title : Ad Operations Manager
+start_date : 2011-03-12 00:20:04.574819+00
+end_date : 2011-04-10 00:00:00+00
+description: TechCrunch and AOL Tech seek an ad operations and traffic manager to join our growing team. Please read the description below and pay special attention to the requirements.
+ 
+In your subject line, please enter: Resume: Ad Operations Manager. 
+ 
+No phone calls please. 
+ 
+Ad Operations Manager Job Description 
+
+Key Job responsibilities include, but are not limited to:
+
+•Manage and service clients to ensure accurate ad trafficking, contract fulfillment and quality control across multiple website properties
+
+•Track, measure, and analyze the performance of multiple advertising campaigns, including creating detailed performance reports and proposing optimization strategies
+
+•Work directly with third party ad servers, rich media vendors, client’s, media buying and trafficking teams and internal sales staff on all elements related to creative specifications, submission and ad trafficking
+
+•Continuously focused on ensuring that maximum revenue is retained, as well as partnering with sales representatives and clients to increase renewal rates and advertising spend
+
+•Organize interdepartmental workflow to ensure that all elements are handled according to process and schedule
+
+•Develop new, innovative sales, marketing and product solutions
+Job Requirements :
+
+
+•3-5 years working experience in an related field – online publisher preferred 
+•Ability to understand and report on advertising data and rich media, HTML and Flash advertising units
+
+•Experience with one or more Internet ad management or targeted marketing applications. AdTech is the current ad serving platform used by AOL Tech.
+•Experience with HTML, Macromedia Flash, JavaScript preferred
+
+•Excellent client service, organizational, and communication skills
+
+•Strong knowledge of MS Office Suite
+
+•Strong interest in the internet and new media
+
+*Applicant must live in the San Francisco Bay Area or be wiling relocate
+
+About TechCrunch:
+
+TechCrunch (www.techcrunch.com) is a leading technology media network, dedicated to obsessively profiling and reviewing new Internet products and companies. Founded in 2005, TechCrunch and its network of websites reach over 10 million unique visitors and more than 35 million page views per month.  TechCrunch operates a global network of websites including dedicated properties in Europe and Japan as well as specialized industry websites including MobileCrunch, CrunchGear, and TechCrunchIT.  TechCrunch’s CrunchBase, is the leading, open database about start-up companies, people and investors.  In addition to Disrupt, TechCrunch hosts other conferences and events, including The Crunchies Awards and various meet-ups worldwide serving as community platforms for industry conversation and collaboration.  TechCrunch is a wholly owned operating division of AOL.
+
+company_name : TechCrunch 
+city : San Francisco
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2010-08-04 01:12:27.539901+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 6692
+website :
+email : vanessa.geithner@teamaol.com
+publish : 1
+featured : 0
+tags : advertising,trafficking,sales operations
+state : California,CA
+

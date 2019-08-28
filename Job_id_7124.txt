@@ -1,0 +1,76 @@
+job_id : 7124
+businesscategory_name : Computer and Information Technology
+title : Web Application Developer
+start_date : 2010-03-02 23:31:26.256342+00
+end_date : 2010-04-01 07:00:00+00
+description: Are you a JavaScript Rock Star? Are you so fluent in JavaScript that you have repeatedly bent the language to your will, building innovative solutions solving real problems?  If so, and you thrive in the fast paced environment of a start-up company we would like to hear from you.
+
+Required Experience
+
+    4+ years of software development in JavaScript  
+    Browser-side client technologies including AJAX, HTML, CSS, cross-browser compatibility issues, performance and optimization techniques
+    Designing and creating software web applications, APIs, and tools
+    Server-side application development using PHP/Java/Ruby
+    Experience in using JQuery, Dojo, Prototype or other Javascript frameworks
+    Strong analytical and debugging skills
+    Passion for of any or all of: great user experiences, design, solving really hard engineering problems
+    Embedded Linux development experience
+    BS in Computer Science or equivalent
+
+Preferred Experience
+
+    Experience with creating NPAPI Scriptable Plugins, HTML Canvas, Physics Engines like Box2D
+    Experience with NPAPI
+    Strong troubleshooting and problem-solving skills.
+    C/C++ development
+
+ 
+
+Kakai is building a consumer-facing application platform working with leading edge technologies including mobile computing and touch interfaces. Kakai was founded by Babur Habib (Ph.D) and Osman Rashid (founder of Chegg.com and recently named 2009 Entrepreneur of the Year for Northern California (http://www.reuters.com/article/idUS131536+17-Jun-2009+PRN20090617). The company has recently closed a $7.5 million Series B round led by Marc Andreessen's fund Andreessen Horowitz (see http://www.techcrunch.com/2009/12/23/kakai-funding/).
+
+We offer the following:
+
+*               Medical (Blue Shield PPO or Kaiser) 
+
+*               Dental (Blue Shield)
+
+*               Vision/VSP
+
+*               401K
+
+*               FSA (Flexible Sending Account)
+
+*               Holiday Pay
+
+*               Life Insurance, Long-term & Short-term disability
+
+*               Subsidized Gym membership
+
+*               Breakfast, lunch, dinner and fresh baked cookies
+
+*               Daily rocket finger fights
+
+company_name : Kakai, Inc.
+city : Santa Clara
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2009-11-18 21:43:18.156601+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 2734
+website :
+email : janet@kakai.com
+publish : 1
+featured : 0
+tags :  software engineer,web,design,developer,linux,javascript,css,html,php,java,ruby
+state : California,CA
+
+

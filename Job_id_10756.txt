@@ -1,0 +1,42 @@
+job_id : 10756
+businesscategory_name : Financial Services,Banking
+title : Junior Associate
+start_date : 2011-04-20 21:28:05.228663+00
+end_date : 2011-05-20 21:28:05.06158+00
+description: Top tier venture capital firm on the peninsula is looking for a Junior Associate to work on our IT Team. The Junior Associate will have an opportunity to obtain venture capital experience on both the investment and firm operations side, as well as gain new leadership and management skills.
+
+Junior Associates lead VantagePoint’s proactive sourcing efforts to identify opportunities in the IT sector.  Job responsibilities include identifying attractive companies, initiating and maintaining relationships with entrepreneurs, supporting the evaluation of potential investments by performing due diligence and quantitative analysis, and maintaining on-going database of Internet and Digital Media companies. The position also entails various work related to supporting existing portfolio companies.  But the primary role of the Junior Associate is to source companies for investment.
+
+QUALIFICATIONS:
+
+Candidates must possess strong interpersonal skills; have a track record of top notch professional and personal achievement with an inherent passion in the Internet and social media space.
+
+    The position requires a 4-year degree, preferably in technology. It is highly desirable to have at least one advanced degree in either technology and/or business, and preferable to have both (or the equivalent in experience).
+    Active in the Internet and Digital Media start up community.
+    Constant user of Twitter, Facebook, LinkedIn, and other social media tools.
+    Experience in the Internet or Digital Media practice of a venture fund or investment bank.
+    Experience in a start-up Internet company.
+    Network of entrepreneurs and technologists.
+
+company_name : VantagePoint Capital Partners
+city : San Bruno
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2011-04-20 21:28:04.358111+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 1346
+website : 
+email : jobs@vpcp.com
+publish : 1
+featured : 0
+tags : associate
+state : California,CA

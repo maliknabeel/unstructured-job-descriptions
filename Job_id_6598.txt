@@ -1,0 +1,45 @@
+job_id : 6598
+businesscategory_name : Engineering / Technical Services
+title : Systems and Wordpress Administrator
+start_date : 2009-08-05 00:14:30.617816+00
+end_date : 2009-09-04 00:14:30.612022+00
+description:  Founded in June 2005, Techcrunch is a weblog dedicated to profiling technology companies and covering tech news. The Techcrunch Network consists of over a dozen web properties with a total audience exceeding 8 million visitors and over 20 million pageviews. As part of our rapid expansion, we are adding to our existing internal development team with a new position open for a capable administrator for our server environment, Wordpress installation and other internal technology tools.
+
+Techcrunch is a startup with over 20 employees based around the world, but primarily in our main Palo Alto office. The culture of the company is fast paced, dynamic and exciting. We work with a large number of providers and partners, and staff at the company are exposed to the cutting edge of new technologies and innovations.
+
+You will work with the internal development team, editors and writers in maintaining and growing the companies internal technology requirements and live server environment. The Techcrunch network runs on a network of over a dozen colocated servers, all managed remotely. The position is based at the companies Palo Alto, California office.
+
+Between the content sites and other applications, such as the startup database Crunchbase, you will be exposed to large-scale hosting on a Linux based environment with a mixture of web application servers in both PHP and RubyOnRails. Your primary responsibilities will include liaising with the hosting provider in maintaining and expanding the hosting environment, ensuring uptime, upgrading services and administering various off-the-shelf and custom applications.
+
+The ideal candidate for this position will have the following skills and experience:
+
+* A thorough knowledge of Linux/UNIX operating systems in a hosting environment
+* A knowledge of medium-scale colocated hosting environments
+* Exposure to a variety of web and database servers (Apache, Nginx, MySQL)
+* Knowledge of Wordpress, from installation, customization, plugins and troubleshooting
+* General IT skills with email hosting, firewalls, network monitoring and troubleshooting
+* An ability to work in a fast paced environment with a company experiencing rapid growth
+
+company_name : TechCrunch
+city : Palo Alto
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2009-08-05 00:14:30.540471+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 11357
+website :
+email : ea@techcrunch.com
+publish : 1
+featured : 0
+tags : sysadmin,wordpress,it,linux,servers
+state : California
+

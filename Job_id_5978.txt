@@ -1,0 +1,58 @@
+job_id : 5978 
+businesscategory_name : Computer and Information Technology
+title : Director of Marketing
+start_date : 2009-01-28 17:28:06.921241+00
+end_date : 2009-02-27 17:28:06.913621+00
+description: This is an exciting opportunity to work for a well-funded Enterprise 2.0 startup applying Wisdom of Crowds to enterprise forecasting.  The Director of Marketing will report directly to the CEO and will oversee a six-figure marketing budget.  This position is perfect for an energetic, creative person who desires wide-ranging ownership of marketing activities at a fast-paced startup.  We are defining a market.
+
+You will develop and deliver the positioning, branding and messaging for the company. This includes solidifying our strategic position in the enterprise market, then driving this through all outbound sales and marketing channels, including launch events, web, press releases, industry analysts, partners, etc.
+
+
+Experience:
+1.    5+ years of marketing in a fast-paced business-to-business environment (preferably SaaS or enterprise software)
+2.    Setting marketing strategy and executing on demand generation campaigns
+3.    Early stage, explosive growth environments
+4.    Managing 3rd party contractors including PR agencies, web developers, conference organizers etc
+
+Attributes:
+1.    Strong creativity and innovation
+2.    World-class content creation and presentation skills
+3.    Confident and ready to defend your ideas
+4.    Passionate about applying wisdom of crowds to corporate life
+company_name : Xpree 
+city : Redwood City 
+country :
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2009-01-28 17:28:06.890413+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 3824 
+website :
+email : leslie@xpree.com
+publish : 1
+featured : 0
+tags :
+state :
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+

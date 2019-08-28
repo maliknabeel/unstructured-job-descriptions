@@ -1,0 +1,58 @@
+job_id : 6469
+businesscategory_name : Internet
+title : Community Manager
+start_date : 2009-06-26 08:13:01.827066+00
+end_date : 2009-07-26 08:13:01.821198+00
+description:  BeFunky is a venture backed start-up company focused on delivering rich multimedia content over the web. Focusing on ease of use, BeFunky develops applications that empowers everyday people with the ability to breathe new life into their photos and videos, become instant artists in one click, share their creations with the world, do it all without any technical knowhow and complicated software.
+
+BeFunky has an opening position for a community manager who will be the voice and support for a new global community which has users of all ages from all over the world. Ideal candidate should have an interest in photography and should be living in Bay Area.
+
+ Responsibilities:
+
+    Identify and analyze issues, patterns and trends in customer requests & product performance
+     Take a lead role in coordinating development and the publishing of newsletters, articles, and other forms of regular communication to the community.â??
+     Transfer the information to the appropriate departments so that they can respond accordingly. Act as a liaison between the community and development by passing key feedback to the development teamâ??
+    Drive new messaging and important updates to our users
+    Check out new features to our platform as they launch, and help us find bugs
+    Develop online user manuals and FAQ's
+    Interact with our users to help them get the most out of our platform
+    Identify user generated content
+    Author blog posts, articles, podcasts, videos and screencasts
+    Stay up to date on new social media tools and best practices
+    Participate in professional networking by following the prominent bloggers and online writers & attending events.
+
+Qualifications:
+
+    You have at least 3 years of experience as an online community manager. You are experienced with online communities, blogs, and forums for consumer web applications.
+    You are a logical problem solver that looks out for the customer. You love to write & enjoy sharing your ideas with others.
+    You have ability to prioritize and pay attention to detail
+    You have strong writing and organizational skills in English
+
+Benefits
+
+The position will come with a competitive compensation and stock option plan.
+
+Please include highlights about your friendly communication skills, online experience and social media enthusiasm.
+
+company_name : BeFunky
+city : San Franscisco Bay Area
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2009-06-26 08:13:01.774916+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 3031
+website :
+email : jobs@befunky.com
+publish : 1
+featured : 0
+tags : community manager,photography,befunky
+state : California

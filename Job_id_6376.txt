@@ -1,0 +1,64 @@
+job_id : 6376
+businesscategory_name : Arts, Design, Entertainment, and Media 
+title : VP Sales USA
+start_date : 2009-06-03 12:01:01.510456+00
+end_date : 2009-07-03 12:01:01.509606+00 
+description:  Vice President Sales USA
+
+·           Responsible for all developing and increasing the business according to given turnover and profit margin goals.
+
+·           Establish on-going working relationship with new customer.
+
+·           Planning of turnover and profit budget.
+
+·           Develop and manage an always updated Account Plan.
+
+·           Responsible for managing all projects concering the assigned customer such as offers, new product introductions etc.
+
+·           Interface between the customer and sofatronic Inc. in any business matters
+
+·           Develop and manage statistics and reports to monitor the actual business status with the assigned customer
+
+·           Act as interface between customers and market needs and   Productmanagement to anticipate future developments of products.
+
+
+Required qualification:
+
+    Sales Attitude (Hunting & Farming).
+    Sales Experience with Exposure to the movie industry (Blu-ray).
+    strong execution capability, business minded.
+    good communication and organizational skills.
+    professional attitude in handling with customers and partners.
+    able to navigate a multilayered business environment.
+
+Desired:
+
+Ability to deal with pressure
+Job: Sales
+Primary Location:  CA-Los Angeles 
+Schedule Full-time
+Shift Day Job
+Travel Yes, 15% of the time
+
+company_name : sofatronic Inc.
+city : Los Angeles
+country : USA
+jobtype : Full Time
+positions : 1
+priority : 0
+creation_date : 2009-06-03 12:01:01.432731+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 2752
+website :
+email : business@sofatronic.com
+publish : 1
+featured : 0
+tags : blu-ray,authoring,bd live,movie,interactive,entertainment, java,hollywood
+state : California

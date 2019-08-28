@@ -1,0 +1,91 @@
+job_id : 6171 
+businesscategory_name : Computer and Information Technology
+title : Junior Software Engineer
+start_date : 2009-03-31 19:47:49.965962+00
+end_date : 2009-04-30 19:47:49.960611+00 
+description:  Company Description
+
+Funded by several high profile investors who backed Skype, Last.fm and Facebook, doubleTwist is building an open media platform that enables the seamless movement and enjoyment of media between friends, devices and the web.
+
+
+The Position – Junior Software Engineer
+
+Join a small team of experienced software pros and take part in building the open and social media platform of the future.
+
+ You will gain broad experience in this multi-faceted role.  You will work across the doubleTwist platform that spans cloud services, the desktop, and mobile devices (iPhone, Android, Sony PSP, Nokia, etc.).  As a member of our Scrum engineering team, you will be tasked with writing code that ensures these devices, desktop apps, and cloud services work together.
+
+ 
+
+Primary Responsibilities
+
+• Build new features in the doubleTwist platform, including the database, web services, desktop, and mobile applications.
+
+• Write code to find flaws in the next generation of the doubleTwist platform.
+
+• Peer review unit tests written by other engineers.
+
+• Research device specs and capabilities, working closely with media layer & device platform developers to help optimize device integration development.
+
+• Share each of our engineers’ desire to be an advocate for the user.
+
+ 
+
+Requirements:
+
+• Four-year Computer Science degree or the equivalent in work experience.
+
+• Highly skilled in C++, C#, Java, or other language with C-like syntax.  We care more about how well you know your favorite language than which languages you know.
+
+• Ability to work as part of the engineering team.  Do you have experience with teamwork?
+
+• Ability to make a plan and follow it through.
+
+• Thorough understanding of software engineering best practices (including source control, test case execution, bug tracking, etc.) and knowledge of software development cycle. 
+
+• General familiarity with audio and video formats (MP3, AAC, 3GP, MP4, H.264, etc.)
+
+• Excellent teamwork and communication skills; ability to understand and resolve complex and technical issues.
+
+• Must be able to work well in a fast-paced and dynamic startup environment.
+
+ 
+
+Desired:
+
+• Contributions to open source projects (please include any links with your cover letter)
+
+• Experience with Obj-C and Cocoa
+
+• Expertise in testing performance, scalability, and security
+
+• Broad skills in the following areas: wireless technologies (mobile devices/browsers/gateways, specifically WM5/6, Blackberry, JME, Brew, etc.)
+
+• Familiarity with scripting languages
+
+company_name : doubleTwist
+city : San Francisco, CA
+country : 
+jobtype : Full Time
+positions : 1
+priority : 0
+creation_date : 2009-03-31 19:47:49.939195+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 5643 
+website :
+email : jobs@doubletwist.com
+publish : 1
+featured : 0
+tags : software engineer,junior software engineer, engineer, java, c++,mp3,cocoa
+state :
+
+
+
+
+

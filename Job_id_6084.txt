@@ -1,0 +1,58 @@
+job_id : 6084 
+businesscategory_name : Internet 
+title : Software Engineer: UI / Web Development
+start_date : 2009-02-25 17:50:40.866352+00
+end_date : 2009-03-27 17:50:40.86081+00 
+description: As an engineer in charge of building our web-based UI, you will help build and manage a web application for small business users. In particular, you will specialize in building responsive and elegant web UIs with AJAX and related technologies, working with our user experience lead and our backend engineers. Depending on your other areas of expertise, you may also work on the front end; design of the UI; or other related areas.
+
+Requirements:
+
+    BA or BS degree in computer science or a related technical degree
+    Self-motivated, self-directed and having a keen intuition into what it takes to design and build a successful product
+    Expert HTML, JavaScript, and CSS Skills (5+ years preferred)
+    An ability to build graceful user experiences with modern AJAX / DOM techniques
+    Significant experience designing modular, object-oriented JavaScript
+    Experience with some web development framework(s) [e.g., Java/J2EE, Ruby on Rails, Python/Django, etc]
+
+Pluses:
+
+    Experience writing Python application code
+    Experience in an early-stage startup or other rapid-application-development environments preferred
+    HCI knowledge a plus
+    Significant development experience in a Linux environment a plus
+    Development experience in C/C++ or Java a plus
+
+ 
+About ChoiceVendor
+
+http://www.choicevendor.com
+
+ChoiceVendor is a San Francisco, California startup currently in stealth mode.
+
+We are building a software-based service for small & medium businesses, providing them with information and tools that will help them run their business more cost-effectively and efficiently. We are committed to building elegant, high-quality software for business users, bringing to businesses the product and user experience innovation currently only found in best-of-breed consumer-facing applications (business users are people too!) We're looking for like-minded and passionate team members who like to build stuff that works well and that our users will love. The business is built on a very solid financial plan and we are backed by a top-tier Silicon Valley venture firm. The team is composed of veterans from Microsoft, Google, and several successful startups.
+
+company_name : ChoiceVendor
+city : San Francisco, CA
+country : 
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2009-02-25 17:50:40.838875+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 4056 
+website :
+email : jobs@choicevendor.com
+publish : 1
+featured : 0
+tags : 
+state :
+
+
+

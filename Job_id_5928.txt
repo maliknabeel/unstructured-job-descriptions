@@ -1,0 +1,60 @@
+job_id : 5928 
+businesscategory_name : Internet
+title : Software Engineer
+start_date : 2009-01-13 18:13:28.614295+00
+end_date : 2009-02-12 18:13:28.609057+00 
+description: 23andMe's mission is to be the world's trusted source of personal genetic information.
+
+Combining web development, computer science, genetics, and informatics, we are at the forefront of a new era in personal genetics. Join a talented, ambitious team that is creating truly novel technologies and products that will change the way people see themselves and the world.
+Outstanding software engineers of all levels of experience wanted!
+
+Solve challenging engineering problems that come with building a highly interactive website and manipulating large amounts of data in the background. Work within a small, fast-paced team that has a mix of veteran engineers and recent graduates. Enjoy a collaborative environment with small project teams working on a variety of tasks ranging from website development to genotype data processing. Feel comfortable within the world built on Linux, Apache, MySQL and Python with some C++ mixed in.
+
+Responsibilities
+
+    Design and implement new features and frameworks
+    Write unit and functional tests
+        Solve performance and scalability problems
+        Innovate and have fun changing the world
+
+Requirements
+
+        B.S. in Computer Science or a related field
+        Working knowledge of Python and/or significant exposure to different programming languages and paradigms
+        Ability to work with minimum supervision to deliver well-designed high-quality code on time
+        Working security and cryptography knowledge
+        Experience with LAMP stack web application development a plus
+        Experience with front-end technologies (HTML/CSS/JavaScript) also a plus
+
+www.23andme.com
+company_name : 23andMe
+city : Mountain View
+country :
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2009-01-13 18:13:28.581395+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 2806 
+website :
+email : jobs@23andme.com
+publish : 1
+featured : 0
+tags :
+state :
+        
+
+
+
+
+
+
+
+

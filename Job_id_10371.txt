@@ -1,0 +1,74 @@
+job_id : 10371
+businesscategory_name : Arts, Design, Entertainment, and Media
+title : Event Manager
+start_date : 2011-05-04 14:15:35.005891+00
+end_date : 2011-06-03 00:00:00+00
+description: Position Overview
+
+SecondMarket is seeking a dynamic individual to serve as the Events Coordinator for its West Coast operation located in the heart of San Francisco’s Financial District. This individual would be responsible for every aspect of event management, implementation and production including research, development and budgeting for events, webinars and meetings for SecondMarket, the largest secondary market for alternative investments. The ideal candidate for the role is a driven and experienced event planner that understands the art and science around building successful events and webinars for a financial services company.
+
+The Events Coordinator will report to the Events Manager and will help shape the future of the SecondMarket events circuit, primarily for the private company market practice in Silicon Valley and San Francisco. The prospective candidate must have 4+ years of relevant experience in event planning and marketing. The successful candidate would also be self-motivated, a natural leader, very detail oriented, able to turn verbal communication into structured and actionable data, and be focused on providing a superior event experience to all parties involved. Additionally, good organizational, management and communication skills are critical to building a seamless approach to achieve core marketing objectives for SecondMarket.
+
+Responsibilities
+
+    Pre-event and onsite communications with delegates.
+    Establish staff schedules, task assignments, equipment allocation to ensure compliance with department objectives and goals.
+    Follow pre-established communication protocols and operating procedures with planning committees, contractors and program staff.
+    Source venues, recommend and engage catering, acquire supporting technology and coordinate development of materials to execute a quality event.
+    Work closely with the Events Manager to maintain a calendar of events and implement a system that enables and anticipates long-term planning and effective event management for the SecondMarket’s meetings, conferences and events.
+    Work closely with the Events Manager to effectively promote events to target audiences and obtain accurate event specifications.
+    Work closely with the Events Manager and the Ecosystem Partnerships team on sponsorship arrangements and identify potential revenue streams for all major events.
+    Oversee procurement purchasing and client service needs with regard to catering, audiovisual, security and rental needs for events.
+    Work with Events Manager and the larger marketing team to develop brand, marketing labels and tools for events as required.
+    Prepare event programs, name tags, signage and confirm all necessary preparations are in order.
+    Ensure speakers are briefed and prepared to provide effective presentations and materials.
+    Trouble-shoot and smooth issues relating to the successful execution of the event program.
+    Develop event reports and work with Events Manager to distribute as required to sponsors, participants and others.
+
+Job Requirements
+
+    University degree or college diploma in marketing, business or a related field.
+    4-5 years experience in Event Management or related field required.
+    Proven negotiating skills with hotels, entertainers and other event vendors.
+    Ability to problem solve and work independently in a changing and multi-tasking environment with numerous deadlines.
+    Excellent organizational, planning and project management skill.
+    Proven ability to take direction and input and to develop effective and engaging branded events that will achieve SecondMarket’s goals.
+    Demonstrated ability to prepare accurate budgets and effectively manage expenses.
+    High level of verbal and written communications skills.
+    Solid business acumen, management and problem-solving skills.
+    Strong computer skills, especially Microsoft Office (Word, Excel, PowerPoint) event management technologies (EventBrite), and customer relationship management software (Salesforce, if applicable).
+    Effective time management, organizational, and leadership skills.
+
+Compensation
+
+    Competitive base salary
+    Discretionary bonus based on individual, group and Company performance
+    Participation in employee stock purchase plan
+    Health and dental benefits
+    Standard vacation and sick days
+
+company_name : SecondMarket
+city : San Francisco
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2011-03-04 17:21:03.947906+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 4314
+website : http://www.secondmarket.com/job?jvi=o2eEVfwz
+email : careers@secondmarket.com
+publish : 1
+featured : 0
+tags : events,events manager,event manager,event,secondmarket
+state : California,CA
+
+
+

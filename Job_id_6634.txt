@@ -1,0 +1,49 @@
+job_id : 6634
+businesscategory_name : Internet
+title : Product Manager
+start_date : 2009-08-10 20:50:01.29489+00
+end_date : 2009-09-09 20:50:01.287854+00
+description:  Patch (http://www.patch.com) is a local news and information site exploring new models for journalism in small communities. We're seeking a product manager to help us grow.
+
+Responsibilities:
+    •    Become an expert user of the site, learn it backwards and forwards, and understand it from the perspectives of multiple user constituencies.
+    •    Be an advocate for the user, keeping his/her best interests in mind at all times.
+    •    Solicit and collate feedback about the product from across the organization, and turn this data into actionable product feature enhancements & projects.
+    •    Propose new features and document product requirements. Practice smart documentation: no more nor less than necessary.
+    •    Work closely with engineering & design teams to implement features in a rapid, iterative manner.
+    •    Work with the head of product management to prioritize both the short-term development queue and long-term product roadmap.
+
+Experience:
+    •    A detail-oriented individual who wants everything to be just right, but can prioritize and identify the 5 most important things from a list of 100.
+    •    2-5 years as a product manager working on web-based software.
+    •    Knowledge of and/or interest in best practices for web usability & analytics.
+    •    Familiarity with issue tracking and/or project management software.
+    •    Experience in an agile development environment.
+    •    General understanding of web application architecture, client/server interactions, AJAX, etc.
+    •    A personal interest in local and geographically-specific and mapping applications and content. Extra special bonus for prior experience in this area.
+    •    Experience with programming (professional or as a personal hobby) is desired but not required.
+
+company_name : Patch
+city : New York
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2009-08-10 20:50:01.233137+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 1937
+website :
+email : brett@patch.com
+publish : 1
+featured : 0
+tags : product,news,media,journalism,geo,maps
+state : New York
+
+

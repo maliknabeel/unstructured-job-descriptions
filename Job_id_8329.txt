@@ -1,0 +1,82 @@
+job_id : 8329
+businesscategory_name : Business Operations
+title : Business Analyst
+start_date : 2010-06-24 21:39:22.105332+00
+end_date : 2010-07-24 21:39:22.09737+00
+description: Business Analyst at VEVO in NYC
+
+Do you love winning arguments with data? Do you get excited every time your data proves something counterintuitive? Come join VEVO and lead the analysis that drives our strategy and helps direct the future of our products. The VEVO team is passionate about creating a better music and video experience online, and our success is dependant on knowing what works for users and for clients. You will provide actionable intelligence about the performance of content, programs, features and campaigns to help steer us in the right direction and connect the dots. You need to have the ability to seek out and identify relationships between different sets of data from multiple sources, including product sales, radio charts and VEVO videos.
+
+VEVO is a top ten video property and the #1 music network in the US according to comScore. If you care about the future of music online, this is the place to be.
+
+ 
+
+Key Responsibilities
+
+Support various groups within VEVO with conclusive analysis of video and site performance, including analysis on video performance, user traffic patterns, advertising campaigns, site features, marketing efforts, social media and more.
+
+Create summaries and presentations for our management team and partners highlighting key metrics, trends, and correlations.
+
+Coordinate testing efforts with product and content groups.
+
+Identify VEVO’s strengths and weaknesses and suggest areas of improvement.
+
+Perform industry and market research for deal evaluation and strategy.
+
+Analyze and assess the potential of new business models, market opportunities and various initiatives.
+
+ 
+
+Qualifications
+
+BS/BA degree with 1-3 years of relevant work experience.
+
+Applicant must have strong analytical/quantitative skills, experience performing quantitative analysis, good presentation skills, excellent communication skills and strategy development capabilities.
+
+Familiarity with web analytics concepts.
+
+Familiarity with social media and online marketing.
+
+Expertise in all major Microsoft Office tools, including advanced Excel and the ability to produce Powerpoint presentations that convey complex issues clearly and concisely.
+
+Ability to work independently and as part of a team in a fast paced environment.
+
+Ability to multi-task and juggle competing priorities. Must be able to work under time constraints.
+
+Experience with Google Analytics and other web analytics products a plus.
+
+Experience with YouTube and YouTube Insight a plus.
+
+Experience with Soundscan and BDS/Mediabase a plus.
+
+An open mind. This is a startup and we all wear multiple hats.
+
+Passion for music and technology.
+
+ 
+
+VEVO was created in partnership by Universal Music Group, Sony Music Entertainment and the Abu Dhabi Media Company. It is operated independently by a dedicated management team with offices in Los Angeles and New York. VEVO features the most extensive catalog of premium music content found anywhere on the web thanks to deals with such leading music companies as Universal Music Group, Sony Music Entertainment, EMI Music, Hollywood Records, Walt Disney Records, CBS Interactive Music Group, Big Machine Records, Concord Music Group, Lyric Street Records, ABKCO, Caroline Distribution, Fontana Distribution, INgrooves, IODA, RED and The Orchard, among many others. Explore VEVO at www.vevo.com
+
+company_name : VEVO
+city : New York
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2010-06-24 21:39:22.015657+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 2452
+website :
+email : evan.moore@vevo.com
+publish : 1
+featured : 0
+tags : web,internet,music,youtube,google,entertainment,analyst,media,online,marketing
+state : New York,NY
+

@@ -1,0 +1,74 @@
+job_id : 6941
+businesscategory_name : Internet
+title : Web Developer needed to participate in the clean tech revolution
+start_date : 2009-10-15 21:36:17.771673+00
+end_date : 2009-12-14 08:00:00+00
+description:  Web Developer
+
+    Tesla Motors is looking for an experienced web developer who is highly motivated, detail-oriented, and not afraid to try new things. You will be part of a small web development team - so you must be a problem solver, a fast learner, and comfortable wearing many hats. This position will be responsible for maintaining the current website and also participate in redesign of teslamotors.com.
+
+Responsibilities
+
+    Build features and provide support for the current Tesla Motors website http://www.teslamotors.com
+
+    Participate in redesign of Tesla Motors website
+
+Skills
+
+    Extensive experience writing clean, hand-coded XHTML and CSS
+
+    Expertise with Javascript and frameworks such as jQuery, Prototype, YUI.
+
+    Strong working knowledge of the DOM and AJAX
+
+    Solid knowledge of web standards, cross-browser compatibility, and building in accessibility from the ground up
+
+    Experience working in open-source LAMP environment
+
+    Good working knowledge of server side coding (PHP) and templating languages
+
+    Solid understanding of fundamental web technologies such as HTTP, REST, and JSON
+
+    Comfortable debugging browser problems with firebug, web developer and similar tools.
+
+    Solid understanding of testing concepts and practices (unit testing, test automation, ...)
+
+    You're above all a problem solver - you love a challenge as well as a feasible, practical solution.
+
+Our Environment
+
+    Agile development
+
+    Working on multiple concurrent projects
+
+Please provide links to projects you've worked on. Send resumes directly to Matt Giambruno Recruiting Manager Tesla Motors: mattg@teslamotors.com
+
+company_name : Tesla Motors
+city : San Carlos
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2009-10-15 21:36:17.679353+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 3462
+website :
+email : mattg@teslamotors.com
+publish : 1
+featured : 0
+tags : web developer,web design 
+state : California,CA
+
+
+
+
+
+
+
