@@ -1,0 +1,63 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2013-01/1358843048.html
+
+Posted Date:22-Jan-2013
+
+Posted By :Fabio Antonelli
+
+Job Description:
+
+SENIOR RESEARCHER IN MOBILE COMPUTING
+
+CREATE-NET is seeking a well motivated Senior Researcher in the area of mobile computing. 
+This position requires a good balance of both theoretical and technical/hands-on experience 
+in the design and implementation of applications for mobile systems that make use of mobile data sensing, 
+collection and analysis technologies, in combination with communication technologies for the mobile domain. 
+With specific respect to the main tasks assigned to the candidate, she/he will be involved in an European project 
+for the development of a platform that will offer a collaborative marketplace for creating innovative applications 
+and services combining Internet of Services and Internet of Things, physical and virtual objects.   
+The main duties of the candidate will be the technical supervision and direct contribution of activities pertaining 
+requirements analysis, design and realization of mobile services to be deployed on mobile devices to make them accessible, 
+interoperable and integrated with all objects and services offered by the whole marketplace platform, 
+and the implementation of specific mobile application scenarios foreseen in the project. 
+Focusing on a prototyping approach and working in collaboration with other researchers, 
+she/he will have the responsibility to design and develop the necessary software components 
+(both for mobile devices and backend systems) of the marketplace platform.
+The ideal candidate should have meaningful experience in identifying and designing technical solutions in the mobile field, 
+coordinating and contributing to the related development activities. 
+Successful candidates must be highly self-motivated individuals, who seek to establish a dynamic and creative team environment 
+in which problem solving is complemented with modern creative and innovative approaches. 
+A candidate with positive bias towards developing her/his research skills and able to show 
+positive attitude towards implementation of developed solutions will indeed be preferred.
+
+JOB RESPONSIBILITIES:
+1. Technical supervision of the analysis, design and implementation activities for the realization  of mobile computing services and internal coordination of project technical team;
+2. Design and implementation of mobile data gathering and analysis services, communication and security functionalities;
+3. Definition and implementation of business logic and open interfaces for exposure and integration of mobile services into a SOA environment;  
+4. User requirements collection and analysis, design, implementation and testing of specific use cases pertaining the implemented services.
+
+Technical skills: 
+- Fundamentals of: telecommunication engineering, algorithms, solid quantitative evaluation capabilities and analytical insight.
+- Mobile development: Android, IoS;  Java: Spring, Hibernate, JDBC, SQL, Servlet, JSP, Web Services, REST (C/C++ programming) 
+- Experience in Web development and technologies: Javascript, XHTML, php, ajax.
+- Working experience and knowledge of Object-Oriented programming familiarity with development environments (such as Eclipse, ANT, JUnit, Doxygen, log4j) and versioning systems (SVN, CVS).
+
+Organization skills: 
+- Technical project management expertise
+- Good communication skills (both oral/written);
+- Autonomous thinking and problem solving skills;
+- Prioritization, time management skills and capability to adapt to dynamic environments;
+- Hands-on software development with other collaborators;
+- Minimum 5 years information technology experience;
+- Master Degree or equivalent experience.
+
+Previous experiences in working in EU projects is a meaningful additional record.
+
+Working place: Trento, top ranked Italian city for quality of life and known for hosting a large number of cutting-edge worldwide recognized research institutions.
+
+Languages:  Excellent command of the English language is essential; knowledge of the Italian language is considered as a plus. 
+
+Working schedule:  Full-Time 
+
+HOW TO APPLY: 
+Please send your resume/CV in English to careers@create-net.org
+specifying in the email subject: “SENIOR RESEARCHER IN MOBILE COMPUTING - CN”. 

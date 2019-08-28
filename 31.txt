@@ -1,0 +1,53 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2013-01/1358778302.html
+
+Posted Date:21-Jan-2013
+
+Posted By :Can Türker
+
+Job Description:
+
+Java and Web Engineer at FGCZ, Zurich, Switzerland
+
+The Functional Genomics Center Zurich (FGCZ) is an interdisciplinary research and 
+training center of the University of Zurich and the ETH Zurich. With B-Fabric 
+(http://www.bfabric.org) an innovative infrastructure has been developed for 
+managing and integrating all data produced at FGCZ. B-Fabric is implemented based 
+on open-source technologies and successfully used in production for six years. 
+We are seeking a young, highly-motivated Java and Web engineer for our development 
+team. The position offers a challenging opportunity at a key intersection of 
+rapidly moving fields. 
+
+RESPONSIBILITIES
+
+The position's responsibility includes the implementation, maintenance, and support 
+of software solutions. The primary focus will be on advancing B-Fabric. The candidate 
+will collaborate with bioinformatics experts and scientists to achieve this goal.
+
+REQUIREMENTS
+
+The ideal candidate has a degree in computer science or an equivalent expertise 
+with good programming skills in Java. Apart from the readiness for independent and 
+team-oriented working, we expect basic knowledge and experiences in database systems 
+(SQL), middleware (Java EE, Hibernate), Web/XML technologies (JSF, Richfaces), Web 
+Services, and Operating Systems (Linux, Windows). Knowledge of PostgreSQL and Apache 
+Lucene is of advantage. Advanced knowledge of English and the ability to effectively 
+interact in the interdisciplinary environment of the center is a prerequisite. 
+Knowledge of German is helpful but not essential.
+
+TERMS
+
+Full-time position, starting immediately or upon agreement. Working place is the 
+Functional Genomics Center Zurich, which is located at the Campus Irchel of the 
+University of Zurich.
+
+Interested candidates should send the usual application documents (including a full 
+CV and a statement of interest) as a PDF document via email to tuerker@fgcz.ethz.ch.
+
+For questions about the application procedure or the position, please contact:
+
+Dr. Can Türker
+Winterthurerstrasse 190, Y32H06
+8057 Zurich, Switzerland
+tuerker@fgcz.ethz.ch 
++41 44 6353900
+www.fgcz.ch

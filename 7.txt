@@ -1,0 +1,61 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2013-01/1359332575.html
+
+Posted Date:27-Jan-2013
+
+Posted By :Syed Sibte Raza Abidi
+
+Job Description:
+Postdoc Positions in Semantic Web at Dalhousie University, Halifax, Canada
+
+Two postdoctoral positions are available at the NICHE Research Group, Faculty of 
+Computer Science for conducting research in the areas of semantic web with an applied 
+focus in healthcare. In broad terms, the research program will cover semantic web 
+research for knowledge modeling, decision support and data analytics. The research 
+program is driven by a major (5-year) industry-funded project that involves the 
+development and deployment of computerized decision support systems for the 
+management of cardiovascular diseases. Semantic web research will be conducted to 
+achieve (a) the modeling and execution of paper-based clinical guidelines, and (b) the 
+modeling of institution-specific clinical processes to design and execute computerized 
+clinical workflows. The decision support systems will be deployed for clinical use in 
+healthcare institutions across the province and their efficacy will be evaluated through an 
+major clinical trial. 
+
+The research program offers excellent opportunities for pursuing innovative and practical 
+interdisciplinary research at the cross-section of semantic web, health informatics, 
+knowledge management and data analytics; with additional exposure to services 
+oriented architectures, mobile computing and cloud computing. This is a collaborative 
+research project with other partners including researchers/practitioners from the domains 
+of health (cardiology, research methods, health systems, health education), health 
+informatics and computer science. We are assembling a large team that will comprise 
+researchers, post-docs, research assistants and graduate students (PhD and Masters). 
+
+Applicants are required to hold a recently completed PhD degree in Computer 
+Science/Health Informatics. The applicant needs to demonstrate expertise to conduct 
+both theoretical and applied research in the areas of: semantic web, data analytics, 
+health knowledge management. In addition, the candidate will be required to take part in 
+application development activities and is required to demonstrate both interest and 
+experience in application development using Java technologies, data analytics tools and 
+semantic web tools. The applicant needs to demonstrate research experience through 
+high-quality publications in the areas related to the project, where experience of work in 
+the domain healthcare is a significant bonus. 
+Interested candidates are requested to send an application by e-mail to Dr. Raza Abidi 
+(sraza@cs.dal.ca) and Dr. Samina Abidi (Samina.Abidi@dal.ca).  The application should 
+consist of a curriculum vitae, letter of intent describing research interests and future 
+research plans, and the names with contact information for 3 referees (they will be 
+contacted after the applicant has been interviewed). Salary will be commensurate with 
+qualifications and experience. The position initially will be for one-year with the 
+possibility for renewal (for an additional 3 years). The position is available from Feb 15 
+2013, although start time is somewhat flexible. The application process is now open 
+and will conclude with the hiring of the post-docs. 
+
+Syed Sibte Raza Abidi
+Professor of Computer Science
+Director of Health Informatics
+Director, NICHE Research Group
+Faculty of Computer Science
+Dalhousie University
+Halifax, Canada
+
+Website: www.cs.dal.ca/~sraza
+Email: sraza@cs.dal.ca
+Phone:  1-902-4942129

@@ -1,0 +1,38 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-12/1354526753.html
+
+Posted Date:03-Dec-2012
+
+Posted By :Jens Dittrich
+
+Job Description:
+
+
+The Information Systems Group at Saarland University is looking for postdocs in the area of data management.
+
+Possible topics include (but are not limited to):
+- "big data"
+- Hadoop, Hadoop++, and HAIL
+- indexing
+- storage
+
+Salary is according to TV-L E13, i.e. at least 3187 Euro/month gross salary.
+
+The CS department at Saarland University is consistently ranked among the top places in evaluations such as the CHE-ranking. Our CS programs are very international: all courses starting from the third BSc year are taught in English. We also have a CS graduate school supported by DFG. 
+
+Saarbrücken has a mild climate and is situated close to the French border in beautiful nature. We are close to places like Dagstuhl (40 kms), Elsass (130km), and Heidelberg (140km). Paris is just 1h:48min away by high-speed train (non stop).
+
+What we expect from you:
+- Ph.D. in CS in a topic related to data management
+- solid coding skills
+- good analytical skills
+- zeal to work in research
+
+To apply please send:
+- complete CV
+- copies of certificates from all degrees (BSc, MSc, Ph.D.) you obtained
+- list of publications
+
+in a SINGLE pdf to Jens Dittrich at Saarland University.
+Notice that applications not sticking to this format will not be considered.
+
+There is no fixed deadline for applying. Positions will be filled as soon as possible.

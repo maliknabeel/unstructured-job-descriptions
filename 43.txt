@@ -1,0 +1,68 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2013-01/1358096869.html
+
+Posted Date:13-Jan-2013
+
+Posted By :Marie-Aude Aufaure
+
+Job Description:
+
+Postdoctoral research position 
+
+Big Data engine for distributed case-based reasoning
+
+Ecole Centrale Paris
+
+ 
+
+MOCAS project is a dual innovation project, involving KIOLIS Company and MAS laboratory at Ecole Centrale Paris. It aims at developing a "big data" engine for distributed case-based reasoning exploiting the association of structured and unstructured data. CBR is a problem-solving method and has been widely used in the fields of information retrieval and decision support systems. It is based on the concept of “case” which consists of a problem description and its solution. The main idea under CBR mechanism consists in storing experiences as cases and problem-solving processes as instances of cases. When a new problem is encountered, the system uses the relevant past stored cases to interpret or to solve it.
+
+However, in the majority of research proposals, cases structure is specified by static features and the process of case retrieval is performed on one single data source. In order to overcome scalability issues in the case of multiple heterogeneous data sources, the use of distributed solutions for case retrieval, adaptation and storage becomes a necessity. In addition, current works are concerned with the dynamic representation of cases using semantic web technologies (ie. ontologies).
+
+The main objective of this project is to propose a distributed approach of case-based reasoning that integrates a dynamic ontological representation of cases in order to manage large collections of data. In addition, MOCAS use targeted information extraction techniques to fully exploit useful knowledge embedded in textual data for decision-making.
+
+The person hired will be involved in the following tasks:
+
+- Elaborate a state of the art of distributed systems (architecture peer-to-peer, distributed data processing as Map / Reduce) suitable for case-based reasoning systems
+- Design a dynamic representation of cases using ontologies
+- Implement a distributed CBR engine for heterogeneous data.
+ 
+Competencies and profile
+
+Education, experience
+
+Candidates should have a PhD in Computer Science or Applied Mathematics. A strong academic record, excellent analytical skills and a clear aptitude for autonomous, creative research will be priority selection criteria.
+
+Technical skills
+
+- Solid background in Computer Science, knowledge of machine learning techniques, case-based reasoning and semantic web technologies.
+- Excellent programming skills (Java)
+- Good learning and adaptation capabilities.
+- Good communication skills in English. French is a plus.
+ 
+Environment and Location
+
+Ecole Centrale Paris, an elite French Institution, was founded in 1829. It was the first major engineering school to train engineers in the early days of industry. Today the primary vocation of ECP is still to train scientific leaders, innovators and managers for industry, a role which gives it a unique position among the major French engineering schools.
+
+The Business Intelligence team, part of the MAS Laboratory (Mathematics Applied to Systems), aims at  inventing the future of Business Intelligence, dealing with high-level semantics, reasoning about unstructured content and structured data, and providing a simplified access and a better understanding of BI tools. See our website for more details: http://bi.mas.ecp.fr/.
+
+Duration:                               12 months
+Start date:                              as soon as possible
+Location:                                France (near Paris)
+Annual gross salary:             around 33 000 Euros including health insurance
+ 
+How to apply
+ 
+- A cover letter stating your motivation.
+- A detailed CV including your PhD subject and a complete list of publications
+- Recommendation letters from leaders in academia or the industry are a plus
+ 
+Applications must be sent to:
+Prof. Marie-Aude AUFAURE
+Ecole Centrale Paris - MAS Laboratory
+Grande Voie des Vignes
+92 295 Chatenay-Malabry Cedex
+France
+Email : Marie-Aude.Aufaure@ecp.fr
+ 
+
+ 

@@ -1,0 +1,22 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-11/1354316196.html
+
+Posted Date:30-Nov-2012
+
+Posted By :Byron Gao
+
+Job Description:
+
+Faculty Employment
+
+The Department of Computer Science at Texas State University-San Marcos invites applications for the tenure-track faculty positions listed and described below. To apply for one or more available positions, create a personal account via the supplied link and follow the instructions provided.
+
+Position Number	 Job Title	 Specialization	 Job Description
+2013-30	Assistant Professor or Associate Professor (CS)	 Computer Science
+2013-31	Assistant Professor or Associate Professor (SE)	 Software Engineering
+
+Texas State University-San Marcos (Texas State) will not discriminate against any person in employment or exclude any person from participating in or receiving the benefits of any of its activities or programs on any basis prohibited by law, including race, color, age, national origin, religion, sex, disability, veterans’ status, or on the basis of sexual orientation. Equal employment opportunities shall include: personnel transactions of recruitment, employment, training, upgrading, promotion, demotion, termination, and salary. Texas State is committed to increasing the diversity of its faculty and senior administrative positions. Texas State is a member of The Texas State University System. Texas State is an EOE.
+
+
+Please check out http://cs.txstate.edu/recruitment/faculty_recruit.php for more details.
+
+If you have questions or experience difficulty with the on-line submission process please contact CSHiring@cs.txstate.edu. Please note that this email address may NOT be utilized to submit any application documents. Any such application documents included in an email message will not be processed.

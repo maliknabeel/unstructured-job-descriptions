@@ -1,0 +1,24 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-12/1354482924.html
+
+Posted Date:02-Dec-2012
+
+Posted By :Filippo Menczer
+
+Job Description:
+
+Center for Complex Networks and Systems Research
+School of Informatics and Computing
+Indiana University, Bloomington
+
+Postdoctoral Fellow in Analysis and Modeling of Social Networks
+http://cnets.indiana.edu/news/postdoc-social-networks-2013
+
+The Center for Complex Networks and Systems Research (CNetS.indiana.edu) at Indiana University, Bloomington has an open postdoctoral position to study how ideas propagate through complex online social networks. The position is funded by a McDonnell Foundation's grant in Complex Systems (www.jsmf.org/grants/2011022/). The appointment starts as early as possible after January 2013 for one year and is renewable for up to 2 additional years. The salary is competitive and benefits are generous.
+
+The postdoc will join a dynamic and interdisciplinary team that includes computer, physical, and cognitive scientists. The postdoc will work with PIs Filippo Menczer and Alessandro Flammini, other postdocs, and several PhD students on analysis and modeling of social media data. Areas of focus will include information diffusion patterns, epidemic models for the spread of ideas, interactions between network traffic and structure dynamics, and agent-based models to explain the emergence of viral bursts of attention. Domains of study will include politics, scientific knowledge, and world events. Go to the grant page or cnets.indiana.edu/groups/nan/truthy for further details on the team and project. 
+
+The ideal candidate will have a PhD in computing or physical sciences; a strong background in analysis and modeling of complex systems and networks; and solid programming skills necessary to handle big data and develop large scale simulations.
+
+To apply, send a CV and names and emails of three references by email to  or by mail to CNetS, 919 E 10th Street, Bloomington, IN 47408, USA. Applications received by 15 December 2012 will receive full consideration, but applications will be considered until the position is filled.
+
+Indiana University is an Equal Opportunity/Affirmative Action employer. Applications from women and minorities are strongly encouraged. IU Bloomington is vitally interested in the needs of Dual Career couples.

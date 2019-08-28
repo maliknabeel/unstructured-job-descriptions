@@ -1,0 +1,16 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-11/1354308172.html
+
+Posted Date:30-Nov-2012
+
+Posted By :Michael Stonebraker
+
+Job Description:
+
+
+The Data Tamer project at M.I.T., under the direction of Michael Stonebraker,  
+is building a highly scalable data curation system with components to do data 
+cleaning, schema integration, entity consolidation,  and data transformation.  
+We have an opening for a Postdoc for one year to work on this project. We would 
+prefer some one with a background in data integration or in human-computer 
+interaction.  Position is at M.I.T. and is available immediately.  If interested,
+contact Prof. Stonebraker at stonebraker@csail.mit.edu

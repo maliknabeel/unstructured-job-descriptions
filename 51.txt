@@ -1,0 +1,26 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2013-01/1357755429.html
+
+Posted Date:09-Jan-2013
+
+Posted By :Lei Tang
+
+Job Description:
+
+The targeting team @WalmartLabs is looking for two summer interns to work on problems related to data mining, machine learning, and collaborative filtering. 
+
+@WalmartLabs is committed to innovate and redefine commerce for the largest retailer worldwide, both online and offline, which ultimately results in the next-generation businesses.  Our targeting team, comprised of PhD’s in computer science, statistics, signal processing and behavioral psychologists, ingest every clickable action on Walmart.com: what individuals buy online and in stores, trends on Twitter, local weather deviations, and other local external events such as the San Francisco Giants winning the World Series.  We capture these events and intelligently tease out meaningful patterns so our millions of Walmart.com customers have a shopping experience that is individually personalized. 
+
+The interns are expected to contribute novel ideas and techniques to large-scale user modeling, personalization and recommendation.  The interns will have the opportunity to tap massive amount of data, and make a huge real-world impact.  It is highly encouraged to publish papers and file patents based on their internship research work. 
+
+In particular, we are seeking research interns  
+1)	Ph.D. in computer science, or related fields; 
+2)	At least 1-year research experience; 
+3)	Should be able to build system prototypes, design and execute experiments;
+4)	Expertise in data mining, machine learning, statistical modeling or optimization;
+5)	Background in social network analysis, natural language processing or parallel computing would be a plus. 
+
+Should you be interested, please send your resume to Lei Tang (ltang@walmartlabs.com) with subject “Internship @WalmartLabs”. We will start the application and interview process immediately. 
+
+More info about @WalmartLabs can be found here: 
+http://walmartlabs.blogspot.com/
+http://www.walmartlabs.com/

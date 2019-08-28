@@ -1,0 +1,33 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2013-01/1359216441.html
+
+Posted Date:26-Jan-2013
+
+Posted By :Hugh Williams
+
+Job Description:
+OpenLink is seeking core database  talent for further developing its Virtuoso SQL and RDF database. 
+
+If you have a passion for database performance and wish to work at the cutting edge of the field, this is an excellent opportunity to get to the heart of the action.   We do not necessarily require extensive experience, you may learn the science on the job.  On the other hand, if you have a background in core DBMS, this is an opportunity to leverage this knowledge.
+
+Virtuoso is best known in the RDF space but is also a fully functional RDBMS, since recently with both row and column-wise storage schemes and vectored execution.  Virtuoso has an open source release with all functionality except for cluster support and SQL federation.   A preview of the open source column store  is available on request.
+
+The tasks you could be working on include:
+
+-          Optimizing for TPC H and DS.  This covers everything from query cost model to execution.
+-          Getting the schema-less RDF data model to work as close to relational speeds as possible:  Make a SPARQL and RDF translation of TPC H work as close to the performance of the native SQL TPC H.  Both can be run on the same platform, as Virtuoso supports both SQL and SPARQL.
+-          Adding new SQL functionality , e.g. analytics functions.
+-          Breaking new ground in query optimization by merging execution into the SQL cost model.  By executing joins on samples of the actual data in the cost model, cardinality estimates become more reliable, which is particularly important in the schema-less RDF world:  There is structure but this must be    discovered from the data.
+-          Developing hardware and cache conscious query operators.  This may involve on the fly compilation for specific expressions, group by’s and hash joins.
+-          Optimizing for execution on clusters, with special emphasis on locating operators for minimizing inter-node communication.
+-          Fault tolerant operation on clusters with replicated partitions of data.
+
+If these items are of interest we want to talk to you.  We are flexible as concerns location and contract terms, salaries depend on experience but are generally in the bracket for FP7 EU projects.   Most of our staff work from home.  There are excellent opportunities for creating scientific publications  as we are in several FP7 projects and are working on the most challenging issues in the field.
+
+For product background, see the following Data Engineering Bulletin on the techniques used in the new Virtuoso RDBMS/Graph Column Store database:
+
+	http://sites.computer.org/debull/A12mar/vicol.pdf
+
+Working schedule:  Full-Time 
+
+HOW TO APPLY: 
+Please send your resume/CV in English to hwilliams@openlinksw.com

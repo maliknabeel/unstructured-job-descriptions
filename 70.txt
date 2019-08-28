@@ -1,0 +1,31 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-12/1355926283.html
+
+Posted Date:19-Dec-2012
+
+Posted By :Dino Ienco
+
+Job Description:
+
+Subject:  Exploiting multi-resolution remote sensing images for change detection and classification purposes.
+
+LIRMM and TETIS ( in collaboration with Gloria Bordogna CNR IDPA - Italia) are seeking candidates for a Postdoctoral Fellowship position to work on a new research project, called GEOSUD, to exploit multi-resolution remote sensing images for land cover change detection and classification purposes.
+More in detail the aim of the work is to improve the quality of dense time series of medium or low resolution images by means of rare high resolution time series.  The satellite images are acquired over well documented study sites concerned with land and vegetation management issues. The first site is located in Reunion Island (a French territory in the Indian Ocean) and is concerned by the sugarcane crop monitoring using multi-resolution “SPOT-Pleiades” combinations of images. The second one is situated in West Africa and is concerned by land use mapping using multi-resolution “MODIS-SPOT” combinations of images.
+
+From a computer science point of view, we intend to apply soft computing techniques and fuzzy aggregation operators in order to flexibly fuse and propagate the high resolution information (as satellite images) in the low resolution one. The goal is to obtain a dense time series of better quality w.r.t. the original one. The final goal of the application of soft constraints aims to improve identification of particular types of crop, and monitoring the crop conditions.
+
+Experiments will be performed at different levels (pixel, feature and decision) by associating different weights to the corresponding value to fuse in order to take into account the correlation between the two types of original images and the time interval of their acquisitions.
+
+The ideal candidate:
+- has recently completed a PhD in Remote Sensing, or Data Mining
+- has demonstrated the ability to conduct both fundamental and applied work in these areas,
+- Knowledge of techniques for automatic Geographical Information Representation and Management (GIS systems, satellite images processing and analysis)
+- Java language, C++ language, Python, PostgreSQL and PostGIS
+
+Location: LIRMM, Montpellier (south of France, on the mediterranean sea).
+Net salary: 1850 euros / month.
+
+The deadline for sending your application is 5 february 2013.
+The indicative start date is March/April 2013, however other options may be considered (don't hesitate to tell us).
+Interested candidates are requested to send an application by e-mail to Research Prof. Maguelonne Teisseire (maguelonne.teisseire@teledetection.fr) and Prof. Pascal
+Poncelet (Pascal.Poncelet@lirmm.fr) with the subject field: 'GEOSUD Post Doctoral Position'.
+The application should consist of a motivation letter and a curriculum vitae with a list of publications and description of any previous research you have held. Furthermore, names and contact information for three references are required.

@@ -1,0 +1,46 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2013-01/1357916547.html
+
+Posted Date:11-Jan-2013
+
+Posted By :Feng Xia	
+
+Job Description:
+
+PhD Positions in Mobile and Social Computing available @ Dalian Univ. of Tech., China (deadline information corrected)
+
+Apologies for cross-posting.
+
+Deadline for application: 1 February 2013.
+
+The Mobile and Social Computing Laboratory at Dalian University of Technology (DUT Phone Lab) conducts interdisciplinary, application-driven academic research in mobile and social computing. We are interested in a broad spectrum of cutting-edge research into mobile social computing, network science, and cyber-physical systems, from theoretical foundations, through design and implementation, to real-world applications, as well as education. We are working on critical enabling technologies for building systems and services that bridge the Cyber, Physical, and Social Worlds, with focus on e.g. social network analysis, ad hoc social networks, smart communities and systems, emotion, memory, and storytelling. 
+
+We are opening 2 PhD student positions in mobile and social computing. All positions will be coupled to full Chinese Government Scholarships. Basic living allowance will be 2,000 RMB/month, plus Comprehensive Medical Insurance and Benefit. The scholarships are exempt from registration fee, tuition, and fee for basic learning materials. Accommodation on campus will be provided for free. The University will offer excellent working conditions.
+
+Supervisor: Associate Professor Feng XIA
+Working location: Dalian University of Technology @ Dalian, China
+Starting date: September 2013
+PhD duration: 3-4 years
+
+Qualifications
+1. Applicants must be non-Chinese citizens in good health.
+2. Applicants must be students who study in foreign countries.
+3. Applicants shall have a master's degree in related discipline.
+4. Applicants must be under the age of 40.
+5. A good command of the English language (in speaking and in writing) is required.
+6. Research experience in related areas is a plus.
+
+Application procedure
+Before submitting the full application (to the University), each potential applicant should first send an initial application via email to Dr. Feng Xia (f.xia@ieee.org). The application should include a detailed CV (including email addresses of two referees), a brief statement of research experience and interests (in one page), and two best scientific documents/publications written by yourself (in English). The deadline for applications is 1 February 2013. Only a few candidates will be shortlisted for full application. Interested applicants are highly encouraged to submit their applications as soon as possible. We will not accept applications once the positions are fulfilled. 
+
+For further information regarding these positions, please contact Dr. Feng Xia (f.xia@ieee.org).
+
+All the best,
+Feng
+
+-- 
+Feng XIA (од╥Ф), PhD, SMIEEE, MACM
+Associate Professor and PhD Supervisor of Computer Science
+Mobile and Social Computing Laboratory  (DUT Phone Lab: http://dutphonelab.org)
+School of Software, Dalian University of Technology, Development Zone, Dalian 116620, China
+Email: f.xia@ieee.org; f.xia@acm.org
+URL: http://FengXia.NET

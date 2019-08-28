@@ -1,0 +1,40 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-12/1356001816.html
+
+Posted Date:20-Dec-2012
+
+Posted By :Stefan Dessloch
+
+Job Description:
+
+The Department of Computer Science at the University of Kaiserslautern, Germany is inviting applications for the position of a 
+
+	Professor (W3, tenured) for Computer Science 
+	with an emphasis on 
+	"Databases and Information Systems" 
+
+The research work of the applicant is expected to provide innovative contributions in the area of databases and information systems. Possible topics of work in this area include:
+* Data in the Web and in the Cloud: “Big Data”, scalable data analysis, NoSQL-databases, data security and privacy, social networks;
+* Mobile and ubiquitous data systems: mobile DBMS, context/situation awareness, ambient intelligence/pervasive computing, data stream processing;
+* Large information systems: scientific databases, adaptivity, virtualization, services;
+* DBMS core functionality: architecture, transaction management, data models, semantics, query processing, semi-structured data;
+
+Kaiserslautern is one of the important computer science locations in Germany. The Department of Computer Science combines well-founded education with excellence in applications and regularly scores top positions in relevant rankings. The associated research institutes such as the German Research Institute for Artificial Intelligence (DFKI), the Fraunhofer Institute for Experimental Software Engineering (IESE) and the Max-Planck-Institute for Software Systems offer a range of collaboration opportunities.
+
+Candidates are expected to possess outstanding scientific qualifications in addition to excellent didactic skills and experience in teaching. We also encourage applications from junior scientists. An earned doctoral degree and additional qualifications corresponding to the position profile are regarded as employment requirements. We expressively welcome applicants without German language skills. While courses in the master programs are held in English, our bachelor program courses are taught in German and we expect such courses to be held in German after the first three years of employment. 
+
+In addition, the employment requirements as documented in §49 of the Higher Education Act of the State of Rheinland-Pfalz are applicable. The text can be accessed on the Kaiserslautern University homepage (http://www.uni-kl.de/wcms/ha1-rechtsvorschrift.html).
+
+The University of Kaiserslautern is striving for raising the number of women in research and teaching. Female academics with the requested qualifications are strongly encouraged to apply. Applicants with children are welcome. 
+
+Qualified applicants with disabilities will be given preference (please enclose statement).
+
+The State of Rheinland-Pfalz and the University of Kaiserslautern have established a supervision concept that expects faculty members to show a high degree of presence at the university. Moreover, willingness to participate in university committee work is expected.
+
+Applications containing appropriate documents in German or English language (CV, documentation of scientific career, list of publications, overview of external funding, copies of certificates, as well as one copy of the three most important English publications) should be posted by January 31st 2013 to the following address:
+	Dekanat des Fachbereichs Informatik
+	Technische Universitaet Kaiserslautern
+	Postfach 3049
+	67653 Kaiserslautern
+	Germany 
+
+Please also send the application electronically in PDF format to . Please contact the Dean of the Department of Computer Science, Prof. Dr. Arnd Poetzsch-Heffter   if you have further questions.

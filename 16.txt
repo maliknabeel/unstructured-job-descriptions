@@ -1,0 +1,23 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2013-01/1359141538.html
+
+Posted Date:25-Jan-2013
+
+Posted By :Qi He
+
+Job Description:
+We currently have an opening for one internship opportunity in Service Solution Design department in IBMâ€™s Almaden Research Center. We are Services Research department in reputed IBMâ€™s Almaden Research Center. In our department we conduct research and develop solutions and analytical tools for managing complex services projects involving large outsourcing deals. Some of the research challenges we investigate include: what are the characteristics of an effective service solution? how to measure the quality of a service solution being proposed? how and what can be learned from prior service engagements to improve the quality of future service solutions? How to identify the factors that influence the win outcomes and conduct win prediction analysis? What are the root causes for inefficiencies in a service solution lifecycle management? How to identify similar service solutions? Which service solution sets are candidates for â€˜service productsâ€™? Etc. We are at the cutting edge of framing problems and defining solutions in the emerging area of Service Science. Answering these questions require multi-disciplinary expertise. Our current projects require expertise in data mining, and statistical machine learning topics. Our team constitutes of people who have expertise in business process management, decision support systems, text analysis, statistical machine learning, simulations and complex software systems engineering. Our team members have won multiple best paper awards from prestigious conferences and journals such as INFORMS and Decision Sciences Journal in the past. We are looking for motivated, self-driven, Ph.D candidates with deep subject matter expertise in data mining, statistical machine learning areas of Computer Science or related fields from top Universities. Multi-disciplinary candidates are also welcome to apply. Interested candidates can send their resumes to: Rama Akkiraju at akkiraju@us.ibm.com.
+
+Required Qualifications
+
+Bachelor's Degree in Computer Science or related field and working toward Ph.D degree
+At least 2 years experienceÂ inÂ data mining, statistical machine learning techniques
+At least 1 year experienceÂ inÂ Statistical tools such as SPSS, R, etc. 
+At least 2 years experienceÂ inÂ Java 
+English: Fluent
+
+Preferred 
+Master's Degree in Computer Science or related field and working toward Ph.D degree
+
+Deadline: Feb 28, 2013
+
+Rama Akkiraju

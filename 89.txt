@@ -1,0 +1,63 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-12/1354531443.html
+
+Posted Date:03-Dec-2012
+
+Posted By :Mariano Rodriguez-Muro
+
+Job Description:
+
+
+------------------------------------------------------------------------
+2 Post-doctoral positions at the Free University of Bozen-Bolzano/Italy
+------------------------------------------------------------------------
+
+The KRDB group at the Faculty of Computer Science of the at the Free
+University of Bozen-Bolzano/Italy is offering a post-doctoral
+position on 
+
+*** Optimization of SPARQL query answering for Ontology Based
+    Data Access and Ontology Based Data Integration              ***
+
+The position is financed by the IP project "Scalable End-user Access
+to Big Data (Optique)" within the EU Seventh Framework Programme
+(FP7). The position concerns the design and implementation of
+optimization techniques for SPARQL query answering over virtual RDF
+graphs (R2RML mappings over relational databases).
+
+Absolute requirements for this position are a Ph.D. in computer
+science with a strong research track record, testified by
+publications in top venues, and including significant implementation
+experience. The most desirable research backgrounds are SPARQL and
+SQL query optimization, OWL 2 reasoning, including specialized
+reasoning for the OWL 2 profiles, and rules. Interested candidates
+working on other areas but interested in query optimization are
+encouraged to apply.
+
+During this project the applicant will also have the opportunity to
+apply the results of their research in challenging industrial use-
+cases involving reasoning on Big Data, as provided by the Optique
+project and the user base of the -ontop- [1] framework for Ontology
+Based Data Access.
+
+One position is to start 2013 as early as possible. The second
+position is to start on the second quarter of 2013. Both positions
+have an initial contract duration of 1 year, with the possibility of
+extension up to 4 years.
+
+Additionally, the position comes with a great location, Bolzano [2,3]
+The Free University of Bozen-Bolzano is located right in the center
+of one of the most beautiful cities in the Alps. The region, South
+Tyrol, is among the top destination for Hikers, Mountaineers, Rock
+climbers, Skiers, etc. And last, as one would expect from any Italian
+location, food in Bolzano is a great.
+
+Interested applicants should get in contact immediately with Prof.
+Diego Calvanese (calvanese@inf.unibz.it) and Dr. Mariano Rodriguez
+(rodriguez@inf.unibz.it). Please attach a detailed CV including a
+list of publications, a statement of interest and up to 3 references
+(reference letters will be requested directly from the referees).
+
+[1] http://obda.inf.unibz.it/protege-plugin/
+[2] http://en.wikipedia.org/wiki/Bolzano
+[3] https://www.google.com/search?q=bolzano+italy&prmd=imvns&tbm=isch
+[Optique] http://optique.project.ifi.uio.no/

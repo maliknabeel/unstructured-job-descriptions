@@ -1,0 +1,41 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2013-01/1358580922.html
+
+Posted Date:19-Jan-2013
+
+Posted By :Anindya Banerjee
+
+Job Description:
+
+Faculty Positions at The IMDEA Software Institute
+
+The Madrid Institute for Advanced Studies in Software Development Technologies (The IMDEA Software Institute) invites applications for tenure-track (Research Assistant Professor) and tenured (Research Associate Professor and Research Professor) faculty positions. We are primarily interested in recruiting excellent candidates in the areas of
+
+  *  Software testing
+  *  Empirical software engineering
+  *  Embedded, reactive, autonomous software
+  *  Systems, broadly construed, including multicore, distributed systems, operating systems, compilers and runtime systems
+  *  Cloud computing
+
+but are open to other areas within the general research focus of the Institute.
+
+The primary mission of The IMDEA Software Institute is to perform research of excellence at the highest international level in the area of software development technologies and, in particular, to develop tools and techniques which will allow the cost-effective development of sophisticated software products with high quality, i.e., which are safe, reliable, and efficient.
+
+Selection Process
+*****************
+The main selection criteria will be the candidate's demonstrated ability and commitment to research, the match of interests with the institute's mission, and how the candidate complements areas of established strengths of the institute. All positions require an earned doctoral degree in Computer Science or a closely related area. Candidates for tenure-track positions will have shown exceptional promise in research and will have displayed an ability to work independently as well as collaboratively. Candidates for tenured positions must possess an outstanding research record, have recognized international stature, and demonstrated leadership abilities.
+
+Applications should be completed using the application form at
+
+https://www.imdea.org/internationalcall/Default.aspx?IdInstitute=17
+
+For full consideration, complete applications must be received by February 1, 2013 although applications will continue to be accepted until the positions are filled.
+
+Salaries
+********
+Salaries at The IMDEA Software Institute are internationally competitive and are established on an individual basis within a range that guarantees fair and attractive conditions with adequate and equitable social security provision in accordance with existing national Spanish legislation. This includes access to an excellent public healthcare system.
+
+Work Environment
+****************
+The working language at the institute is English. The institute is located in the vibrant area of Madrid, Spain. It offers an ideal working environment, open and collaborative, where researchers can focus on developing new ideas and projects. A generous startup package is offered. Researchers are also encouraged to participate in national and international research projects.
+
+The IMDEA Software Institute is an Equal Opportunity Employer and strongly encourages applications from a diverse and international community. The institute complies with the European Charter for Researchers. 

@@ -1,0 +1,29 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-12/1354540055.html
+
+Posted Date:03-Dec-2012
+
+Posted By :Carsten Binnig
+
+Job Description:
+
+FULLY FUNDED PhD POSITIONS IN THE AREA OF ANALYZING BIG ENTERPRISE DATA
+
+The Enterprise Data Management Cluster of the Baden-Wuerttemberg Cooperative State University 
+and the University of Mannheim has several open PhD positions in cooperation with industrial 
+partners (e.g, SAP and fluidOperations).
+
+Today, not only internet companies do have Big Data! Also classical information systems of 
+enterprises store huge amounts of mostly structured data (called Big Enterprise Data) 
+that needs to be analyzed. In this context, we are looking into the problem how to extend 
+classical databases in order to support complex analytic tasks on Big Enterprise Data in a scalable 
+and robust way. Another challenge in this context is secure and efficient data integration 
+over Big Enterprise Data with thousands of tables in different distributed data sources.
+
+If your passion is designing and building data management systems that push the state of the 
+art and you enjoy working on challenging and relevant research problems, please send your 
+application (motivation letter, CV, copy of degrees) to Prof. Carsten Binnig 
+(carsten.binnig@dhbw-mannheim.de).
+
+Applicants must have a master degree in computer science or a related field
+with an overall grade better than 2.0 (on a German grading scale) and a strong 
+background in implementing complex systems.

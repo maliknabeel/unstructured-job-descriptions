@@ -1,0 +1,61 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-12/1356076715.html
+
+Posted Date:21-Dec-2012
+
+Posted By :Nikos Manouselis
+
+Job Description:
+
+(apologies for cross-postings)
+
+POSITION ANNOUNCEMENT
+Two PhD researcher positions at University of Alcala (Spain), jointly supervised with Agro-Know Technologies (Greece). 
+
+Concerns two full-time (minimum 3-year) PhD research positions in the domain of Semantic Data Infrastructures, at the department of Computer Science, University of Alcala (UAH, http://www.uah.es). The PhD candidates will be involved in the FP7 research projects "agINFRA: A data infrastructure to support agricultural scientific communities" (http://aginfra.eu) and "SemaGrow: Data Intensive Techniques to Boost the Real-Time Performance of Global Agricultural Data Infrastructures" (http://www.semagrow.eu) that study scalable, efficient, and robust data services on top of heterogeneous large-scale data repositories and collections.
+
+The two positions are offered as part of the collaboration between the Information Engineering (IE) research unit (http://www.ieru.org) of the University of Alcala and Agro-Know Technologies (http://wiki.agroknow.gr), as part of their joint effort to contribute to the semantic interoperability and data analysis layers of these projects. Agro-Know is a small but fast growing research enterprise that aims to deploy meaningful and innovative services around high-quality agricultural data pools. The two groups have been working together closely in the past years, offering the opportunity to PhD students to work on research solutions that are applicable to real-life problems.
+ 
+RESEARCH CONTEXT
+In the agINFRA and SemaGrow projects, more than 15 organisations from Europe and the world (including prestigious institutions such as the Food and Agriculture Organization of the United Nations) are working together to offer better access to information for agricultural researchers and practitioners, using many ICT techniques such as intelligent information management, semantic enrichment and integration, as well as social data analysis. The successful candidates will work on tasks related to semantic infrastructures and data science, in order to solve research problems related to deploying data-driven services for agriculture.
+
+It is expected that the PhD candidates will carry out applied research work that will start from the establishment of a theoretical framework, continue with the implementation of a software prototype and the experimentation with real data, and conclude with the validation of a proposed solution through a real-life user study.
+
+PROFILES
+Highly motivated applicants are sought to cover the two positions described below. In general, successful candidates are generally expected to have: 
+- Good analytical and software development skills,
+- Good command of spoken and written English,
+- Good communication skills and willingness to collaborate with other researchers and developers having diverse background
+- Some experience with writing research papers and technical reports
+
+In addition, for each position some specific qualifications are desired.
+
+(a) PhD position on topics related to Semantic Infrastructures 
+
+The candidate should have a degree in Computer Science, Computer Engineering or relevant disciplines, a Master Degree in Computer Science or Information Systems, as well as the following qualifications:
+- 1-3 years of research and development experience in industry or academia (e.g. MSc, PhD, R&D Engineer)
+- Very good knowledge and experience in object-oriented and Web programming technologies (such as Java, Javascript, SQL, XML, UML, J2EE, PHP, Ajax)
+- Good knowledge and experience in database systems (such as MySQL, PostgreSQL, Oracle)
+- Experience and interest in semantic web technologies such as RDF and OWL is desired (but not mandatory) 
+
+(b) PhD position on topics related to Data Science 
+
+The candidate should have a degree in Computer Science, Mathematics, or other relevant disciplines, a Master Degree on similar topics, as well as the following qualifications:
+- 1-3 years of research and development experience in industry or academia (e.g. MSc, PhD, R&D Engineer)
+- Good knowledge of data analysis methods and algorithms
+- Experience of working with statistical analysis over large data sets
+- Good knowledge (and more than two years) of Java programming
+- Experience and interest  in big data technologies such as Hadoop, MapReduce, and NoSQL is desired (but not mandatory)
+
+CONDITIONS
+The PhD positions are shared between the two groups and candidates will be hosted either at Alcala (Spain) or Athens (Greece). The research and development work to be carried out will be connected to the agINFRA and SemaGrow projects, depending on the profiles and interests of the candidates. These are full-time positions for 3 years minimum, with a satisfactory payment scheme that will cover the living and tuition fees of the candidates, as well as their research-related expenses (participation in relevant conferences etc.).
+
+Applicants will be requested to prepare a research proposal and complete a research and development assignment during the first 6 months. After the successful completion of this phase, their positions will be extended up to 3 fully-funded years. The PhD candidates will be working mostly at the premises of the group that they will be directly collaborating with, either in Alcala or in Athens. They will be also expected to make at least one research visit of a short duration (typically between 1-3 months) to the other group. 
+
+The PhD regulations and procedures that apply are the ones of the University of Alcala and the candidates are expected to prepare and defend a PhD thesis within these 3 years.
+
+APPLICATION
+Applications including CV, links to relevant work or publications, a motivation letter, and contact info of 2 references for recommendation, should be sent by email to msicilia@uah.es and info@agroknow.gr. 
+
+For more information about the positions, please send inquiries to the same e-mail addresses.
+
+The screening process will start immediately and continue until the position is filled. 

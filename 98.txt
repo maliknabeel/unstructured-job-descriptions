@@ -1,0 +1,20 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-11/1354205595.html
+
+Posted Date:29-Nov-2012
+
+Posted By :Kakali Sarkar
+
+Job Description:
+
+Agnik (www.agnik.com) is looking for interns with experience in Hadoop and machine learning/data mining. Students with interest in statistical 
+data analysis, machine learning,  and cloud-based distributed computing are strongly encouraged to apply. These are paid intern positions 
+for major consumer market and B2B product-lines. More information about Agnik's products and business partners can be found at www.agnik.com. 
+Here are some examples: 
+
+Agnik and Sprint collaboration: 
+http://www.businesswire.com/news/home/20120530005122/en/Sprint-Agnik-Team-Advanced-Data-Mining-Enhanced
+
+SEARS launches Agnik-powered product through Audiovox:
+http://www.sears.com/audiovox-car-connection/p-02803550000P
+
+Payment is commensurate with experience. You should be eligible to work off-campus. If you are interested then send your resume to jobs@agnik.com

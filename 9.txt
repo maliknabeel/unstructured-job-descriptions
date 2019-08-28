@@ -1,0 +1,35 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2013-01/1359255452.html
+
+Posted Date:26-Jan-2013
+
+Posted By :Chris Baker
+
+Job Description:
+Automated Reasoning Engineer
+============================
+
+IPSNP Computing Inc is looking for an Automated Reasoning Engineer to play a key role in the development of a revolutionary technology for Biomedical Data Federation.
+
+The main tasks will be:
+-    Development of a specialised reasoning engine as a core component of IPSNP's query engine for SADI Semantic Web services.
+-    Design and implementation of other components of the query engine, related to the processing of RDF, OWL and SPARQL, and one or more rule languages.
+-    Design and implementation of other components of the query engine, related to the discovery and invocation of SADI services.
+
+The following qualifications are mandatory:
+-    Research experience in an area related to Automated Reasoning implementation.
+-    PhD or MSc with work experience in relevant fields.
+-    Good knowledge of the Java programming language.
+
+The following will be considered an advantage:
+-    Experience with Semantic Technologies (RDF, OWL, SPARQL).
+-    Familiarity with rule-based reasoning.
+-    Experience with Web service technologies, client-side or server-side, especially experience with Semantic Web services and/or the use of Web services for data integration.
+-    Experience with any data integration technologies.
+-    Experience in Natural Language Processing.
+-    Industrial software development work experience.
+-    Any exposure to Bioinformatics.
+
+This job will be located in Saint John, New Brunswick, Canada. Compensation: $50,000 - $80,000 CAD
+
+The position is open until filled. We encourage international applicants to complete the application process as early as possible due to the length of time required to obtain a Canadian work permit. Interested applicants are invited to write to Dr. Chris Baker (chris.baker@ipsnp.com). 
+Enquiries about the job should be directed to Dr. Alexandre Riazanov (alexandre.riazanov@ipsnp.com).

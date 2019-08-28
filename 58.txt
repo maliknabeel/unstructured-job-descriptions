@@ -1,0 +1,46 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2013-01/1357325854.html
+
+Posted Date:04-Jan-2013
+
+Posted By :NEC Labs Data Management Research
+
+Job Description:
+
+Data Management Department of NEC Labs America, located in the Silicon Valley, 
+is seeking highly motivated Ph.D. students for summer internships to make a big impact and 
+be part of fascinating research activities in data management. 
+
+The current research focus of the group is creating cutting edge technologies for Data Management in the Cloud. 
+(For more information on the CloudDB Project: http://www.nec-labs.com/dm/projects.php)
+(For more information on the research programs: http://www.sigmod.org/publications/sigmod-record/1109/pdfs/07.centers.nec.pdf)
+
+The successful candidates will have an opportunity to work with distinguished NEC Labs researchers 
+to explore technological breakthroughs and gain insights on the industrial aspects of advanced research. 
+Our past successful interns have contributed to publications in premier venues. 
+
+The topics for the internships include but not limited to:
+
+-	New data models and architectures in the Cloud
+-	Query processing and optimization in the Cloud
+-	Resource and Workload Management in the Cloud
+-	Information Sharing and Collaboration
+-	Advanced Analytics
+-	Mobile Data Management
+
+
+For consideration, please submit your resume to https://neclabs.hua.hrsmart.com/ats/js_job_details.php?reqid=1130
+
+
+About NEC Laboratories America:
+
+NEC Labs (www.nec-labs.com) is a premier industrial research center renowned for technical excellence 
+and high-impact innovations that conducts research and development in support of global businesses 
+by building upon NEC's 100-year history of innovation. Our research programs cover wide range of technology areas 
+and maintain a balanced mix of fundamental and applied research as they focus on innovations, which are ripe for 
+technical breakthrough. Our progressive environment provides exposure to industry-leading technologies and nurtures
+close collaborations with leading research universities and institutions. Our collaborative atmosphere, 
+commitment to developing talent, and extremely competitive benefits ensure that we attract the sharpest minds 
+in their respective fields – maintaining an impressive retention rate. NEC Laboratories America is headquartered 
+in Princeton, New Jersey and has a second location in Cupertino, California, where the data management group is located. 
+
+ EOE/AA/MFDV

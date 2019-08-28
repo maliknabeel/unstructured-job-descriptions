@@ -1,0 +1,72 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-12/1355827287.html
+
+Posted Date:18-Dec-2012
+
+Posted By :Dimitrios Gunopulos
+
+Job Description:
+
+Postdoctoral Positions in the University of Athens
+
+We are soliciting applications for two postdoc positions in the 
+Department of Informatics and Telecommunications, University of 
+Athens:
+
+Position 1:
+
+The successful candidate will work on a new FP7-funded project:
+"INSIGHT: Intelligent Synthesis and Real-tIme Response using 
+Massive Streaming of Heterogeneous Data", involving seven European 
+partners.
+
+The successful candidate will have a PhD in Computer Science or
+a related field and previous research experience in at least 
+one the following topic areas: data mining, databases, machine
+learning, web mining. Research in Social Networks or Stream and
+Sensor Mining, and experience in industry-linked research projects 
+are also desirable.
+
+The position will be fixed-term for up to a year, with the possibility 
+to be renewed for up to three years, depending on the success of 
+the project. The salary is competitive depending on experience, 
+skills, and track record. The starting date is negotiable but no 
+later than mid-2013. The position will be based in Athens, Greece.
+
+The deadline for submissions is Dec. 31, 2012, or until the position
+is filled.
+
+For information and applications, email Dimitrios Gunopulos, UoA:
+dg@di.uoa.gr
+kddlab.di.uoa.gr/dg.html
+
+
+Position 2:
+
+The successful candidate will work on a new ARISTEIA project: 
+"Mining Mobility Data (MMD)" involving UoA and Athens University 
+of Economics and Business. This research has been co-financed 
+by the European Union (European Social Fund – ESF) and Greek 
+national funds through the Operational Program "Education and 
+Lifelong Learning" of the National Strategic Reference Framework.
+
+The successful candidate will have a PhD in Computer Science or
+a related field and previous research experience in at least 
+one the following topic areas: data mining, databases, machine
+learning, web mining. 
+
+The position will be fixed-term for up to a year, with the possibility 
+to be renewed for a second year. The salary is competitive depending 
+on experience, skills, and track record. The starting date is 
+negotiable but no later than Spring 2013. The position will be 
+based in Athens, Greece.
+
+For more information about this position, see this announcement:
+http://www.elke.uoa.gr/procurements_persons.aspx
+"PROSKLISI_13/12/2012"
+
+The deadline for submissions is Dec. 28, 2012. 
+If the position is not filled, a new announcement will be made.
+
+For information and applications, email Dimitrios Gunopulos, UoA:
+dg@di.uoa.gr
+www.di.uoa.gr/kddlab/dg.html

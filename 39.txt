@@ -1,0 +1,28 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2013-01/1358348231.html
+
+Posted Date:16-Jan-2013
+
+Posted By :Ioannis Koltsidas
+
+Job Description:
+
+The Storage Systems group in the Storage Technologies department of IBM Research - Zurich in Rueschlikon, Switzerland, invites applicants for a postdoctoral position on next-generation storage research. The department is active both in developing key technologies that ship with IBM products and in maintaining a strong academic research profile. The Storage Systems group focuses on the system-level challenges of storage systems that leverage novel storage technologies to achieve high performance, high reliability, scalability, and security.
+
+In particular, the main research interests of the group are in the following areas:
+- Caching at various levels of the memory hierarchy
+- Multi-tiered scale-out storage
+- File systems
+- Devices based on novel storage media (such as flash memory, phase-change memories)
+- Next-generation storage controllers
+
+This is an excellent opportunity for highly qualified and creative candidates seeking experience working with an international team of researchers in a world-class industrial research organization.
+
+The ideal candidate will have a Ph.D. in Computer Science or a closely related discipline with a strong background in storage systems, file systems, database storage and operating systems. Candidates must have a strong desire and proven ability to conduct research independently, invent new ideas, implement them in real systems, and publish the results of their work. Hands-on experience with systems software development, kernel development skills, or contributions to open-source projects are critically important.
+
+IBM is committed to diversity at the workplace. With us, you will find an open, multicultural environment. Excellent, flexible working arrangements enable both women and men to strike the desired balance between their professional development and their personal lives.
+
+For more information, please visit: http://www.zurich.ibm.com/employment/2013/2013_01_postdoc_storage.html
+
+For more technical details, please contact:
+Dr. Ioannis Koltsidas, Research Staff, e-mail: iko@zurich.ibm.com
+Dr. Thomas Weigold, Manager Storage Systems, e-mail: twe@zurich.ibm.com

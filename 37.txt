@@ -1,0 +1,30 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2013-01/1358432259.html
+
+Posted Date:17-Jan-2013
+
+Posted By :Xiao Bai
+
+Job Description:
+
+Job description:
+Your research will focus on building a distributed data-as-a-service platform, including various aspects of distributed cloud computing systems, such as how to efficiently crawl Web content, user-generated content spread in the Internet with minimum resource utilization, how to effectively cluster/index data to facilitate distributed data processing, how to provide real-time data processing in a distributed setting for different applications. You will have the opportunities to both publish papers and implement real systems.
+
+Required skills/qualifications:
+- Ph.D. in Computer Science or related field; 
+- Strong academic research track record focused on networking and distributed systems; 
+- Proficiency in both written and spoken English; 
+- Strong coding skills in Java or C/C++; 
+- Ability to perform research that is justified and guided by business opportunities; 
+- Ability to meet project deadlines and to coordinate the effort of multiple parties; 
+- Experience in implementing distributed systems is preferable; 
+- Research experience in information retrieval, data mining, machine learning is a plus.
+
+How to apply: 
+Please send the following documents to rrhh@barcelonamedia.org. 
+- Your resume; 
+- A two-page research statement describing your general research interests and how they match this call; 
+- Three recommendation letters. Please ask each of your letter writers to send a copy of the letter directly to the above address, and to have your name as part of the subject.
+
+For more information, please visit: http://comunicacio.barcelonamedia.org/web/Job%20Ref%20-%20BM0024_Dec_2012
+
+Applications are accepted until the position is filled.

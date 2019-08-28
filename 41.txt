@@ -1,0 +1,42 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2013-01/1358259200.html
+
+Posted Date:15-Jan-2013
+
+Posted By :Ahmed Kattan
+
+Job Description:
+
+Job Title
+Job: Research Associate in Machine Learning
+
+Job Summary
+The Ministry of Labor (MoL) in Saudi Arabia invites applications for full-time 
+research associate in  Machine Learning. The candidates are 
+required to hold at least an MSc before starting the position and should have a strong research record in the areas specified above. Joining us 
+would support gaining valuable post-graduate experience in the company of an 
+energetic research group. Our agenda, in general, spans theoretical, technology 
+and applications research as it applies to serve the Ministry's programs in jobs 
+nationalisation.
+
+We are looking for a highly motivated, independent but team-oriented 
+researchers. The position starting time is flexible, and initially runs for one year 
+with a possible extension to two years. Interested candidates should send their 
+CV to ajkattan@uqu.edu.sa 
+
+Job Description: 
+*Work with the MoL Thank Tank team.
+*Study the MoL job nationalisation program 'Nitaqat'. 
+*Design decision support systems to aid the decision maker using state-of-the-art technology. 
+*Write code, and perform simulations. 
+*Analyse data. 
+*Write grants application and research papers. 
+
+
+Requirements: 
+*At least an Msc. degree in Computer Science and with a particular emphasis on Operational Research, Multi-Objectives Optimisation, Data Mining or Evolutionary Computation. 
+*Good background in application programming. 
+*Good background in web-based services programming. 
+*Good research records. 
+*Good programming skills.
+*Proven ability to work with a diverse group of people.
+*Fluent English - verbal and written.

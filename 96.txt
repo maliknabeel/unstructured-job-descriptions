@@ -1,0 +1,54 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-11/1354305303.html
+
+Posted Date:30-Nov-2012
+
+Posted By :Shawn Newsam
+
+Job Description:
+
+Ph.D. Position(s) in EECS at the University of California at Merced
+
+
+Highly-motivated PhD students are sought to start in fall 2013 under Professor Shawn Newsam in the areas of computer vision, image analysis, spatial analysis, and multimedia.
+
+Openings to work on the following two projects are anticipated:
+
+1) The NSF CAREER funded project "Social Multimedia as Volunteered Geographic Information". This project investigates georeferenced social multimedia for geographic discovery. Specifically, community-contributed ground-level images and videos are used to map what-is-where on the surface of the Earth in much the same way that overhead images taken from air- or space-borne platforms have been used for decades in the traditional field of remote sensing. The over arching premise is that georeferenced social multimedia data can be considered a form of volunteered geographic information. Further, it can enable geographic discovery not possible through traditional means.
+
+More information about the project can be found at: http://nsf.gov/awardsearch/showAward.do?AwardNumber=1150115
+
+2) High-resolution overhead image analysis. The increased resolution and availability of overhead images such as acquired from air- or space-borne platforms can help solve a number of important problems relevant to society. I have done a significant amount of work in this area including geographic image retrieval and classification. I am looking to recruit a strong PhD student to focus on spatial models for classification and object detection. Of particular interest are probabilistic models such as Markov random fields, conditional random fields, etc. It is anticipated the methods developed for analyzing overhead images will generalize to other automated image understanding problems in computer vision.
+
+Funding for students is expected to be in the form of research and/or teaching assistantships.
+
+Desired qualifications:
+- A BS or preferably an MS in CS, EE, or related areas.
+- Strong mathematical background.
+- Strong programming ability.
+- Experience/interest in one or more of the following:
+-- Image processing and computer vision
+-- Pattern recognition and machine learning
+-- Multimedia data analysis
+-- Geographic information systems/sciences
+- Desire to publish in top conferences and journals.
+
+For further information:
+- Professor Newsam's research: http://faculty.ucmerced.edu/snewsam/
+- EECS graduate group at UC Merced: http://eecs.ucmerced.edu.
+- Application procedure: http://graduatedivision.ucmerced.edu.
+- Application deadline: January 15, 2013.
+
+The selection process is expected to be very competitive.
+
+PLEASE BE SURE TO MENTION PROFESSOR SHAWN NEWSAM and your interest in the project(s) above in your Statement of Purpose.
+
+The Electrical Engineering & Computer Science (EECS) graduate group at UC Merced consists of 12 faculty members, 26 PhD students, and several MS students. The group has collective interests in  machine learning, computer vision, speech processing, computer graphics, robotics, sensor networks, distributed systems, databases, intelligent systems, and computational neuroscience, among others areas. UC Merced is the tenth campus of the University of California and the first American research university built in the 21st century. It is located in the California Central Valley, approximately one hour drive from the Yosemite National Park and two hours from the San Francisco Bay Area.
+
+----
+Shawn Newsam
+Associate Professor and Founding Faculty
+Electrical Engineering & Computer Science
+School of Engineering
+University of California, Merced
+Email: snewsam@ucmerced.edu
+Web: http://faculty.ucmerced.edu/snewsam

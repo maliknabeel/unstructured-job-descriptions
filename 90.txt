@@ -1,0 +1,74 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-12/1354526899.html
+
+Posted Date:03-Dec-2012
+
+Posted By :Robert Wrembel
+
+Job Description:
+
+_----------------------------------------------------------------
+
+Numerous Erasmus Mundus Joint Doctorate Fellowships
+in Business Intelligence and Big Data Analytics
+
+-----------------------------------------------------------------
+The ERASMUS MUNDUS JOINT DOCTORATE in INFORMATION TECHNOLOGIES
+for BUSINESS INTELLIGENCE (IT4BI-DC) Programme
+(http://it4bi-dc.ulb.ac.be/)
+
+provides EU-funded SCHOLARSHIPS to students selected by the
+IT4BI-DC Consortium.
+
+The IT4BI-DC Consortium is composed of the following institutions:
+- Universite Libre de Bruxelles (ULB) (Belgium),
+- Aalborg Universitet (AAU) (Denmark),
+- Technische Universitaet Dresden (TUD) (Germany),
+- Universitat Politecnica de Catalunya (UPC) (Spain),
+- Poznan University of Technology (PUT) (Poland).
+
+The selected PhD students will receive net salary between €1400 - €2200,
+depending on the institution. More details concerning the funds are
+available at http://it4bi-dc.ulb.ac.be/fellowships_funds
+
+RESEARCH AREAS
+-----------------------------------------------------------------
+The IT4BI-DC Programme offers multiple cutting the edge research
+topics, in the areas including among others:
+
+- Business Intelligence for WEB and Big Data Analysis
+- BI on Spatio-Temporal data
+- Warehousing unstructured data
+- Multidimensional data analysis in a cloud
+- Data integration architectures for real-time BI
+- Geo-social analytics
+- Advanced smart grid analytics
+- BI on sequential data
+- BI on advanced hardware
+- Privacy in data analysis
+- Collaborative data analysis
+
+AWARDED DEGREE
+-----------------------------------------------------------------
+A graduate from the IT4BI-DC Programme will be awarded either
+a join degree or double degree offered by two of the Partner
+institutions. The type of the degree awarded is subject to internal
+regulations of the countries where the Partner institutions are located.
+
+IMPORTANT DATES
+-----------------------------------------------------------------
+PhD candidates applying for an Erasmus Mundus scholarship:
+December 21st, 2012 : scholarship application deadline
+January 8th, 2013   : uploading reference letters deadline
+End of February 2013: preliminary decision of the scholarship
+End of April 2013   : formal confirmation of the scholarship granting
+
+PhD candidates not applying for an Erasmus Mundus scholarship:
+April 30th, 2013: progrmme application deadline for Non-European students
+June 30th, 2013 : programme application deadline for European students
+
+PhD candidates are required to apply via the IT4BI-DC online
+application form that is available at http://it4bi-dc.ulb.ac.be/emundus
+
+
+Detailed information available at: http://it4bi-dc.ulb.ac.be/apply
+Enquiries: it4bidc@cs.ulb.ac.be 

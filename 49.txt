@@ -1,0 +1,52 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2013-01/1357886114.html
+
+Posted Date:11-Jan-2013
+
+Posted By :Edward Curry
+
+Job Description:
+
+==Post Doc – Research Associate(s) (2 Positions) at Digital Enterprise Research Institute==
+
+The Digital Enterprise Research Institute (DERI) is one of the largest semantic research organisations in the world. DERIs mission is to establish semantics as a core pillar of modern computer engineering. DERI offers a stimulating, dynamic, multi-cultural research environment with excellent ties to international research organisations worldwide. Working within DERI offers the successful applicant a stimulating environment and unique opportunity to become part of an internationally recognised research team. In collaboration with our industrial partner the successful applicant will play a key role in making next-generation semantic computing systems a reality by delivering smart energy management systems for small and medium sized businesses.
+
+The first position focuses on multi-level decision support using linked data and dynamic data for energy management.
+
+The second position focuses on computer human interaction, persuasive technology, and business intelligence dashboards for energy management. 
+
+Interested Applicants should be capable of demonstrating:
+ - An ability to work in a team based environment developing state of the art software solutions on time and to specification 
+ - Motivated and proactive attitude to take ownership and initiative in all work assignments 
+ - Excellent analysis and problem solving skills 
+ - Strong design, development & testing skills 
+ - Excellent communication skills, verbal and written
+ - An ability to interact with both academic researchers and industrial practitioners 
+ - Ability to tackle wide and varied tasks
+ - Creative Thinking
+
+The applicant is expected to possess the solid experience (ideally 3+ years) using many of the following skills: 
+ - Very strong core Java development
+ - Good knowledge of object-oriented design principles and design patterns with an understanding of their application within Java
+ - Knowledge/Experience with distributed systems and service-oriented design principles
+ - Third level degree in computer related discipline or strong background in computer science/information systems
+
+ - For Position 1: Experience/Knowledge of decision support systems (i.e. data-driven, model-driven, decision tables, etc)
+
+ - For Position 2: Experience/Knowledge of user interface design principles including computer human interaction, persuasive technology, and business intelligence dashboards
+
+Additional Desirable Experience & Background (inc. qualifications):
+ - A good record of theoretical and applied research with a scientific publication record in workshops, conferences, journals and book chapters.
+ - Experience/Knowledge of Energy Management Systems 
+ - Experience/Knowledge of Sensor Networks (inc. CoAP)
+ - Experience/Knowledge of Event/Stream Processing technologies
+ - Experience with Semantic Web/Linked Data technologies (e.g. RDF, OWL, SPARQL)
+ - A relevant post graduate degree (MSc, PhD) or relevant industrial experience
+ - Project management and leadership in a technical environment.
+ - Agile software development processes (inc. SCRUM Master)
+
+The position is full-time, located at DERI Galway. The duration of the positions will be for 12 to 18 months. The salary will be in the range €28,938—€51,008, depending on qualifications and experience. An early start date is preferable as the positions are now open.  A panel for future similar positions may be formed.
+
+Informal enquiries about these positions may be made to:
+Edward Curry, Tel +353-91 492973 ed.curry@deri.org
+
+Application procedure: Candidates are requested to submit a covering letter, CV (Word or PDF format only) and the names and addresses of at least two  referees via e-mail to; ed.curry@deri.org using "Post Ref. No. DGSIT 13-01 Post Doc / Research Associate" in the subject line.

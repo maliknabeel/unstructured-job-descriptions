@@ -1,0 +1,54 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-12/1355213564.html
+
+Posted Date:11-Dec-2012
+
+Posted By :Francesco Ricci
+
+Job Description:
+
+Assistant Professor Position on Recommender Systems
+"Ricercatore a tempo determinato"
+
+The Database and Information Systems group at the Faculty of Computer 
+Science at Free University of Bozen-Bolzano (Italy) is looking for an 
+outstanding researcher to fill a position of Assistant Professor with 
+research interests in the area of Recommender Systems. The position is 
+starting from March 2013.
+
+The Database and Information Systems group is active in a number of 
+research projects in recommendation and personalization technologies 
+and in particular on: context-aware recommender systems, group 
+recommender systems, cross-domain recommendations, combining implicit 
+and explicit feedback, sequential decision making for recommender 
+systems, and applications in tourism, music, and eHealth.
+
+We are looking for exceptional candidates with the following 
+characteristics:
+
+- PhD in computer science or a related technical field;	
+- Teaching experience;
+- Established track record of creating and publishing results of 
+  high research quality;
+- Strong technical skills and experience of programming;
+- Substantial mathematical background;
+- Experience of working on international projects;
+- Excellent presentation skills.
+
+The start date for this position is March 2013, or as soon as 
+possible after that. The position is for 3 years renewable for 2 
+additional ones. The appointee is expected to conduct independent 
+research in one of above mentioned research projects, submit grant 
+proposals, supervising undergraduate and graduate students, and 
+engage in some teaching duties (at least 60 hours of frontal lectures 
+per year). Some knowledge of Italian or German languages is desirable 
+but not necessary at the beginning.
+
+Salary will be commensurate with qualifications and experience, 
+starting from a minimum of 42.000 Euro per year.  Interested 
+candidates please send informal inquiries together with CV (including 
+publication list) and a sample of three representative publications 
+to: Francesco Ricci (fricci@unibz.it).
+
+For more information,
+Faculty of Computer Science at FUB: http://www.inf.unibz.it/
+Recommender Systems: http://www.inf.unibz.it/~ricci/

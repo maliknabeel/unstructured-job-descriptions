@@ -1,0 +1,56 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-12/1355758503.html
+
+Posted Date:17-Dec-2012
+
+Posted By :Matteo Golfarelli
+
+Job Description:
+
+Position in Business Intelligence as a Fixed-Term Researcher (Ricercatore a tempo determinato)
+ 
+The Business Intelligence Group at the Department of Computer Science and Engineering - University of Bologna (Italy) is looking for an outstanding researcher to fill a fixed-term position.
+
+The Business Intelligence (BI) research group (http://www-db.deis.unibo.it/research/BI/) is active since 1998 on several topics in the BI area. The researcher will work on Advanced Architectures and Techniques for Business Intelligence; in particular, the research will focus on:
+
+* Advanced techniques for data analysis through the embedding of data mining algorithms in OLAP and the adoption of personalized querying processes;
+* Extending BI systems to semi- and non-structured data, possibly enriched with semantic information or information obtained using Natural Language Understanding algorithms;
+* Cloud and distributed architectures supporting collaborative and on-demand BI.
+ 
+Based on the research goals, the researcher will be involved in the following activities:
+1. Study of innovative techniques for data analysis and, more specifically, study of new OLAP operators to exploit data mining techniques (OLAM);
+2. Study of techniques for personalizing analysis session and navigating the query results;
+3. Study of algorithms for integrating semantic, semi-structured, and unstructured data in BI systems;
+4. Study and development of distributed and extensible BI platforms in inter-company collaboration scenarios.
+
+Further topics and research activities could be developed, provided that they are tightly coupled with the BI area.
+ 
+Required expertizes are:
+- Databases and database theory
+- Data warehousing and BI
+- Data mining, text mining, and natural language processing.
+ 
+The ideal candidates should have a PhD degree with top performance in a field that is related to the areas mentioned above. They should have a proven track record of system development as well as in conducting original research and in publishing results in top conferences and journals. They should be proactive,  self-motivated, and capable of working both autonomously and in a team.
+Knowledge of the Italian language is not required, while excellent oral and written English is necessary.
+ 
+The Official call for applications will be available on December 28th 2012 at:
+http://www.unibo.it/Portale/Personale/Concorsi/RicercatoriTempoDeterminato/default.htm
+The start date for this position is expected to be May 2013, or as soon as possible after that. The position is for 3 years, renewable for 2 additional years. Gross salary will be around 34.500 Euro per year.
+ 
+The main venue for the position will be the Cesena Campus (60 kms from Bologna). Cesena is a nice city with a well-preserved historic center, conveniently located near the glamorous Riviera Adriatica. Cesena is home to many University degrees and in particular to the Computer Science and Engineering degree. Cesena offers a variety of cultural and sports opportunities all year around, as well as excellent food and wine.
+
+Inquiries for further information can be sent directly to matteo.golfarelli@unibo.it.
+
+
+Matteo Golfarelli
+
+
+-----------------------------------------------------------
+Matteo Golfarelli (Phd)
+c.d.l. Scienze e Tecnologie Informatiche
+University of Bologna
+Via Sacchi 3, 47521 Cesena (FC)
+Tel: ++39 (0)547 - 338862
+Fax: ++39 (0)547 - 338890
+e-mail: matteo.golfarelli@unibo.it
+www: http://bias.csr.unibo.it/golfarelli/
+----------------------------------------------------------- 

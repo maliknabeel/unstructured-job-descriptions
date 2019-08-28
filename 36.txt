@@ -1,0 +1,38 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2013-01/1358509744.html
+
+Posted Date:18-Jan-2013
+
+Posted By :Wassim Derguech
+
+Job Description:
+
+Internship in Business Process Modelling
+
+The Unit for Service Oriented Architecture (USOA) at the Digital Enterprise Research Institute (DERI: http://www.deri.ie) at the National University of Ireland, Galway invites applications for the internship in the area of Business Process Modelling.
+
+DERI is a leading research institute in semantic technologies. Successful candidate will design and implement components of Business Process Modelling framework using semantic technologies applied to customise configurable process models.
+
+We offer: 
+
+•	A stimulating, dynamic, multi-cultural research environment.
+•	Excellent ties to research groups worldwide.
+•	Close collaboration with leading industrial partners.
+•	Up-to-date infrastructure and resources.
+•	Paid internship commensurate with qualifications and experience.
+We expect: 
+
+•	Strong background in Computer Science. Preferably the candidate should be currently pursuing MSc degree in Computer Science or related discipline.
+•	Strong programming skills in Java. 
+•	Software design, development & testing skills.
+•	Ability to work in a team on software projects on time and to specification.
+•	Motivated and proactive attitude.
+•	Excellent analysis and problem solving skills.
+•	Strong communication skills, verbal and written.
+Bonus skills:
+
+•	Experience with RDF and SPARQL.
+•	Knowledge about Business Process Modelling Languages such as BPMN and EPC.
+Application procedure:
+
+Candidates are requested to submit a cover letter and CV in PDF to: wassim.derguech(at)deri.org. Closing date for receipt of applications is February 15, 2013. We expect the successful candidates to start at the earliest possible date, ideally in March 2013.
+

@@ -1,0 +1,8 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2013-01/1359184733.html
+
+Posted Date:26-Jan-2013
+
+Posted By :Wei Tan
+
+Job Description:
+We are hiring graduate students to work as summer interns at IBM T. J. Watson Reserch Center. We welcome students whose research areas are related to NoSQL, big data, Hadoop/HBase, distributed systems, storage systems (cache, SSD), etc. Preferences will be given to those who are with good publication records (e.g., in VLDB, Sigmod, ICDE, CIDR) and solid hands-on skills. The summer projects will be a mixture of cutting-edge research with system building. Please apply at https://jobs3.netmedia1.com/cp/faces/job_summary?job_id=RES-0546009 and send your CV to Dr. Wei Tan (http://researcher.ibm.com/researcher/view.php?person=us-wtan): wtan@us.ibm.com.

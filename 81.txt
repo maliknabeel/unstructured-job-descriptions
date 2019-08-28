@@ -1,0 +1,81 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-12/1355141637.html
+
+Posted Date:10-Dec-2012
+
+Posted By :Torben Bach Pedersen
+
+Job Description:
+
+-----------------------------------------------------------------
+
+Numerous Erasmus Mundus Joint Doctorate Fellowships in Business Intelligence and Big Data Analytics
+
+-----------------------------------------------------------------
+The ERASMUS MUNDUS JOINT DOCTORATE in INFORMATION TECHNOLOGIES for BUSINESS INTELLIGENCE - DOCTORAL COLLEGE (IT4BI-DC) 
+Programme (http://it4bi-dc.ulb.ac.be/) provides EU-funded SCHOLARSHIPS to students selected by the IT4BI-DC Consortium. 
+
+The IT4BI-DC Consortium is composed of the following institutions:
+- Universite Libre de Bruxelles (ULB), Belgium, Prof. Esteban Zimanyi
+- Aalborg Universitet (AAU), Denmark, Prof. Torben Bach Pedersen
+- Technische Universität Dresden (TUD), Germany, Prof. Wolfgang Lehner
+- Universitat Politecnica de Catalunya (UPC), Spain, Prof. Alberto Abello
+- Poznan University of Technology (PUT), Poland, Prof. Robert Wrembel
+
+The selected PhD students will receive net salary between €1400 - €2200, 
+depending on the institution, see http://it4bi-dc.ulb.ac.be/fellowships_funds 
+
+Separate scholarships are available in two categories:
+
+Category B fellowships are available for:
+ •Students who are nationals of one of the 27 EU Member States: Germany, Austria, Belgium, Denmark, Spain, 
+  Finland, France, Greece, Ireland, Slovakia, Slovenia, Italy, Luxembourg, the Netherlands, Portugal, UK, 
+  Sweden, Bulgaria, Malta, Poland, Czech Republic, Cyprus, Estonia, Hungary, Latvia, Lithuania, and Romania.
+ •Students who are nationals of one of the EEA-EFTA states: Iceland, Liechtenstein and Norway.
+ •Students who have resided or carried out their main activities (studies, work, etc.) for more than 12 months over 
+  the past five years (counted backward starting from the official deadline for application to the IT4BI-DC doctorate 
+  programme) in any of the above listed countries.
+ 
+Category A fellowships are available to all other candidates. 
+
+
+RESEARCH AREAS
+-----------------------------------------------------------------
+The IT4BI-DC Programme offers a number of cutting-edge research topics, including:
+
+- Business Intelligence for WEB and Big Data Analysis
+- BI on Spatio-Temporal data
+- Warehousing unstructured data
+- Multidimensional data analysis in the cloud
+- Data integration architectures for real-time BI
+- Geo-social analytics
+- Advanced smart grid analytics
+- BI on sequential data
+- BI on advanced hardware
+- Privacy in data analysis
+- Collaborative data analysis
+
+See http://it4bi-dc.ulb.ac.be/topics for details. 
+
+AWARDED DEGREE
+-----------------------------------------------------------------
+A graduate from the IT4BI-DC Programme will be awarded 
+a joint or double Doctoral degree by two of the Partner 
+institutions, e.g., TUD and AAU. 
+
+IMPORTANT DATES
+-----------------------------------------------------------------
+PhD candidates applying for an Erasmus Mundus scholarship:
+December 21st, 2012 : scholarship application deadline
+January 8th, 2013   : uploading reference letters deadline
+End of February 2013: preliminary decision of the scholarship 
+End of April 2013   : formal confirmation of the scholarship granting
+
+PhD candidates not applying for an Erasmus Mundus scholarship:
+April 30th, 2013: programme application deadline for Non-EU/EEA-EFTA students
+June 30th, 2013 : programme application deadline for Eu/EEA-EFTA students
+
+PhD candidates are required to apply via the IT4BI-DC online
+application form available at http://it4bi-dc.ulb.ac.be/emundus
+
+Detailed information available at: http://it4bi-dc.ulb.ac.be/apply
+Enquiries: it4bidc@cs.ulb.ac.be 

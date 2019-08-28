@@ -1,0 +1,47 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2013-01/1357308036.html
+
+Posted Date:04-Jan-2013
+
+Posted By :Stephane Marchand-Maillet
+
+Job Description:
+
+January 2013
+==================
+The Viper group of the Department of Computer Science of the University of Geneva is seeking
+
+One PhD Student in Information Retrieval and Machine Learning
+
+The Viper group on Multimedia Information Management (http://viper.unige.ch) is part of the Computer Vision and Multimedia Laboratory. The group specializes on information mining, learning and retrieval. We address the problem of content-based modeling, search and retrieval of information in relation with modern machine learning and data mining techniques. This is also related to our research on content characterization where we mixed automated characterization techniques and knowledge management and discovery techniques.
+
+The group is part of several national and European projects including the Swiss NCCR IM2 (http://www.im2.ch) and the EU COST Action MUMIA (http://www.mumia-network.eu/). The group is now chairing the Technical Committee 12 of the International Association for Pattern Recognition (IAPR-TC12, "Multimedia and Visual Information Systems" http://www.iapr-tc12.org). It has co-organized the ACM International Conference on Image and Video Retrieval (ACM-CIVR 2009, http://www.civr2009.org) and the International Conference of the ACM-SIG on Information Retrieval in 2010 (ACM-SIGIR 2010, http://www.sigir2010.org).
+Topic
+
+The doctoral position is receivinbg funding from the Swiss National Science Fundation (SNFS) for 3 years. This is a collaborative project with the Idiap Institute (Martigny, CH).
+
+The main focus of the PhD position is on Machine Learning strategies applied to large-scale (Multimedia) Information Retrieval. Several PhD works are ongoing in the group on the topic and the successful candidate will also closely collaborate with them.
+
+There will be many opportunities to get involved into teaching on related topics and/or basic computer science courses, given in the department.
+
+Requirements
+*    Completed MSc in Applied Maths or Computer Science.
+*    Experience with machine learning and/or information retrieval with a good publication record in a related topic;
+*    good knowledge of data indexing and machine learning strategies and optimization algorithms;
+*    Strong interest in parallel computation and algorithm complexity;
+*    Programming experiences in either C/C++, Java, Python, Matlab;
+*    Strong written and communication skills. Scientific representativity will be expected from the successful candidate;
+*    Fluent in English
+
+More information
+The position is guaranteed for 3 years starting asap. An extension is administratively feasible. Information about the project and the Viper group at U Geneva:
+
+    Prof. Stéphane Marchand-Maillet, stephane.marchand-maillet[at]unige.ch
+
+Application
+Please send your complete application, including a curriculum vitae, a cover letter and two references at stephane.marchand-maillet[at]unige.ch. Due to the expected large number of applications, candidates will be contacted only if selected for an interview.
+
+Start date
+As soon as possible.
+
+Original link
+http://viper.unige.ch/doku.php/jobs (updated information will be posted there)

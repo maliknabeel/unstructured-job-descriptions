@@ -1,0 +1,11 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2013-01/1358837201.html
+
+Posted Date:22-Jan-2013
+
+Posted By :Swami Sivasubramanian
+
+Job Description:
+
+Are you interested in building next generation databases and distributed datastores for the Cloud? In AWS, we are building disruptive database technologies like DynamoDB (a highly scalable and available non-relational database service) and RedShift (our large scale datawarehouse service). 
+
+We are looking for talented engineers of all experience levels (10+ years, 5+ years, and new grads) in distributed systems and databases. We expect all our engineers to have passion for building systems and capable of taking complex problems, coming up with creative designs and build a solution. If this challenge sounds like something you are up for, please email me: swami@amazon.com

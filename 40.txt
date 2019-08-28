@@ -1,0 +1,28 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2013-01/1358305930.html
+
+Posted Date:15-Jan-2013
+
+Posted By :John C.S. Lui
+
+Job Description:
+
+The Chinese University of Hong Kong
+Faculty of Engineering
+
+Job Vacancies
+
+Faculty Positions at all levels for Big Data Analytics
+
+The Faculty of Engineering at The Chinese University of Hong Kong (http://www.erg.cuhk.edu.hk) has several tenure track positions at the Assistant, Associate and Professor level in the interdisciplinary area of "Big Data Analytics", which is a new strategic research initiative supported by the University Focused Investments Scheme and will complement current/planned strengths in different departments under the Faculty. Successful candidates will be expected to develop a significant independent research programme with external funding, supervise graduate students, and teach both undergraduate and postgraduate courses.
+
+Currently, we are seeking candidates in the following areas:
+
+* Theoretical, mathematical and algorithmic aspects in large data analytics;
+* Large scale software systems and architecture in large data analytics;
+* Application areas in large data analytics (e.g., information analytics, network/web analytics, financial analytics or security analytics,..etc).
+
+Successful applicants should have a PhD degree and a strong scholarly record demonstrating potential for teaching and research excellence. Appointment(s) will normally be made on contract basis for two to three years initially, leading to longer-term appointment or substantiation (tenure) later subject to excellent performance and mutual agreement. Salary will be competitive, commensurate with qualifications and experience. The University also offers a comprehensive fringe benefit package, including medical care, housing benefits and contract-end gratuity for eligible candidates. Details on benefit can be found at http://www.per.cuhk.edu.hk/LinkClick.aspx?fileticket=cz95LqKV3Tg%3d&tabid=166 (or http://www.per.cuhk.edu.hk/)
+
+Please send applications to Dean of Engineering at recruit-bda@erg.cuhk.edu.hk with full resume, copies of academic credentials, publication list with abstracts of selected published papers, details of courses taught and evaluation results (if any), a research plan and a teaching statement, together with names of three to five referees. Please mark clearly the candidate is applying for position under the "Big Data Analytics Initiative". Prof. John C.S. Lui is the leader of this strategic initiative and could be contacted at cslui@cse.cuhk.edu.hk for more details and/or inquiries.
+
+Applications are accepted until the positions are filled.

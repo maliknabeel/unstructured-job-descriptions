@@ -1,0 +1,44 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2013-01/1359217037.html
+
+Posted Date:26-Jan-2013
+
+Posted By :Andrew Rau-Chaplin
+
+Job Description:
+Postdoctoral Fellowships in Analytics and High Performance Computing (HPC)
+
+Applications are invited for Postdoctoral Fellowships (renewable) in Analytics and High Performance Computing 
+(HPC) under the supervision of Dr. Andrew Rau-Chaplin in the Risk Analytics Lab, Faculty of Computer Science at 
+Dalhousie University.
+
+Candidates with a strong HPC background and an interest in one or more of the following areas are encouraged to 
+apply:
+-	Catastrophe Modeling and Risk,
+-	Mathematical Modeling, Simulation, and Optimization,
+-	Text Mining and Natural Language Processing
+
+The Risk Analytics Lab (www.risk-analytics-lab.ca) is housed in the Faculty of Computer Science at Dalhousie and 
+is focussed on research questions at the intersection of analytics, risk management, and high performance 
+computing. Our research projects address challenges in catastrophe modeling, portfolio risk management, and 
+dynamic financial analysis, by drawing on a diverse set of technologies including stochastic simulation, high 
+performance computing, optimization, text mining, and data warehousing. The lab has strong links to industry and 
+frequent interactions with industrial research partners. Project involve a range of computing platforms including 
+multicore CPUs, distributed memory clusters, GPUs, & cloud based infrastructure.
+
+Successful candidates will hold a recent Ph.D. in Computer Science, Mathematics, Statistics, or Engineering. They 
+will have experience working on HPC oriented projects and have developed algorithm design, implementation, and 
+evaluation skills. We are seeking individuals who can bring strong technical skills and enthusiasm to an area of 
+research ripe for innovation and who will be able to integrate well into a larger team.
+
+Applicants should send a full Curriculum Vitae, letters from two referees and a cover letter highlighting their 
+prior achievements and a brief summary of their statement of their interest and experience in this area. 
+Electronic submissions are encouraged. Applicants are strongly encouraged to contact Dr. Rau-Chaplin as early as 
+possible to express interest and to ask any questions. Applications will be considered until the positions are 
+filled.
+
+All qualified candidates are encouraged to apply; however, Canadians and permanent residents will be given 
+priority. Dalhousie University is an Employment Equity/Affirmative Action employer. The University encourages 
+applications from qualified Aboriginal people, persons with a disability, racially visible persons and women. 
+Applications for postdoctoral positions are accepted subject to funding.
+
+Dr. Andrew Rau-Chaplin (arc [at] cs.dal.ca) Faculty of Computer Science Dalhousie University www.cs.dal.ca/~arc 

@@ -1,0 +1,32 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-12/1354985888.html
+
+Posted Date:08-Dec-2012
+
+Posted By :Panos Kalnis
+
+Job Description:
+
+Research Scientist positions at KAUST
+Â 
+The InfoCloud group in the King Abdullah University of Science and Technology (KAUST) invites applications for Research Scientist positions in all areas of Databases, Data Mining, Artificial Intelligence, Cloud Computing, Parallel / Distributed Systems and High-performance Computing. Initial appointment is for 1 year, which can be extended to up to 5 years.
+Â 
+Requirements
+An ideal candidate should have a PhD and preferably 1 year of PostDoc experience in Computer Science or a related field, with strong publication record. Candidate should have experience in Databases, or Data Mining, or Artificial Intelligence, or Cloud Computing, or Parallel / Distributed Systems or High-performance Computing, and should be willing to perform interdisciplinary research.Â 
+Â 
+Benefits
+- Very attractive salary and benefits.
+- Generous research funding. 
+- State-of-the-art research facilities, including one of the fastest supercomputers (IBM BlueGene, 64000 cores, 64TB RAM), and a word-class visualization center. 
+- Interdisciplinary research in areas such as Bioinformatics, Genetics, Nanotechnology, Solar energy, Climate change, etc. 
+- Collaboration (including exchange visits and internships) with top institutions such as Stanford, Texas A&M, IBM Watson, and others. 
+- Vibrant campus life and impressive recreational facilities that include a private beach, marina and golf course. 
+
+King Abdullah University of Science and TechnologyÂ 
+KAUST is an international graduate-only research university located on the coast of the Red Sea, near Jeddah, Saudi Arabia. Inaugurated in September 2009, KAUST welcomes exceptional researchers, faculty and students from around the world. As an independent and merit-based institution and one of the best endowed universities in the world, KAUST intends to become a major new contributor to the global network of collaborative research. All activities of the University are conducted on the basis of equality, without regard to race, color, religion or gender.Â 
+
+Application process
+To apply, send by email a single pdf file with (i) curriculum vitae, including list of publications; (ii) research statement; and (iii) the names and contact information of three referees, to Dr. Panos Kalnis. Email: panos.kalnis@kaust.edu.sa Web: http://www.kaust.edu.sa/panoskalnis
+
+Further information
+Information about KAUST can be found at: http://www.kaust.edu.sa
+Information about InfoCloud can be found at: http://cloud.kaust.edu.sa

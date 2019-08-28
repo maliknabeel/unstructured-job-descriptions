@@ -1,0 +1,67 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2013-01/1357918889.html
+
+Posted Date:11-Jan-2013
+
+Posted By :Hilda Tellioglu
+
+Job Description:
+
+Post Doc Position in the area of Multidisciplinary Design
+
+The Multidisciplinary Design Group at the Faculty of Informatics at Vienna University of Technology is looking for 
+
+	a post doc position
+
+with a keen interest in at least one the the following areas
+
+   - Ambient Assisted Living 
+   - Health Care
+   - User-Centred Design
+   - Human Computation / Human Computer Interaction
+   - Qualitative Design Methods
+
+to work on a new European AAL research project "TOPIC: The Online Platform for Informal Caregivers". TOPIC aims to support informal carers in their daily needs with a CarePortfolio. It is an integrated set of shared spaces and services to support the physical and mental care ability of informal carers by enabling learning and orientation about care, by offering a platform for cooperation with formal carers, by improving, integrating, and making (mobile) multimodal communication easier and accessible for informal carers to connect with other informal carers, friends, or family members. 
+
+We offer:
+
+   - a research position for 34 hours/week
+   - a work environment that is well equipped with the newest 
+     hardware and software technology
+   - a salary according to the standard university regulations 
+   - motivated colleagues [1] who are passionate about research
+   - support for your personal development and career planning
+   - an attractive work environment both within the research group 
+     and beyond (Vienna is repeatedly voted the city with the highest
+     standard of living in the world)
+
+Besides the inter/-national cooperation in the project with several partners from Austria, France, and Germany, you will be collaborating in a research team consisting of the Multidisciplinary Design Group [2] headed by Assoc. Prof. Hilda Tellioglu [3], which is part of the Intitute of the Design and Assessment of Technology at the Faculty of Informatics [4] of the Vienna University of Technology [5]. The group is active in International and Austrian National research projects and we are looking for candidates to help us continue these efforts.
+
+You have:
+
+   - PhD in informatics, computer science, information 
+     systems or an equivalent area
+   - expertise in design of multimedia systems, HCI, prototyping 
+   - an interest in applying computer science research to real-world 
+     problems
+   - German and English language skills
+
+If you are interested:
+
+Send your application *** as soon as possible *** (including letter of interest/intent, CV, certificates, list of publications (if available) and thesis copy as a PDF or ZIP archive containing PDFs (if available), references (if available)) via e-mail to:
+
+ Assoc. Prof. Hilda Tellioglu
+ Vienna University of Technology
+ Faculty of Informatics
+ Institute of Design and Assessment of Technology
+ Head of the Multidisciplinary Design Group
+ E-mail: hilda "dot" tellioglu "at" tuwien "dot" ac "dot" at 
+
+The Vienna University of Technology is committed to enhancing the number of women in scientific positions and, therefore, particularly invites women to apply. Women who are as qualified for the position in question as male applicants will be given priority. 
+
+Links:
+
+[1] http://igw.tuwien.ac.at/
+[2] http://media.tuwien.ac.at/index.php?id=1
+[3] http://hildatellioglu.com 
+[4] http://www.informatik.tuwien.ac.at/english
+[5] http://www.tuwien.ac.at/en/tuwien_home/

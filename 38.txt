@@ -1,0 +1,20 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2013-01/1358362654.html
+
+Posted Date:16-Jan-2013
+
+Posted By :Francesca Romano
+
+Job Description:
+Analytical Engine Developer
+
+Collective[i] is a well-funded tech start-up based in New York City. 
+
+We are building a multi-tenant, high volume decision support ASP that connects disparate data sources and automates the work associated with analyzing data and sharing knowledge. Our customers are sales and marketing executives who need to be able to extract insights from large, complex data sets quickly and accurately. 
+
+Right now we are looking for an Analytical Engine Developer for our R&D team to develop and implement a multi-terabyte, multi-million user, and multi-lingual analytical system, which provides decision support for various vertical business applications.
+
+Our ideal candidates will have a very strong background in software engineering, and will be passionate, motivated, and interested in working in a start-up environment.
+
+To apply, please email your resume to recruiting@collectivei.com. You can also apply online through our website at www.collectivei.com.
+
+Thanks and good luck!

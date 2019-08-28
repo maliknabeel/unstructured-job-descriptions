@@ -1,0 +1,47 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2013-01/1359403155.html
+
+Posted Date:28-Jan-2013
+
+Posted By :Amine Marref
+
+Job Description:
+1. Title of Position: 
+Research Assistant/Associate, Science and Technology Unit, Umm Al- Qura University, Makkah, Saudi Arabia.
+
+2. Starting Date: 
+Immediate.
+
+3. Closing Date: 
+Open until filled.
+
+4. Salary: 
+Competitive, depending on experience.
+
+5. Description: 
+We are seeking a Research Assistant/Associate to work under the supervision of Dr. Amine Marref on a number of projects funded (See marref.org/amine for details) by the National Science and Technology Innovation Program, KACST, Saudi Arabia. The Research Assistant/Asscoiate will be responsible for the design and implementation of analysis and testing techniques for the verification of the timing behaviour of real-time systems with a focus on worst-case execution-time analysis. The main tasks will be developing solutions for various timing-analysis problems, developing and maintaining a tool chain for the various stages of the worst-case execution-time analysis, and publishing in top international journals and conferences.
+
+6. Requirements for the Position: 
+To be considered for this post, the Research Assistant must have the following minimum technical requirements:
+   - A Master degree in computer science or computer engineering for the Research Assistant position and a Ph.D. degree in computer science or computer engineering for the Research Associate position. We unfortunately cannot accept candidates without Master/Ph.D. for this position.
+   - Proven research potential. This should be in the form of publication of research papers, fund attraction, involvement in research projects, etc.
+   - Outstanding Java development skills. All  the coding will be done in Java, we do not expect the candidate to spend much time getting up to speed with the Java programming language.
+   - Excellent understanding of programs written in C and assembly languages, especially ARM. The programs to be analysed will be written in C, and analysing them is done both at the high level (C language) and low level (disassembled binaries).
+   - Extensive  knowledge about hardware architectures especially ARM processors. Most analyses to be performed  require mapping program-instruction execution to hardware architecture.
+   - Significant demonstrated experience using the Linux operating system. This is required to debug and install legacy and third-party software tools. All research work will be conducted  on Linux.
+   - Excellent technical English writing. This is required to write reports and research papers.
+
+In addition to this, the following requirements will be considered a plus for the candidate.
+  - Expertise in real-time systems.
+  - Expertise in software verification including static and dynamic analysis.
+  - Excellent knowledge about optimisation algorithms e.g. (integer) linear programming, constraint programming, evolutionary optimisation (genetic algorithms, genetic  programming, particle swarm optimisation), neural networks, etc.
+
+Furthermore, the candidate must have:
+  - Demonstrated ability to work unsupervised.
+  - Excellent interpersonal skills and verbal and written  communication skills.
+  - High motivation,  ability  to be a successful team player who is well organised and able to focus on several priorities.
+
+The position is contract-based, renewable yearly subject to satisfactory progress.
+
+7. Application Process:
+To be considered for the position of Research Assistant/Associate, send a covering letter,  CV, and research statement  to the email ajmarref [at] uqu [dot] edu [dot] sa with  the exact subject line “RA-WCET”. We  un- fortunately cannot accept applications without the requested files and the correct subject line.
+Due to the high volume of applications we receive, we cannot reply to candidates individually  should they not get shortlisted; in which case we wish them luck with their future applications.

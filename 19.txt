@@ -1,0 +1,28 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2013-01/1359062508.html
+
+Posted Date:24-Jan-2013
+
+Posted By :Hasan Jamil
+
+Job Description:
+Department of Computer Science
+University of Idaho
+Moscow, Idaho
+
+Postdoctoral Fellow and PhD student position in Linked Large Data Management
+
+The University of Idaho, located in the rolling Palouse hills of northern Idaho, is a leading public university in the Northwest. A land-grant University, we attract nearly 12,000 students, and are known for academic excellence, exceptional student life experience, outstanding creative and research opportunities, and accomplishments of both our high-achieving students and graduates.  Through insight and innovation, and a legacy of leadership, the University of Idaho enriches the lives of people throughout the region and the world.
+
+At our main campus in Moscow, Idaho – and our centers throughout the state – students find many opportunities to share in our community and culture. We offer a distinctive combination of outstanding majors and graduate programs, accomplished faculty, world-class facilities, renowned research and a residential campus in a spectacular natural setting.  Established in 1889, UI is the state’s flagship research intensive university with annual research expenditure close to $100 million.
+
+The Department of Computer Science at University of Idaho is the only PhD granting department in the state of Idaho. In collaboration with the Northwest Knowledge Network at the University of Idaho, the Department of Computer Science is pleased to announce a post-doctoral position in linked large data management. The appointment starts as early as possible after June 2013 for one year and is renewable for up to one additional year. The salary is competitive and benefits are generous.
+
+We are also looking for PhD students in this area of research to start from Fall 2013. Full financial support is available for deserving candidates. 
+
+The postdoc will work with the PI, and several PhD students, on modeling, querying and analysis of biological and social network data. The Fellow will join a dynamic and interdisciplinary team of computer, environmental, and life sciences researchers who are interested in developing fast, scalable network search and analysis techniques in large graph databases with applications to large linked and distributed scientific data.
+
+The ideal candidate will be a recent Ph.D. in Computer Science with a strong background in graph data modeling and management, graph indexing techniques, and graph analysis in social or biological networks; and solid programming skills necessary to handle large data and system development.
+
+To apply, send a CV and names and emails of three references by email to Hasan Jamil at jamil@uidaho.edu. Applications received by March 1, 2013, will receive full consideration, but applications will be considered until the position is filled.
+
+University of Idaho is an Equal Opportunity/Affirmative Action employer and sensitive about the needs of dual career couples. Applications from women and minorities are strongly encouraged.

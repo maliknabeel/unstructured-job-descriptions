@@ -1,0 +1,40 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2013-01/1359254870.html
+
+Posted Date:26-Jan-2013
+
+Posted By :Chris Baker
+
+Job Description:
+Bioinformatics / Cheminformatics Research Engineer
+IPSNP Computing Inc. - New Brunswick, Canada
+
+Job Description
+If you have background in Bioinformatics/Cheminformatics, strong interest in practically relevant Semantic Technologies, an aspiration for professional growth and a desire to participate in the development of a revolutionary technology for Biomedical Data Federation, we have a job for you!
+
+Your main tasks will be:
+
+-    Designing and programming SADI Semantic Web services for various biomedical databases, nomenclatures, ontologies and bioinformatics algorithms.
+-    Designing, conducting and documenting case studies with IPSNP's Hydra query engine for SADI Web services.
+ -   Research in knowledge representation principles for various biomedical domains and practical development of ontologies and rule bases for them.
+-    Facilitating and leading pilot studies with our technology partners, including several reputable research organisations, small Biotech companies and a multinational Pharmaceutical company.
+-    Year 2 responsibilities: training and coordinating more junior 
+Bioinformaticians, software developers and knowledge engineers. 
+
+This job will be located in Saint John, New Brunswick, Canada. The position is open until filled. We encourage international applicants to complete the application process as early as possible due to the length of time required to obtain a Canadian work permit (overseas applicants). Interested applicants are invited to write to Dr. Chris Baker (chris.baker@ipsnp.com). Compensation: $60,000 - $85,000 CAD per Anum
+
+Desired Skills & Experience
+
+The following qualifications are mandatory:
+-    Bioinformatics and/or Cheminformatics background.
+-    PhD or MSc with work experience in relevant fields.
+-    Working knowledge of core semantic technologies (RDF, OWL, SPARQL).
+-    Working knowledge of Java or any other object-oriented programming language. 
+
+The following will be considered an advantage:
+-    Familiarity with Web service technologies, client-side or server-side, especially SADI.
+-    Experience with any data integration technologies / Big Data solutions
+-    Familiarity with rule-based knowledge engineering and/or rule engines.
+-    Exposure to natural language processing, especially text mining.
+
+Company Description
+IPSNP Computing Inc is an early-stage startup with roots in applied academic research and a mission to develop a game-changing product for Bioinformatics, Clinical Intelligence and other applications where there is a need for efficient information processing across the Web. We leverage Web services and semantic technologies.

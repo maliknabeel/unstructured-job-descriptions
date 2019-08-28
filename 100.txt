@@ -1,0 +1,21 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-11/1354188852.html
+
+Posted Date:29-Nov-2012
+
+Posted By :Jordi Cabot
+
+Job Description:
+
+AtlanMod (INRIA / École des Mines de Nantes) is opening 2 new positions for postdoctoral fellows or research engineers (i.e. anyone with at least a master can apply for a research engineer position) in the field of Model-Driven engineering (for these open positions main topics will be scalability of MDE techniques, MDE in the cloud and modeling of enterprise architectures using TOGAF and similar frameworks).
+
+Minimum duration is 1 year but positions can be renewed for several additional years if we are both happy with our collaboration. Salary is based on the resume of the candidate. Salary scale follows the official salary scale for French education institutions.
+
+Working language of the team is English (so no need to know French to come to work with us  ).
+
+Prior knowledge of EMF-based technologies is mandatory for research engineers. Postdoctoral fellows are expected to have a strong research record in MDE. Only applications satisfying this requirement will be acknowledged/considered.
+
+Job location is the beautiful city of Nantes in France (the “most livable city in Europe” according to Time magazine!)
+
+Candidates should apply directly via email with current resume to atlanmod-positions@mines-nantes.fr. Applications are welcome until positions are filled (FIFO approach). Starting date is as soon as possible (ideally February/March next year) but we are open to discuss other arrangements.
+
+These positions are an opportunity to work in one of the strongest research teams in MDE and be part of the group that has created the popular ATL transformation language, the MoDisco Reverse Engineering framework among many other modeling technologies. We hope you see this as an exciting opportunity to advance in your career!

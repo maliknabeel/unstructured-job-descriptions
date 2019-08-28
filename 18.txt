@@ -1,0 +1,88 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2013-01/1359122388.html
+
+Posted Date:25-Jan-2013
+
+Posted By :Chiara Ghidini
+
+Job Description:
+(apologies for cross-postings)
+
+POSITION ANNOUNCEMENT
+3 years post-doc position in the “New Talent Program” - “Shape and Evolve Living Knowledge (SHELL)” project at Trento RISE and FBK, Trento, Italy.
+
+Application deadline: 21.02.2013 (by 12.00 p.m.)
+Official announcement: www.trentorise.eu/jobs/22-1-13/post-doc-position-new-talent-program-shape-and-evolve-living-knowledge-shell-project
+For more information about the position, please send inquiries to ghidini@fbk.eu
+
+The 'New Talent Program" of the Trento RISE Association is seeking candidates for a post-doc position to work in the newly started “Shape and Evolve Living Knowledge (SHELL)” project at the Bruno Kessler Foundation, Center for Information Technology (FBK-ICT).
+The 'New Talent Program" is aimed at attracting new talents in the ICT and innovation field. The constant need for ICT experts in Europe gives good cause for investing more and more on pan-European information and communication technology. At the same time, the demand for ICT specialists is growing. Therefore Trento Rise and FBK-ICT intend to boost new young ICT talents engaged in projects addressing new scientific challenges, with clear experimental and practical demonstrations of the added value of the research.
+
+WORKPLACE
+The successful applicant will jointly work in Trento RISE and FBK-ICT.
+The aim of the Trento RISE Association (www.trentorise.eu) is to create an increasingly integrated system of research, innovation and higher education based on the principles of excellence and quality in the information and communication technology (ICT) sector in the Trento region. In particular, the Association aims at concurring in the success of the international non-profit organization EIT ICT Labs, of which it is a member, in order to make it become the new European system for research, innovation and higher education in ICT. It also intends to promote integration among the various players operating in the field of research in ICT in Trentino (Sistema Ricerca Trentino), especially universities and research centers;
+FBK-ICT (www.fbk.eu) conducts research in information technology and is launching new interdisciplinary research projects with the aim of addressing important research challenges by joining the different scientific competences that are at the base of its internationally well-known scientific excellence. Among these projects, the Shape and Evolve Living Knowledge (SHELL) project aims at joining different scientific competences in order to build an environment able to maintain a living inventory of knowledge of an organization. The environment must be able to shape the conceptual models of an organization from textual content and data, and support their co-evolution and adaptation w.r.t., content and data.
+Additional information about the SHELL project is available at http://shell.fbk.eu.
+
+POSITIONS:
+Within the scope of shaping conceptual models from textual data, the SHELL project is looking for a candidate to carry out research activities in the field of Natural Language Processing and Knowledge Engineering, and in particular on the usage and definition of information extraction algorithms, methodologies and tools for the semi-automatic construction of ontologies and workflow models. The activities will focus on the use of Natural language techniques to extract dynamic entities from text (e.g., activities) and their relations (e.g., causal or temporal relations), and on the development of NLP methodologies, techniques and tools for the construction of conceptual models in the form of ontologies and processes. 
+The candidates are expected to work in collaboration with other researchers, programmers, and students involved in the project in an interdisciplinary team, and to collaborate with the research units involved in the project, in particular the Data and Knowledge Management (http://dkm.fbk.eu) and the Human Language Technology (http://hlt.fbk.eu) research units at FBK-ICT.
+
+JOB REQUIREMENTS:
+•	Ph.D. degree in computer science, mathematics or electronic engineering;
+•	Theoretical background in Natural Language Processing, particularly in information extraction;
+•	Experience with machine learning, knowledge representation and knowledge engineering;
+•	Skills in experimental work and software development; 
+•	Ability to carry out an independent program of research; 
+•	Ability to work in a collaborative environment and deliver in research projects; 
+•	Oral and written proficiency in English.
+
+OPTIONAL REQUIREMENTS: 
+•	Ph.D. related to the topic of the call;
+•	Experience with practical applications;
+•	Soft skill (e.g., communication, teambuilding, problem solving, etc.) 
+
+EMPLOYMENT:  
+Type of contract: Research position - Full time
+Number of positions: 1 
+Gross salary: from 35.000 to 38.000,00 Euro per year  (depending on the candidate’s experience)
+The salary is paid in monthly deferred installments.
+Start date: from April 2013
+Duration: up to 3 years
+Workplace: via Sommarive 18 - Povo, Trento (Italy)
+
+APPLICATION:
+To apply online, please send your detailed CV (pdf. format) including a statement of interest and the contacts of three reference persons. Please include in your CV your authorization for the handling of your personal information as per the Italian Personal data Protection Code, Legislative Decree 196/2003 and send a copy of your ID card. To the application, the applicant must also attach his/her Ph.D. Certificate and a list of any publications, certificates or other qualifications (if any) considered relevant for assessing the candidate’s abilities in relation to this Call.
+
+Please note that in the application the candidate must declare clearly, precisely and under his/her own responsibility, the following:
+•	Personal information: date and place of birth, nationality, residence and contact address during the selection procedure (i.e., specifying postal code, Italian Tax Identification Number and/or National Insurance Number and, if possible, telephone number);
+•	Citizenship: applicants who are citizens of a Country that is not a European Union Member State must have already possess or at least requested a Work Residence Permit. This requirement is not mandatory for the current application, but if the Residence Permit or related requests are not presented when the contract will be stipulated all the related rights will be forfeited;
+•	Post-graduate Degree: MSc, Laurea Quadriennale, Laurea Specialistica, or Laurea Magistrale;
+•	Doctoral Degree.
+
+Applications must be sent to ufficiorisorseumane@trentorise.eu.
+Emails should have the following reference code: NT_SHELL_PostDoc2012
+
+Application deadline: 21.02.2013 (by 12.00 p.m.)
+Only applications received before the aforementioned deadline will be considered.
+
+For further information, please contact the Human Resources Service at the above-mentioned email address
+Trento RISE and FBK-ICT will not be held responsible for information dispersion due to inaccurate residence details or other personal details given by the candidate, or due to lack of or late communication of any changes to such details, nor will it be held responsible for any postal or telegraphic errors not attributable to the above-mentioned bodies.
+
+SELECTION PROCEDURE:
+The Selection Committee consists of three members of Trento RISE, FBK_ICT, and the University of Trento, chosen among senior researchers.
+The assessment of the Commission will be based on the value of the candidate’s scientific production (e.g., Doctoral thesis; Publications).
+Those candidates who will pass the preliminary curricula screening will be contacted shortly for an interview. Candidates invited to interview will be asked to arrange for their referees to provide a reference to us by the interview date. Those applicants, who will not be selected, will be notified of the exclusion at the end of the selection process.
+Due to Trento RISE and FBK-ICT attempt to promote equal opportunity and gender balance, in case of equal applications, female candidates will be given preference.
+
+Please note that Trento RISE and FBK-ICT may contact those candidates admitted to evaluation within a period of 6 months for selection of similar vacancies.
+The candidates, at their own expense and within six months of the completion of the selection, shall arrange for the collection of their certificates and any publications sent to the Trento Rise and FBK-ICT. Beyond the deadline above mentioned, the Association will not be responsible in any way for the candidate’s aforementioned documents.
+For transparency purposes, the names of the selected candidates, if they have accepted the position, will be published on the Trento Rise and FBK-ICT websites at the bottom of the selection notice.
+:
+The Selection Committee consists of three members of Trento RISE, FBK-ICT, and the University of Trento, chosen among senior researchers.
+The assessment of the Commission will be based on the value of the candidate’s scientific production (e.g., Doctoral thesis; Publications).
+Those candidates who will pass the preliminary curricula screening will be contacted shortly for an interview. Candidates invited to interview will be asked to arrange for their referees to provide a reference to us by the interview date. Those applicants, who will not be selected, will be notified of the exclusion at the end of the selection process.
+Due to Trento RISE and FBK-ICT attempt to promote equal opportunity and gender balance, in case of equal applications, female candidates will be given preference.
+
+Please note that Trento RISE and FBK-ICT may contact those candidates admitted to evaluation within a period of 6 months for selection of similar vacancies.
+The candidates, at their own expense and within six months of the completion of the selection, shall arrange for the collection of their certificates and any publications sent to the Trento Rise and FBK-ICT. Beyond the deadline above mentioned, the Association will not be responsible in any way for the candidate’s aforementioned documents.
+For transparency purposes, the names of the selected candidates, if they have accepted the position, will be published on the Trento Rise and FBK-ICT websites at the bottom of the selection notice.

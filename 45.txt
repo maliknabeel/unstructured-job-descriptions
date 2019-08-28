@@ -1,0 +1,28 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2013-01/1357926104.html
+
+Posted Date:11-Jan-2013
+
+Posted By :Sunil Prabhakar
+
+Job Description:
+
+A postdoctoral position is available starting immediately in the Department of Computer Science at Purdue University, 
+under the supervision  of Prof. Sunil Prabhakar.  The position is limited term and can be extended for one or more 
+additional years by mutual consent. 
+
+Individuals with research interests in the areas of data management, including big data, data security and privacy, uncertain 
+databases, and graph databases are invited to submit applications. Applicants should have clearly demonstrated skills and research experience
+in the area of databases.  
+Responsibilities include research on the projects, helping prepare proposals, publications, and working with graduate students. Teaching responsibilities are optional.  
+
+Review of applications will begin immediately and will continue until the position is filled.  Evaluation of each 
+applicant's suitability will be made through records of accomplishments in the applicant's CV, selected publications, 
+and references. 
+
+Applicants should submit a CV, links to selected publications, and the contact information for three 
+evaluators  to (email is preferred):
+
+Ms. Nicole Piegza ATTN: Postdoc Position
+Email: piegza@cs.purdue.edu
+
+Purdue University is an equal-opportunity employer. 

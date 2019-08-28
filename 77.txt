@@ -1,0 +1,91 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-12/1355575558.html
+
+Posted Date:15-Dec-2012
+
+Posted By :Abraham Bernstein
+
+Job Description:
+
+The Dynamic and Distributed Information Systems Group is looking for 
+multiple
+
+    Research Doctoral Students
+
+with a keen interest in at least one the the following areas
+
+    - Large-scale Graph Processing
+    - Human Computation / HCI
+    - Semantic Web / Linked Data
+    - Economics of Computing
+    - Social Network Analysis 
+
+to work on a number of new and existing research projects (including 
+ViSTA-TV [1], CrowdLang [2], Signal/Collect [3]).
+
+We offer:
+
+    - motivated colleagues [4] who are passionate about research
+    - a work environment that is well equipped with the newest 
+      hardware and software technology
+    - a salary according to the standard university regulations 
+      ( > 45'000 - 57'000 CHF / year; increases with experience)
+    - support for your personal development and career planning
+    - an attractive work environment both within the research group 
+      and beyond (Zurich is repeatedly voted the city with the highest
+      standard of living in the world)
+    - A highly successful PhD program [5] with graduates at top rated
+      institutions world-wide 
+
+You will be collaborating in a larger research team consisting of the Dynamic 
+and Distributed Information Systems Group (DDIS; http://www.ifi.uzh.ch/ddis/) 
+headed by Prof. Abraham Bernstein [6], which is part of the Department of 
+Informatics [7] of the University of Zurich [8]. The group is active in 
+International and Swiss National research projects and we are looking for 
+candidates to help us continue these efforts.
+
+You have:
+
+    - a master's degree in informatics, computer science, information 
+      systems (or an equivalent university study)
+    - expertise in database systems, Semantic Web / Linked Data, HCI, 
+      social network analysis, or econimics 
+      (note: only expertise in one of the fields is necessary; 
+       multiple areas is desirable)
+    - good programming skills in several languages
+    - an interest in applying computer science research to real-world 
+      problems
+    - excellent command of English
+    - German is a plus but not required 
+
+If you are interested:
+
+Send your application (including CV, final grades, and - if possible - 
+thesis copy as a PDF or ZIP archive containing PDFs) via e-mail to:
+
+  Prof. Abraham Bernstein, Ph.D.
+  Department of Informatics
+  University of Zurich, Switzerland
+  http://www.ifi.uzh.ch/ddis/people/bernstein/
+  Email: ddisjobs "at" lists "dot" ifi "dot" uzh "dot" ch
+  
+Applications are reviewed on a continuous basis, but please do not submit
+later that January 15, 2013.
+
+The University of Zurich is committed to enhancing the number of women in 
+scientific positions and, therefore, particularly invites women to apply. Women 
+who are as qualified for the position in question as male applicants will be 
+given priority. 
+
+This add is available in HTML with active links at: http://www.ifi.uzh.ch/ddis/jobs.html
+
+
+Links:
+
+ [1] http://vista-tv.eu/
+ [2] http://www.ifi.uzh.ch/ddis/research/CrowdLang.html
+ [3] http://code.google.com/p/signal-collect/
+ [4] http://www.ifi.uzh.ch/ddis/people.html
+ [5] http://www.ifi.uzh.ch/teaching/studiengaenge/phd.html
+ [6] http://www.ifi.uzh.ch/ddis/people/bernstein/
+ [7] http://www.ifi.uzh.ch/
+ [8] http://www.uzh.ch/

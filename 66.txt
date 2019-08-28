@@ -1,0 +1,22 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-12/1356070697.html
+
+Posted Date:21-Dec-2012
+
+Posted By :Tina Eliassi-Rad
+
+Job Description:
+
+Postdoc Position in Social Network Mining and Analysis (SNMA) at Rutgers University
+
+A postdoctoral position is available for an outstanding individual to conduct research on social network mining and analysis. The project involves research on the formation and evolution of roles (i.e. functions of persons) in social networks. Activities include development of formal models of roles in social networks and development of efficient algorithms for role detection and dynamics. The mentor for this position is Professor Tina Eliassi-Rad.
+Qualifications: 
+A recent Ph.D. in Computer Science, Information Science, Statistics, or related fields.
+Expertise in data mining and machine learning with applications on social network (or social media) analysis.
+Strong programming skills in Java, Python, and/or MATLAB.
+Salary is commensurate with experience. 
+
+Duration: One year with the possibility of renewal for a second year. 
+
+Deadline: February 1, 2013.
+
+Please send a CV, short research statement, and list of references to eliassi@cs.rutgers.edu; and be sure to include the string "SNMA" at the beginning of your subject line.

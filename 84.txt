@@ -1,0 +1,24 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-12/1354900597.html
+
+Posted Date:07-Dec-2012
+
+Posted By :Marlon Dumas
+
+Job Description:
+
+Postdoc Position in Spatio-Temporal Data Mining
+Software Technology and Applications Competence Centre
+
+The Software Technology and Applications Competence Centre (http://www.stacc.ee) is a research organisation dedicated to conducting innovative industry-driven research in the fields of software engineering and data mining. The centre brings together a consortium of nine companies and two universities: University of Tartu and Tallinn University of Technology.
+
+The centre is soliciting applications for a Postdoctoral Researcher position in the field of spatio-temporal data mining. The successful candidate will work in a project involving Reach-U (www.reach-u.com), a rapidly growing technology provider specialized in location-based services. The aim of the project is to develop techniques for real-time mining of streams of mobile positioning data produced at rates of hundreds or thousands of events per second.
+
+The successful candidate will have a PhD in a relevant field and previous research experience in at least one the following topic areas: spatio-temporal data mining, moving objects databases or location-based services. Experience in industry-linked research projects and willingness to contribute to industry transfer of research outputs are highly desirable.
+
+The position will be fixed-term for two years, renewable depending on the success of the project. The gross monthly salary range is EUR 2500 to 3000 depending on experience and track record. The starting date is negotiable but no later than mid-2013. The position will be based in Tartu, Estonia.
+
+Applications should include a CV, list of publications and a statement outlining the candidate's previous and/or ongoing research experience in the topic areas cited above. Applications and enquiries should be submitted  by e-mail to jobs [Št] stacc.ee with the subject line "Postdoc Position in Spatio-Temporal Data Mining". Enquiries can be directed to jaak dot vilo  [Št] ut.ee
+
+For further information, visit http://www.stacc.ee/jobs
+
+The deadline for applications is 15 January 2013.

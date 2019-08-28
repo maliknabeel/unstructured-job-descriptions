@@ -1,0 +1,30 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2013-01/1358786647.html
+
+Posted Date:21-Jan-2013
+
+Posted By :Kjetil Norvag
+
+Job Description:
+
+The Norwegian University of Science and Technology (NTNU) in Trondheim, Norway, is offering a PhD position as part of the centre on Information Access Disruptions (iAD). Partially funded by the Research Council of Norway as a Centre for Research-based Innovation (SFI), iAD is directed by Microsoft Development Center Norway (MDCN) in collaboration with NTNU and a number of leading universities.
+ 
+Information access technology has emerged as one of the most innovative technology areas impacting a wide range of industries, business models and even social patterns. As part of iAD, the Norwegian University of Science and Technology (NTNU) wants to employ a PhD student within one of the following target areas: 
+
+1. Big data analysis.
+2. Large-scale analytical query processing.
+3. Temporal and spatial search and indexing.
+ 
+Specific Conditions: The appointment is at salary code 1017, which currently corresponds to a yearly gross income of NOK 416.300 (equivalent to approx. EUR 55.500 and USD 75.000).
+
+Our group is highly international and English is the working language.
+
+Further information on the fellowship can be obtained from Professor
+Kjetil Nørvåg (noervaag at idi.ntnu.no). 
+ 
+For more detailed information about the research group, see:
+http://www.idi.ntnu.no/grupper/dif/
+ 
+For the full announcement and application instructions see 
+http://www.jobbnorge.no/job.aspx?jobid=89908
+
+Closing date: 2013-02-15

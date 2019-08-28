@@ -1,0 +1,69 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2013-01/1358777451.html
+
+Posted Date:21-Jan-2013
+
+Posted By :Pradeep Madhavarapu
+
+Job Description:
+
+Systems Developer at Amazon Web Services - NextGen database, storage, cloud computing: Palo Alto, CA
+
+
+Join us to design and build a database fundamentally designed for the cloud.
+
+
+Cloud computing is a paradigm shift for technology today. 
+There are a lot of interesting systems challenges that need to be solved for 
+building a database fundamentally designed for the cloud. As a member of 
+AWS Database Services, you'll have the rare opportunity to shape fundamental 
+components in an area with high business impact. 
+
+
+Amazon Web Services Database Services team is looking for bright students
+enthusiastic about systems development as well as experienced technical 
+experts in relational databases and storage systems. We have multiple open 
+positions at all levels from entry level to a senior architect level.
+These are core systems development positions where you will own the design 
+and development of significant systems software components critical to our  
+database services architected for the cloud. 
+
+This is a hands on position where you will be asked to do everything from 
+building rock-solid components to mentoring other engineers. 
+A sampling of areas and technologies involved: Database systems, 
+RDBMS internals, virtualized storage, cloud, distributed systems, 
+C/C++, Java, Linux, Unix operating systems.
+
+
+In joining our team, you'll enjoy the best of both worlds: a fast moving 
+environment of a startup where you can have a huge impact plus a very 
+competitive salary and great benefits of a large company. We have open
+positions in Palo Alto, CA and Seattle, WA. For more information on 
+Amazon Web Services please visit: http://aws.amazon.com
+
+
+
+Please contact "pradeep-madhavarapu AT amazon.com" for more information.
+
+
+
+
+
+Amazon Web Services (AWS) provides companies of all sizes with an 
+infrastructure web services platform in the cloud. With AWS you can 
+requisition compute power, storage, and other services, gaining access 
+to a suite of elastic IT infrastructure services as your business demands 
+them. AWS is the leading platform for designing and developing applications 
+for the cloud, has over 400,000 third party developers writing applications 
+for the platform and is currently used by leading companies like 
+New York Times, Netflix and NASA/JPL. See details at http://aws.amazon.com.
+
+Database Services team within AWS is responsible for setting the database 
+strategy and delivering distributed structured storage services to 
+AWS customers for the relational and the non-relational database segments. 
+This team delivers many services today such as 
+RedShift (http://aws.amazon.com/redshift), RDS (http://aws.amazon.com/rds/), 
+AWS DynamoDB (http://aws.amazon.com/dynamodb/) 
+and AWS ElastiCache (http://aws.amazon.com/elasticache/).
+We believe that both AWS and Database Services business are in their infancy. 
+Over the next few years, together they will represent a very large business 
+for Amazon.

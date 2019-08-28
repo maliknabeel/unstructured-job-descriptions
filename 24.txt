@@ -1,0 +1,17 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2013-01/1358929751.html
+
+Posted Date:23-Jan-2013
+
+Posted By :Mukesh Mohania
+
+Job Description:
+
+IBM Research - India
+
+IBM Research - India lab located in New Delhi and Bengaluru, India, is one of IBM's eight research laboratories. Its mission is to conduct research in coordination with other IBM business units to deliver innovation to IBM product and services offerings.
+
+IBM Research - India seeks both fresh and experienced applicants with a Ph.D. in CS, EE, or related areas with an exceptional track record as demonstrated by publications or patents. Candidates with core expertise in the areas of Information Management, particularly, in Information Integration, Business Intelligence, Database Systems, Data/Text Mining, Information Retrieval, Distributed Databases, Large-scale Analytics, Social Media Analytics, and Big Data platforms are strongly encouraged to apply. We are also looking for candidates with expertise in developing large-scale information management applications in verticals such as finance, wireless and telecom services, and customer relationship management. Strong passion for applied research and good teaming skills are essential. 
+
+For information about ongoing projects at IRL please visit http://www.research.ibm.com/irl
+
+Interested candidates should send their resume to Mukesh Mohania (mkmukesh@in.ibm.com)

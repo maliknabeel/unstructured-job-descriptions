@@ -1,0 +1,75 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2013-01/1358848762.html
+
+Posted Date:22-Jan-2013
+
+Posted By :Fran�ois Charoy
+
+Job Description:
+
+                                                                     
+                                                                     
+                                                                     
+                                             
+The Inria Nancy - Grand Est research center invites applications for 3 tenured junior researcher positions (CR2). We are particularly interested in developing the following research topics:
+
+   * Impact of Internet and computer security issues on everyday life
+   * Image, robotics and instrumentation for health and assistance to dependent people
+   * Coupling and integrating methods for advanced solving in numerical engineering
+   * Knowledge modeling for the design of individualized educational software
+
+However, all outstanding applications will be considered and thoroughly evaluated. The application deadline is ** February 18, 2013 **.
+
+Research must be carried out within one of the existing research teams of Inria Nancy - Grand Est, see
+
+     http://www.inria.fr/en/research/research-teams/find-a-team/(center)/1166 or
+     http://www.inria.fr/en/centre/nancy/research
+
+Candidates are expressly invited to contact the leader of the team in which they want to apply.
+
+Among the features of the competition:
+
+   * Candidates must hold a PhD or an equivalent degree.
+   * The competition being tough, one to two years of postdoctoral research experience is a significant plus.
+   * Inria welcomes and encourages applications of foreign candidates. Proficiency in French is not required.
+   * Inria promotes scientific excellence as well as software development and transfer of technology and knowledge.
+
+For more and to download application file, please visit
+
+     http://www.inria.fr/en/institute/recruitment/offers/young-graduate-scientist/competitive-selection-2013
+
+Candidates looking for additional information about the competition or Inria Nancy - Grand Est should contact
+
+     Michael Rusinowitch  or Sylvain Petitjean 
+
+--------------------------------------------------
+
+Le centre Inria Nancy - Grand Est lance un appel �  candidatures pour 3 postes de chargés de recherche 2ème classe (CR2). Nous souhaitons tout particulièrement développer les thèmes de recherche suivants :
+
+   * Impact dans la vie quotidienne des enjeux de la sécurité informatique
+   * Image, robotique et instrumentation pour la santé et l'aide �  la dépendance
+   * Couplage et intégration de méthodes pour la résolution avancée en ingénierie numérique
+   * Modélisation de connaissances pour la construction de logiciels éducatifs adaptés �  l'apprenant
+
+Cependant, toutes les candidatures excellentes seront examinées et évaluées en détail. La date limite de dépôt des dossiers est fixée au ** 18 février 2013 **.
+
+La recherche devra être menée dans une des équipes de recherche d'Inria Nancy - Grand Est, cf.
+
+     http://www.inria.fr/recherches/equipes-de-recherche/rechercher-une-equipe/(center)/1166 ou
+     http://www.inria.fr/centre/nancy/recherche
+
+Les candidats sont expressément invités �  entrer en contact avec le responsable de l'équipe dans laquelle ils souhaitent s'insérer.
+
+Parmi les points saillants du concours, mentionnons :
+
+   * Les candidats doivent détenir un doctorat d'université ou diplôme équivalent.
+   * Le concours étant relevé, une ou deux années d'expérience postdoctorale est un plus significatif au dossier.
+   * Inria accepte et encourage les candidatures étrangères. La maîtrise du français n'est pas un pré-requis.
+   * Inria met l'accent non seulement sur l'excellence scientifique mais aussi sur le développement logiciel et le transfert de technologie et de connaissances.
+
+Pour des informations plus détaillées et pour télécharger le dossier de candidature, rendez vous sur le site
+
+     http://www.inria.fr/institut/recrutement-metiers/offres/charges-recherche-2e-classe/concours-2013
+
+Les candidats désirant des informations supplémentaires �  propos du concours ou du centre Inria Nancy - Grand Est doivent contacter
+
+     Michael Rusinowitch  ou Sylvain Petitjean 

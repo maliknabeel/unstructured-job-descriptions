@@ -1,0 +1,17 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-12/1355307370.html
+
+Posted Date:12-Dec-2012
+
+Posted By :Wee Keong Ng
+
+Job Description:
+
+Research Fellowships in Big Data
+
+The School of Computer Engineering at Nanyang Technological University, Singapore, invites applications for post-doctoral / research fellow positions in the area of Big Data, with focus on diverse topics of analysis, visualization, management, load provisioning, and more, to add to the School¡¯s efforts in the broad areas of healthcare, security, urban living, and sustainability. 
+
+Faculty members of the Data Analytics group at the School of Computer Engineering work on a variety of topics in data mining, data storage and query processing, question & answering systems, social media data extraction and summarization, graph-based data, spatio-temporal data, stream data, and more.  It runs a 300-server modular data center to support its research and experimentation efforts on Big Data.  
+
+The School of Computer Engineering offers a collegial environment with opportunities for interaction with world class researchers in hardware and embedded systems, information and cyber security, data analytics, computational intelligence, visual and interactive computing, network and distributed systems.  The university was recently ranked the top organization ¡°in Asia/Oceania in the area of data mining in terms of H-index in the last 5 years¡± by Microsoft Academic. 
+
+To apply, please submit as a single PDF file a current CV, research statement, at least two sample reprints of relevant publications in Big Data, and contact information of three referees to awkng@ntu.edu.sg.

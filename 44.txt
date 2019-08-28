@@ -1,0 +1,37 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2013-01/1358093482.html
+
+Posted Date:13-Jan-2013
+
+Posted By :Torben Bach Pedersen
+
+Job Description:
+
+In the Department of Computer Science at Aalborg University, Denmark, a number of associate and assistant professor positions are available. 
+Applicants are sought within all the department's research areas.
+
+The database research faculty in Center for Data-Intensive Systems, Daisy, primarily conduct research in the areas temporal and spatio-temporal databases, 
+mobile services, data warehousing, and business intelligence. According to international evaluations, the research performance places Daisy among 
+the world leaders in its core areas.
+An overview of the research currently performed at Daisy can be found in the December 2012 issue of SIGMOD Record. 
+
+Additional information:
+
+Associate professor announcement: http://www.vacancies.aau.dk/show-vacancy/?vacancy=549683 
+Assistant professor announcement: http://www.vacancies.aau.dk/show-vacancy/?vacancy=549675 
+
+FIRM deadlines: 
+- February 1, 2013 (associate professor)
+- March 1, 2013 (assistant professor)
+
+
+Please read the announcement carefully and follow the instructions there. Applications via email will not be considered. 
+
+The department offers office and computing facilities, secretarial support, and substantial support for travel. The teaching load is 
+relatively low: typically at most 30 lectures per year, in addition to project supervision. The area features relatively low cost of living, 
+clean air, beautiful forests and beaches, and very good transportation infrastructure.
+
+The department: http://www.cs.aau.dk
+
+Daisy: http://daisy.aau.dk
+
+For further information, contact: Professor Torben Bach Pedersen (tbp "-at-"cs.aau.dk). 

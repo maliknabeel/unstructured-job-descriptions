@@ -1,0 +1,31 @@
+URL :http://research.cs.wisc.edu/dbworld/messages/2012-12/1355774137.html
+
+Posted Date:17-Dec-2012
+
+Posted By :Hua Liu
+
+Job Description:
+
+The Xerox Research Center at Webster is seeking researchers in the area of services computing and social analytics. 
+The applications for the position need to have a strong background including but not limited to specialization in 
+one or more related areas such as graph algorithms, distributed systems (SOA), workflow languages/tools and QoS 
+analysis. The applicant must demonstrate the state of the art knowledge and strong interest in the emerging field 
+of services computing. Hands-on experience with data mining tools is a plus. Applicants should also have strong 
+skills in software engineering. 
+
+This position will provide opportunities to contribute innovative ideas and concepts to the development of new 
+and experimental systems; to file patents; to publish results in refereed conferences and journals; and to impact 
+Xerox products and services.
+
+Role/Responsibilities:
+•	Analyze the user and service networks to enable intelligent service/workflow discovery and composition
+•	Analyze the social effects on service discovery and usage
+•	Develop research prototypes
+
+Requirements:
+•	A successful applicant should have a Ph.D. in computer science related field or demonstrate equivalent work 
+        experience, and should have demonstrated a strong publication record
+•	Should have strong algorithm knowledge
+•	Hands-on experience using Java, Web Services, OO development
+•	Ability and experience of searching, using and modifying relevant open source software/tools
+•	Strong written and verbal communication skills
