@@ -1,0 +1,12 @@
+job_id : 0b5ccc981254ae66         
+businesscategory_name : 
+title : Information Technology Project Manager
+start_date : 
+description: The Penn State Justice and Safety Institute (JASI) is looking for a highly motivated and creative individual to become an integral member of the Program Development and Support Services team as an IT Project Manager for the Pennsylvania Child Support Enforcement Training Institute (PACSETI). This individual will be expected to work cooperatively with the teams responsible for designing, deploying, and maintaining online course materials and systems. The successful candidate must coordinate and manage software and course development in accordance with project requirements; organize team resources; and coordinate projects across units throughout Penn State and with outside vendors. The successful candidate will be a self-starter who can work independently with little supervision, and also as part of a team. The successful candidate should have excellent communication, leadership, and time management skills as well as knowledge of systems and processes used in the delivery of online courses. This job will be filled as a level 1, or level 2, depending upon the successful candidate's competencies, education, and experience. Typically requires an Associate's degree or higher or an equivalent combination of education and experience for a level 1. Additional experience and/or education and competencies are required for higher level jobs. Candidates with experience in course design, development, and delivery services preferred. Excellent verbal and written communication skills, collaboration skills, and effective teamwork are essential. This is a fixed-term appointment funded for one year from date of hire with excellent possibility of re-funding. We seek candidates who are able to demonstrate experience and ability to advance Outreach's diversity initiative. 
+company_name : Penn State University Penn State University  Penn State University
+city : University Park, PA University Park, PA Chambersburg, PA University Park, PA
+jobtype : 
+positions : 
+tags : 
+state : 
+      

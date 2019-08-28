@@ -1,0 +1,12 @@
+job_id : 3b7d0383c31def65         
+businesscategory_name : 
+title : IT Specialist GS-2210-07/09
+start_date : 
+description: Serves as the VA Southern Nevada Healthcare System, Office of Information and Technology (OI&T) support specialist between VHA and OI&T for accounts management, inventory management, and technical support for various applications and systems. - Provides information and assistance to customers on using installed systems. - Maintains new, disable and permission user accounts and folders. - Maintains inventory of OI&T equipment and software in AMES/MERS. - Monitoring the availability and functionality of applications and systems. -Detecting and reporting problems. -Participating in testing and installing systems modifications and upgrades. -Participating on teams responsible for implementing major systems changes. -LOCATION: Southern Nevada Healthcare System, Las Vegas NV -DUTY HOURS: 7:30 am to 4:00 pm, Monday-Friday -PD #: 043840/043850 -Relocation/Recruitment Incentives ARE NOT authorized NOTE: This is a Career Ladder Position and the following conditions apply: (a) Selection does not guarantee promotion to the target grade (or any intervening grade, if appropriate). (b) All legal and regulatory requirements for promotion to the next higher grade is dependent on the selectee's demonstration of the ability to perform the duties of that grade to the satisfaction of the supervisor and the availability of enough work at the next higher grade to support the target position. 
+company_name : Department of Veterans Affairs Air Force Acquisition
+city : Las Vegas, NV Nellis AFB, NV
+jobtype : 
+positions : 
+tags : 
+state : 
+      

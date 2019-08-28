@@ -1,0 +1,12 @@
+job_id : 2da83d3193d746c6         
+businesscategory_name : 
+title : Customer Service Support Desk Technician
+start_date : 
+description: Job Description Identify the right growth opportunities...We help identify the most commercially attractive growth opportunities in a market through consumer market segmentation, organise your brand portfolio to maximum effect and isolate the best opportunities for core and incremental growth. We call it GrowthFinder. This position will ensure customer satisfaction and facilitate smooth operation of the system by providing timely and accurate tier 2 and 3 level support to the IT department, operations and helpdesk. You will manage software inventory and work with vendors on support and renewals, assist peers with issue resolutions and support telephony applications such as voicemail and phone configurations. This position will also work as a liaison between helpdesk and other areas within IT and participate in IT meetings. Your goal in all activities will be to provide an effortless service experience. Requirements 1. Knowledge of Microsoft Operating systems required, as well as a familiarity with helpdesk processes. 2. Must have the ability to prioritize and complete multiple jobs simultaneously. 3. Must have excellent customer service and communication skills. 4. Possess problem solving and decision making skills. 5. Ability to work well with coworkers and staff. 6. Ability to work well independently and as part of team. Drive differentiation...We make brand positioning actionable. We believe personality turns good products into great brands. So we don’t just define what your brand does, we also bring to life its unique brand character to guide and inspire marketing decisions about your brand's behaviour and what it should do next. Ask for BrandSum. Qualifications null Additional Information null 
+company_name : Pontus Technology Time Warner Cable FirstService Residential Compucom
+city : Long Beach, CA Costa Mesa, CA Irvine, CA Los Angeles, CA
+jobtype : 
+positions : 
+tags : 
+state : 
+      

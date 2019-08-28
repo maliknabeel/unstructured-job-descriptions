@@ -1,0 +1,12 @@
+job_id : 1db4816f77feed26         
+businesscategory_name : 
+title : Software Engineer Intern
+start_date : 
+description: As a trusted systems integrator for more than 50 years, General Dynamics Information Technology provides information technology (IT), systems engineering, professional services and simulation and training to customers in the defense, federal civilian government, health, homeland security, intelligence, state and local government and commercial sectors. With approximately 28,000 professionals worldwide, the company delivers IT enterprise solutions, manages large-scale, mission-critical IT programs and provides mission support services. GDIT is an Equal Opportunity/Affirmative Action Employer - Minorities/Females/Protected Veterans/Disabled 1. Performs routine technical tasks in support of engineering, information systems, or related technical operations. 2. May install, maintain and operate computers and peripheral equipment. 3. May fabricate, install, and repair electronic or mechanical equipment. 4. May perform basic systems and/or software testing. 5. Participates in special projects as required. 1. Requires a High School Diploma. 2. Must be a currently enrolled, full time college student. 0-1 years of related experience supporting engineering, information technology or other technical operations. Knowledge and experience with developing systems using PL/SQL and Oracle databases Experience developing and executing Quality Assurance plan Experience writing technical specification, design documents and testing plan Experience with COBOL and SAS a plus Data warehouse and Star Schema experience a plus Data Modeling and ERwin experience a plus Medicaid and Medicare claims experience a plus Ability to follow technical requirements and documents. Ability to develop technical specification, design documents and testing plan. Ability to follow standards. 
+company_name : General Dynamics - IT National Older Worker Career Center
+city : West Des Moines, IA Des Moines, IA
+jobtype : 
+positions : 
+tags : 
+state : 
+      

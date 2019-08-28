@@ -1,0 +1,12 @@
+job_id : 0b89e430bc276f5f         
+businesscategory_name : 
+title : IT SPECIALIST
+start_date : 
+description: The Florida Museum of Natural History is seeking two IT Specialist positions. These positions will be responsible for all FLMNH computing help desk activities. They will be required to perform all aspects of desktop computer support in a networked environment. These positions will function as part of a team that provides desktop support to more than 486 Windows and Apple computers and peripherals. These positions will maintain technical documentation and are required to lift and carry equipment weighing up to 40 pounds. We have a casual work environment. All individuals are expected to manage their own workloads without close supervision. These positions will be expected to interact as a peer with the rest of the IT staff and must be able to make and implement decisions that may affect the web site and computing at the museum. Must be able to initiate new projects and lead them to 100% completion. A+, MCDST , or other approved certification to be completed within first nine months of employment. Proficiency in: - Troubleshooting, repairing, and upgrading computer hardware and software - Contacting vendor technical support for fast and efficient problem resolution - Current Microsoft and Apple operating systems for desktops, laptops and other peripherals - Remote administration tools - Microsoft Active Directory Minimum Requirements: A high school diploma and three years of any combination of relevant experience, education and/or certification. This is a time limited position. Preferred Qualifications: Preferred additional skills: - Techniques for removal of Spyware, Adware, and malicious software - Highly developed problem-solving and troubleshooting skills - Working knowledge of basic networking technology - Use of disk imaging tools and concepts - Knowledge of anti-virus management tools - Knowledge of best practices for Computer Workstation security - Ability to think independently while functioning as part of a team Health Assessment Required: Yes Special instructions to applicants: 
+company_name : University of Florida University of Florida Books-A-Million Occidental Petroleum
+city : Gainesville, FL Gainesville, FL Gainesville, FL Midland, TX
+jobtype : 
+positions : 
+tags : 
+state : 
+      

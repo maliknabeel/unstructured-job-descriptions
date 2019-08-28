@@ -1,0 +1,12 @@
+job_id : 2fda5c4224c82483         
+businesscategory_name : 
+title : Information Systems Analyst
+start_date : 
+description: Job Description Job Title: Information Systems Specialist Dept/ Work Area: Information Systems Rate: Rate: Commensurate with Experience GENERAL DESCRIPTION Maintaining all information systems including set up, testing and implementing new processes, training employees, report writing, extracting and verifying information as needed. Analyze procedures, processes and problems to automate or improve the ERP system. PRIMARY DUTIES/RESPONSIBILITIES Duties will include data entry, analyzing existing data for consistency, insuring that procedures are being followed in regard to data being entered/recorded by the ERP system. Coordinate reporting to various internal and external customers. Setting up basic data in ERP system. Testing, verifying and documenting new and existing procedures. Provide proactive and responsive support for user community. Identify problems and learn specific requirements of user needs. Develop and nurture relationships with users to understand their needs and specific issues. Write detail descriptions of user needs, program functions and steps required to develop or modify computer program. Prepare workflow charts and diagrams to specify in detail, operations to be performed by personnel in system. Assist in resolution of work problems related to flow charts, project specifications or programming. Plan and prepare technical reports, memoranda, and instructional manuals as documentation of program development. Assist in system upgrades, identify and enter basic data, test and correct errors in implementation of ERP system. Prepare time and cost estimates for projects. Train users on software and equipment usage. Ensure safety and housekeeping practices are followed. Comply with all Company policies and procedures. Care for Company assets. Perform duties as assigned. Qualifications 4 year degree in Computer Science or Information Systems. Additional Information Pepsi MidAmerica is an Equal Opportunity Employer. 
+company_name : Pepsi MidAmerica
+city : Marion, IL
+jobtype : 
+positions : 
+tags : 
+state : 
+      

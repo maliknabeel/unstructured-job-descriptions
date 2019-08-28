@@ -1,0 +1,12 @@
+job_id : 0e2fb50a583e2b47         
+businesscategory_name : 
+title : IT Purchasing Clerk
+start_date : 
+description: Working directly with the IT Purchaser, the purchasing clerk will perform clerical work in the IT procurement department of AmTrust. They are responsible for preparing orders and reviewing them for accuracy. Duties will include checking stock and keeping records of what items should be ordered and when. This position will help with receiving the items when they are delivered. Basic Microsoft Office/Excel Computer Skills Attention to detail Strong Organizational skills Good Communications skills for interaction with vendors, accounting and internal IT techs Support day to day needs of IT department/equipment distribution Ability to take direction and respond to change quickly Prior shipping and ordering skills a plus Ability to lift 40lbs+ 
+company_name : AmTrust North America
+city : Cleveland, OH
+jobtype : 
+positions : 
+tags : 
+state : 
+      

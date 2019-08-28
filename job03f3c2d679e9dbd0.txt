@@ -1,0 +1,12 @@
+job_id : 03f3c2d679e9dbd0         
+businesscategory_name : 
+title : IT Nursing Systems Analyst I
+start_date : 
+description: Associates Degree Preferred 2-4 years experience required Job Summary: Assists with project planning, analysis, design, build, implementation, testing, maintenance and support of enterprise Information Technology systems. Works within a team environment to improve processes through technology. Demonstrates the ability to learn and apply fundamental concepts, practices and procedures related to departmental operations. Clinical experience with nursing, respiratory therapy, medical assistant, critical care preferred. Knowledge of an advanced healthcare EMR, preferably Cerner Millennium, is essential. Excellent verbal and written communication skills and the ability to interact professionally with a diverse group, managers, and subject matter experts. On call required. All team members are expected to be knowledgeable and compliant with Palmetto Health’s values of compassion, dignity, excellence, integrity and teamwork. Responsibilities: Participates in conversations with vendors, management, peers and end users for effective issue resolution. Participates in project implementation, design, build, test, and maintenance of systems to support clinical and/or financial processes based on end-user needs. Monitors daily system activities and escalates issues appropriately. Assists with training documentation as needed to transition to support, both internal and external to IT. Collaborates with project lead/manager to ensure project and departmental goals are met. Works with teams to improve processes, system performance and looks for opportunities to automate processes and gain efficiencies. Able to resolve most system issues independently. Requirements: Education: Associate's Degree or equivalent work experience Experience: 2-3 years of experience in healthcare or related area License, Registry, Certification Required: Must maintain current licensure, certification, or registration if applicable Special Training: Proficiency with Microsoft Office products required. Understanding of clinical and/or financial processes preferred. EEO/AA Job 24753 Minorities/Females/Disabled/Veterans 
+company_name : Palmetto Health
+city : Columbia, SC
+jobtype : 
+positions : 
+tags : 
+state : 
+      

@@ -1,0 +1,12 @@
+job_id : 2ddcbea3d19c030f         
+businesscategory_name : 
+title : IT Engineering - Systems Analyst TS/SCI (With Poly) Required
+start_date : 
+description: Mandatory skills: 1) Demonstrated experience with environments like Solaris, Linux, HP-UX, and MS Windows. 2) Demonstrated experience with Apace, Tomcat, JBoss, Twister, Ant, Hudson, Nagios, and Web Services. 3) Demonstrated experience with Java, Ruby, Unix Shell, SQL, or Python. 4) Demonstrated experience with and strong written and communication skills; ability to communicate with senior management, as well as technical experts. 5) Demonstrated experience with and knowledgeable in computer systems and gathering/identifying requirements. 6) Demonstrated experience and knowledge of data management, and concepts, for example OLTPs, Data Warehouses, ETL, and simple SQL. 7) Demonstrated experience and ability to work in an Agile environment. Desired skills: 1) Experience with Sponsor and Sponsor Partner data. 2) Experience with teams using Agile development methodologies. 3) Understanding of most or all phases of the lifecycle. 4) Have at least 5 years of experience working within the Sponsor's Partners. 
+company_name : Aspiration Software LLC ManTech International Corporation TASC CRGT
+city : Reston, VA McLean, VA Herndon, VA Herndon, VA
+jobtype : 
+positions : 
+tags : 
+state : 
+      

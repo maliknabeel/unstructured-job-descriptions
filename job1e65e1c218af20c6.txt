@@ -1,0 +1,12 @@
+job_id : 1e65e1c218af20c6         
+businesscategory_name : 
+title : Information Technology Internship - Cleveland Browns
+start_date : 
+description: The Information Technology Intern is responsible for assisting the IT department with the organizations Help Desk calls, including user account management. This position will also be required to perform new PC installs, and cell phone management. This is a year-long 40 hour a week position. Major Duties and Responsibilities: Responding to and handling the organizations Help Desk calls to completion Following up on open help desk calls and verify their completion Backing up and re-imaging PC’s using Ghost™ Unlocking user accounts and resetting passwords Assisting with the support of hardware and software issues as they arise Add/Change cell phones and plans for company employees Printer supply management Other Duties as assigned Knowledge and Required Skills: Experience working with Microsoft Office 2010 and 2013 Technical experience supporting Microsoft Windows XP/7 and Apple OS X Ability to troubleshoot printer problems Basic knowledge of PC Hardware and troubleshooting hardware failures Experience using the Microsoft Management Console, and Active Directory Users and Computers plug-in Be able to lift at least 25 pounds Be detail oriented and have good communication skills Have good documentation skills and the ability to create documentation when needed Basic knowledge of computer networks (TCP/IP, DHCP, DNS) and Wi-Fi. 
+company_name : National Football League National Football League
+city : Cleveland, OH Berea, OH
+jobtype : 
+positions : 
+tags : 
+state : 
+      

@@ -1,0 +1,12 @@
+job_id : 2ed5f5cfee6e611d         
+businesscategory_name : 
+title : Junior Desktop Support Specialist
+start_date : 
+description: About MedSynergies, Inc. MedSynergies partners with health care organizations and physicians to improve the way healthcare is delivered in the communities they serve. Recently named one of the fastest growing companies in Dallas and one of the “five who will thrive” by the Dallas Business Journal, MedSynergies is a recognized national leader in revenue cycle management and hospital-physician alignment solutions. Junior Desktop Support Specialist Under close supervision, provides support to end users on a variety of issues to identify, research, and resolve technical problems. Position Responsibilities: Provide basic level support to solve technical issues through discussion with customer. Focus on first-call resolution of customer issues. Escalate issues based on such things as severity, case age or complexity. Document, track and monitor the problem to ensure a timely resolution. Updates users as to case status, next steps and expected completion. Perform other duties as assigned. Knowledge / Skills / Abilities: Working knowledge of PC applications and hardware configuration and troubleshooting. Strong customer service skills. Possess a strong work ethic and a high level of professionalism. A team player who handles multiple projects simultaneously in a fast paced environment. Qualifications (Required): High School diploma or General Education Development (GED) equivalent 1 year experience within desktop support environment with knowledge of computer hardware, applications (networks, printers) 1 year intermediate experience with Microsoft Office (Outlook, Excel, etc.) Qualifications (Preferred): Associate degree in related field Experience within the healthcare industry MSI is an equal opportunities employer; we value diversity at all levels of our organization. EOE/AA/M/F/D/V Required Skills Required Experience 
+company_name : MedSynergies Flexi Compras
+city : Irving, TX Dallas, TX
+jobtype : 
+positions : 
+tags : 
+state : 
+      

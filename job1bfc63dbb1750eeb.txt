@@ -1,0 +1,12 @@
+job_id : 1bfc63dbb1750eeb         
+businesscategory_name : 
+title : IT Unix Systems Administrator
+start_date : 
+description: Before people can get things done, they need building blocks and tools. This isn't your old desktop running Ubuntu, this is the real deal - big servers and plenty of them. You'll get them up and keep them running smoothly come hell or high water, and you'll know about high water because you put monitoring in place for it. You shake your head sympathetically as people inflict RSI on themselves while you busy yourself writing puppet modules and scripts to let the computers do the work for you and your customers. Want to come and re-define top notch for an operations team of talented administrators? Show us your stuff. Responsibilities Provision development, testing, staging, and production unix and support services - work with internal customers to size and deploy cloud and bare iron systems. Ensure reliability of operations - perform patching and maintenance operations, configure and monitor alerting and performance analysis tools Build and maintain development and staging environments for production systems Identify and repair operational deficiencies Script tools to automate common tasks Requirements 2-3+ years of experience with Unix systems administration (Linux preferred, in particular CentOS or RHEL) Experience with "rack and stack" - mounting and cabling server-class hardware Willing to participate in a 24x7 on-call rotation Strong organization, documentation, and communication skills Ability to work independently with minimum supervision Preferred Experience with systems provisioning tools such as kickstart and cobbler Experience with systems management tools such as puppet and SpaceWalk Experience with virtualization systems such as VMware or Xenserver Strong knowledge of common Unix-based applications and services (Apache, BIND, mysql, etc.) Good knowledge of TCP/IP networking Knowledge of one or more common scripting languages (shell, perl, python, ruby) TS/SCI security clearance or willingness to get cleared 
+company_name : Palantir Technologies NetApp SolarCity University of Florida
+city : Palo Alto, CA Sunnyvale, CA San Mateo, CA Gainesville, FL
+jobtype : 
+positions : 
+tags : 
+state : 
+      

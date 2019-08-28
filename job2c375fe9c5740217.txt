@@ -1,0 +1,12 @@
+job_id : 2c375fe9c5740217         
+businesscategory_name : 
+title : Network Engineer Entry Level
+start_date : 
+description: Be a part of a support team and serves on the Network Administration team. This position will provide support to the System and Network Administrators: monitoring and maintaining the current infrastructure improving system performance automating system administration Provide Tier 3 support for the team This team member will develop algorithms for models to support research and development of technologies and systems involving one or more of the following areas: traditional circuit switched networks data networks wireless systems Create modules representing traditional circuit switched networks Perform data captures to obtain network performance information. Provide input to the design of the organizations network and mission architecture. Education and Certification: Bachelors Degree from an accredited college or university in Network Engineering or related discipline and: Master’s degree in Network Engineering or related discipline and one (1) year of relevant professional experience providing Network Engineering support. OR Three (3) years of relevant professional experience and training commensurate with network engineering curriculums Must be a Cisco Certified Network Professional (CCNP) Four (4) years of relevant experience providing Network Engineering support may be substituted for a Bachelors degree (six years for a Master’s). 
+company_name : KGS Raytheon Mitchell Consulting Services Group Axom Technologies
+city : Maryland Annapolis Junction, MD Aberdeen, MD Fort Meade, MD
+jobtype : 
+positions : 
+tags : 
+state : 
+      

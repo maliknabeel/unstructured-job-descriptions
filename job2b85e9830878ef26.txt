@@ -1,0 +1,12 @@
+job_id : 2b85e9830878ef26         
+businesscategory_name : 
+title : IT Analyst
+start_date : 
+description: IT Analyst: Exp. implementing / troubleshooting Siemen’s Clinicals and Financials software - Soarian Workflows - Contract and Claims Management Soarian Clinicals is a Healthcare Information System that offers workflow-driven design, and addresses the dynamic nature of patient care. It positions healthcare organizations to manage processes, as well as clinical data, from beginning to end – across departments, disciplines, and care settings – to help improve operational efficiencies and the business of healthcare. Need to address claims management performance and improve current workflows. Analyze the current processes to determine where the organization can improve efficiency. Need to make recommendations based on assessment of workflows. Implement performance improvement processes and correct the identified deficiencies. Develop worklists to get claims through the system in a timely manner. Job Requirements: Qualifications: Bachelor’s degree or equivalent and 7 years’ exp.in healthcare workflow analysis. Highly proficient in Siemens Soarian software;implementation and/or trouble shooting exp. Experience in documenting Revenue Cycle and Financial workflows. Knowledge of claims management: submissions, denials and appeals; claims suppression. Process Improvement & Reengineering experience. Strong analytical and problem solving and troubleshooting skills. Ability to recommend and implement process improvements. Need References! 
+company_name : Warbird Consulting Partners SoutheastHEALTH United States Army United States Army
+city : Cape Girardeau, MO Cape Girardeau, MO Cape Girardeau, MO Cape Girardeau, MO
+jobtype : 
+positions : 
+tags : 
+state : 
+      

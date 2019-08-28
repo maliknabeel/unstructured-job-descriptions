@@ -1,0 +1,12 @@
+job_id : 00a59358e810216c         
+businesscategory_name : 
+title : Service Desk Support Specialist Level 1
+start_date : 
+description: ***This Position is Contingent upon Contract Award Description: Provides Tier 1 support to end-users which includes the basic application software and/or hardware support to callers May interact with Tier 2 network services, software systems engineering, and/or applications development to restore service and/or identify and correct core problem Simulates or recreates user problems to resolve operating difficulties Recommends sysems modifications to reduce user problems Maintains currency and high level of technical skill in field of expertise Forwards unresolved issues to escalate the problem to Tier 2 Service Desk consultants or other appropriate tier for closure Required Certification: IAT-Level I (either CompTIA A+ or CompTIA Network+) Certification Education/Experience: Bachelor's Degree or equivalent and 3-5 years of general IT/IS experience Clearance Required: Top Secret 
+company_name : RLM Communications, Inc. Morfologica Jacobs Technology HP
+city : Fort Belvoir, VA Reston, VA Fort Belvoir, VA Washington, DC
+jobtype : 
+positions : 
+tags : 
+state : 
+      

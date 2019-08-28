@@ -1,0 +1,12 @@
+job_id : 1da8927ad80f97a9         
+businesscategory_name : 
+title : IT Service Desk Analyst
+start_date : 
+description: Kilpatrick Townsend is currently seeking an IT Service Desk Analyst for the 12:30 pm until 9:00 pm. shift. This position provides 24/7 1st level support to the entire firm on all IT related issues. Must possess strong customer service skills, excellent communication and problem solving skills and the ability to work well under pressure. In addition the ideal candidate must be able to learn new skills and technology quickly and be able to effectively communicate with legal professionals at all levels. ESSENTIAL JOB FUNCTIONS: Respond to IT Service Desk queries received via telephone, emails and voicemails within defined SLA Track all support calls received in the IT Service Desk ticketing application When necessary escalate tickets to 2nd and/or 3rd level in a timely manner Ensure detailed troubleshooting steps are noted in tickets before escalating Maintain a high degree of proficiency in the features, functions, and uses of Microsoft Office, Microsoft Windows XP as well as Interwoven & other legal specific applications. Loaner equipment setup and tracking User account administration Collaborate with other IT Service Desk Analysts on new technology and resolutions. Maintain knowledgebase. Create and maintain documentation as required, pertaining to the daily support of applications Participate in team projects that enhance the quality or efficiency of IT Service Desk service. Assist in special projects as assigned by the Manager of Service Desk. Provide on-call assistance on a rotation basis when required. KNOWLEDGE/SKILLS REQUIRED: Two+ years experience in the use and functions of microcomputers, preferably in a legal environment. A two-year degree in a computer-related major is preferred. Must possess good communication skills. Must be able to effectively communicate with and to legal professional. Kilpatrick Townsend & Stockton LLP is committed to equal employment opportunity for all persons, regardless of race, color, religion, sex or gender, national origin, age, veteran status, disability, sexual orientation, gender identity, or any other basis prohibited by applicable law. 
+company_name : Kilpatrick Townsend & Stockton Dell DeKalb Medical J&J Management Service, Inc.
+city : Atlanta, GA Atlanta, GA North Decatur, GA Norcross, GA
+jobtype : 
+positions : 
+tags : 
+state : 
+      

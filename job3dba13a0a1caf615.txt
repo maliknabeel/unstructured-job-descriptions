@@ -1,0 +1,12 @@
+job_id : 3dba13a0a1caf615         
+businesscategory_name : 
+title : Senior Help Desk Coordinator
+start_date : 
+description: This person is responsible for supporting the timely process through which system problems and end-user (customer) issues of a high-level complexity are resolved using available remote tools, may elevate problems to appropriate product specialist or follow a defined escalation process forwarding desktop problems of unusual complexity to the Coordinator Lead or Analyst. Provides office product support, Coordinates enterprise wide downtimes involving appropriate resources and providing sufficient end-user communication. Ensures prompt and accurate completion of batch jobs, reports, and other documents for all Data Processing needs. Monitors the status of all high availability systems, multi user systems and interfaces. Provides guidance/training to less experienced personnel. Minimum Requirements: High School graduate with Help Desk training and/or Associates Degree in related field; Minimum three year of Help Desk experience; Experience with public contact is preferred; Must possess a valid New York State driver’s license. 
+company_name : Bassett Healthcare
+city : Cooperstown, NY
+jobtype : 
+positions : 
+tags : 
+state : 
+      

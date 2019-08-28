@@ -1,0 +1,12 @@
+job_id : 1ab2039130082380         
+businesscategory_name : 
+title : IT Support Technician
+start_date : 
+description: The Position: This position requires a person with professional customer service, computer, networking, and application troubleshooting skills. In this position, you will provide timely help desk support by responding to end user questions and problems, assist on-site IT personnel to maintain servers, devices, desktops, peripherals, and telecommunications hardware and software. This position reports to Manager, Technical Support. Education and Skills Requirements: Bachelor’s degree in IT or related field plus MCP, preferred Proficiency with IP Telephony and associated technologies Intermediate knowledge with MS Windows Server 2003/2008, Active Directory and IP networking (DNS, DHCP, WINS) within a Windows environment Experience in supporting Windows 7 and Heterogeneous environments Intermediate knowledge of the Microsoft Office 2010 Suite Intermediate knowledge of SharePoint and intranet site support and technologies Intermediate technical knowledge and troubleshooting of computer servers and work stations, printers, fax and copy machines, and VOIP telephones Strong interpersonal, communication, and telephone skills to ensure excellent customer service Proven problem-solving skills Ability to prioritize and escalate issues when appropriate Ability to handle a dynamic environment, be self-motivated and proactive Ability to lift up to 40 pounds Required Skills Required Experience 
+company_name : Sarepta Therapeutics Edgelink So Delicious Dairy Free SMARTECH
+city : Corvallis, OR Salem, OR Springfield, OR Salem, OR
+jobtype : 
+positions : 
+tags : 
+state : 
+      
