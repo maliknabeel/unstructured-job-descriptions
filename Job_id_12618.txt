@@ -1,0 +1,89 @@
+job_id : 12618
+businesscategory_name : Architecture and Engineering
+title : VP of Technology/CTO
+start_date : 2011-11-01 14:37:11.413814+00
+end_date : 2011-12-01 14:37:11.250403+00
+description: VP of Technology/CTO
+
+ 
+Job description:
+
+The VP of Technology/CTO will be a foundational team member to help architect the monetization platform for subscription-based products including Software-As-A-Service (SAAS), Content of any type or Cloud Computing Services.
+
+The VP of Technology/CTO will be responsible for leading the development, QA and technical operations, while working with the CEO and marketing staff to deliver solutions to our customers.
+
+The VP of Technology/CTO will manage the growth and development of our technical offshore team, as well as establish processes, procedures and metrics to ensure high availability and customer satisfaction.
+
+The position reports to the CEO and is based in the San Francisco Bay Area, CA.
+
+ 
+Responsibilities:
+
+• Provide engineering leadership. A key focus for this position will be to develop a communication between the billing/subscription service provider, enterprise applications (accounting, payment processing, invoicing, CRM) and third-party products.
+
+• Set the standards and guidelines for platform development/product harmonization processes and deliverables, measure performance against the standards, and drive improvements when and where needed.
+
+• Recruit, manage and motivate the engineering team in a hands-on capacity. You will define, develop and contribute to the code when needed.
+
+• Utilize external resources as necessary tointegrate high-quality products and develop the ecommerce “Go To Market” solution.
+
+• Set the technical direction for the team, work with the CEO to drive the evolution of the systems architecture, and make appropriate technology decisions.
+
+• Manage the entire development life-cycle: develop project and resource plans/schedules; perform day-to-day project management to ensure successful, on-time release; assist team in accomplishing all tasks; and demonstrate ownership and accountability for the entire product delivery process.
+
+• Plan projects and timelines in detail and provide visibility into detailed tracking of project status, as well as analysis of impacts of scope changes/resource reallocation on release timelines.
+
+• Represent the Technology Team externally in board meetings, at customer meetings and at industry events.
+
+ 
+Desired skills & Experience:
+
+• Prior experience as Software Director or VP in an early stage startup.
+
+• 5-8 years of software development experience building and scaling web applications.
+
+• Track record of building motivated, efficient, effective offshore engineering teams (India, Eastern Europe or South America).
+
+• Experience with deploying into a cloud infrastructure, such as AWS.
+
+• Demonstrated experience in leading the architecture, design, development, testing, delivery of highly available, large scale, high performance web applications.
+
+• Technically competent with strong knowledge of architecture, large scale systems, Java, MySQL, Web Service APIs, C++ or other similar object oriented languages for the Internet.
+
+• Experience developing and delivering products in a SaaS model.
+
+• Experience in developing Ecommerce oriented applications.
+
+• Technically proficient in security protocols such as SHA, RSH, etc.
+
+• Experience in designing fully rounded products with focus on Customer Experience.
+
+• Experience with product life-cycle process from conception through development into production.
+
+• Excellent written and verbal skills.
+
+• BS/MS in CS, EE (preferred) or other technical discipline.
+
+company_name : CloudNCo, Inc.
+city : San Francisco Bay Area 
+country : USA
+jobtype : Full Time/Permanent
+positions : 1
+priority : 0
+creation_date : 2011-11-01 14:37:09.945019+00
+status : t
+minage : 0
+maxage : 0
+description1 :
+experiencetext :
+salary :
+minexperience :
+maxexperience :
+job_views : 3715
+website : 
+email : mdejardins@gmail.com
+publish : 1
+featured : 0
+tags :  cto,vp,software engineering,information technology,development,e-commerce,infrastructure
+state : California,CA
+
